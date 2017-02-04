@@ -7,7 +7,7 @@ import unicodedata
 language_client = language.Client()
 
 #open JSONs
-with open('../news/politics/politics.json','r') as infile:
+with open('../news/entertainment/entertainment.json','r') as infile:
   newsJSON = json.load(infile)
 
 # The text to analyze
@@ -28,6 +28,6 @@ for news_article in newsJSON:
 
   print news_article
 
-with open('../news/politics/politics.json','w') as outfile:
+with open('../news/entertainment/entertainment.json','w') as outfile:
   json.dump(newsJSON,outfile,sort_keys=True,indent=2)
 

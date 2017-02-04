@@ -1,0 +1,702 @@
+[
+  {
+    "headLine": "Macron offers refuge in France to U.S. scientists, entrepreneurs", 
+    "id": 1, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=n3TNNo8i7JISbavV-zg_FxxQRhMLrYd9riSs3yL5HAw&v=1&r=http%3a%2f%2fuk.reuters.com%2farticle%2fuk-france-election-macron-idUKKBN15J0SK%3fil%3d0&p=DevEx,5206.1"
+  }, 
+  {
+    "headLine": "Asteroids that could lead to a DOOMSDAY are on course for Earth...but not for at least another 1.35 million years", 
+    "id": 2, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=L3nbWPRxTC5E5xTzv3vnPhD_L1dTcKaROcXN-o8X9k8&v=1&r=http%3a%2f%2fwww.dailymail.co.uk%2fsciencetech%2farticle-4179552%2fAsteroids-strike-not-1-3-million-years.html&p=DevEx,5007.1"
+  }, 
+  {
+    "headLine": "Broad Haven UFO sightings marked 40 years on", 
+    "id": 3, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=e7uo9xMfp6kieDdd429eZTh9fpAlOZE2tIq15zXyWKU&v=1&r=http%3a%2f%2fwww.bbc.co.uk%2fnews%2fuk-wales-south-west-wales-38723643&p=DevEx,5009.1"
+  }, 
+  {
+    "headLine": "Nintendo Switch News: New Prices give Nintendo edge over PS4 Pro and Xbox One S", 
+    "id": 4, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=6xw1J6JwM6Hu1QApq86iWVnOndb3TBQkPVhTsXYeXkU&v=1&r=http%3a%2f%2fwww.dailystar.co.uk%2ftech%2fgaming%2f585205%2fNintendo-Switch-News-Price-PS4-Pro-Xbox-One-S&p=DevEx,5213.1"
+  }, 
+  {
+    "headLine": "Social media 'echo chamber' causing political tunnel vision, study finds", 
+    "id": 5, 
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": -0.7, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=kkMbxV07fIZUnrycfYcKlVqzHDEABo2YlxN8-h1Lhsg&v=1&r=http%3a%2f%2fnews.sky.com%2fstory%2fsocial-media-echo-chamber-causing-political-tunnel-vision-study-finds-10755219&p=DevEx,5013.1"
+  }, 
+  {
+    "headLine": "CEB Needs To Pay Consumers Rs. 10.4 Billion For 2014", 
+    "id": 6, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": -0.6, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=YCbPMBk04Xjg1p8Nx7tP1KGtUnigOKwVEMyRhZ9YBIE&v=1&r=http%3a%2f%2fwww.thesundayleader.lk%2f2017%2f02%2f05%2fceb-needs-to-pay-consumers-rs-10-4-billion-for-2014%2f&p=DevEx,5015.1"
+  }, 
+  {
+    "headLine": "IMDb to shut down its messaging boards", 
+    "id": 7, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=34qALLEY5UmdHTWG9YIpfzhPkkdnmGp-HX9tZvcy2hE&v=1&r=http%3a%2f%2fwww.independent.co.uk%2farts-entertainment%2ffilms%2fnews%2fimdb-message-boards-shut-down-why-films-a7562701.html&p=DevEx,5017.1"
+  }, 
+  {
+    "headLine": "The incredible image of a psychedelic supernova: Researchers simulate superluminous stellar explosion in 2D", 
+    "id": 8, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=PYkl-0HI4XcMRuzISOuwEHD3widMkqqty81ZWOtCeTM&v=1&r=http%3a%2f%2fwww.dailymail.co.uk%2fsciencetech%2farticle-4190196%2fThe-incredible-image-psychedelic-supernova.html&p=DevEx,5019.1"
+  }, 
+  {
+    "headLine": "Rare, tiny 'cave squeaker' frog seen for first time in decades", 
+    "id": 9, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": -0.4, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=kzgSRptshfmFBFdj9SM42nK5lPHryHtFDTNvoqtwPtg&v=1&r=http%3a%2f%2fwww.stthomastimesjournal.com%2f2017%2f02%2f04%2frare-tiny-cave-squeaker-frog-seen-for-first-time-in-decades&p=DevEx,5021.1"
+  }, 
+  {
+    "headLine": "Chicken wings or pizza? Adobe discusses Super Bowl insights", 
+    "id": 10, 
+    "sentiment_magnitude": 0.8, 
+    "sentiment_score": 0, 
+    "url": "https://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=11pmbUQ4cDG1sy2B74lJshbFfkJ6SECMfx-xHnVpIQM&v=1&r=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fchicken-wings-pizza-adobe-discusses-180126372.html&p=DevEx,5023.1"
+  }, 
+  {
+    "headLine": "The car safety revolution: it's better to avoid crashing in the first place", 
+    "id": 11, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=lNOFwMa3qaLP08kAU-a0LoH3rTlcXauTXamxr66sYy0&v=1&r=http%3a%2f%2fwww.telegraph.co.uk%2fcars%2ffeatures%2fcar-safety-revolution-better-avoid-crashing-first-place%2f&p=DevEx,5025.1"
+  }, 
+  {
+    "headLine": "This game allows you to punch white supremacist Richard Spencer over and over again", 
+    "id": 12, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=VIk8E9gNQcyjIZzSZ-awFaoaIxBAE0h3ZZHQK2T2WI8&v=1&r=http%3a%2f%2fmetro.co.uk%2f2017%2f02%2f04%2fthis-game-allows-you-to-punch-white-supremacist-richard-spencer-over-and-over-again-6427467%2f&p=DevEx,5027.1"
+  }, 
+  {
+    "headLine": "Super Mario Odyssey, Breath of the Wild and Splatoon 2 Lead Switch Reveal Trailer Views", 
+    "id": 13, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=0nyxw9otPSOP9tyh9J8m0yZBEGQhqzAZopf6ENMRDJ4&v=1&r=http%3a%2f%2fwww.nintendolife.com%2fnews%2f2017%2f02%2fsuper_mario_odyssey_breath_of_the_wild_and_splatoon_2_lead_switch_reveal_trailer_views&p=DevEx,5029.1"
+  }, 
+  {
+    "headLine": "Google, unlike Microsoft, must turn over foreign emails: U.S. judge", 
+    "id": 14, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=loUAM-7b6_WVtUPqsnZ7pDp4eWHbbWd5JZUhz_uxZec&v=1&r=http%3a%2f%2fwww.reuters.com%2farticle%2fus-google-usa-warrant-idUSKBN15J0ON&p=DevEx,5031.1"
+  }, 
+  {
+    "headLine": "Earth will be hit by an asteroid that WILL wipe out life\u2026 but not for another million years, say boffins", 
+    "id": 15, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": -0.3, 
+    "url": "https://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=IbKh2Q4nhNSwlQtcnnqhkRrZ422Lzblj2pnpO8rSBQk&v=1&r=https%3a%2f%2fwww.thesun.co.uk%2fnews%2f2785937%2fwill-earth-be-hit-by-asteroid%2f&p=DevEx,5033.1"
+  }, 
+  {
+    "headLine": "Gaga's half-time turn", 
+    "id": 16, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=-mm0PxFeBCz9x-QPRCkPlkG-6GUIpXVDwn9WcrzUG8s&v=1&r=http%3a%2f%2fwww.bbc.co.uk%2fnews%2fentertainment-arts-38862135&p=DevEx,5035.1"
+  }, 
+  {
+    "headLine": "Asia's digital future must include all", 
+    "id": 17, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.6, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=kx8PEg9f4vs3uy-f0QBDT1LNo6FNS8GOH1GKn-ize9o&v=1&r=http%3a%2f%2fwww.thedailystar.net%2fbusiness%2fasias-digital-future-must-include-all-1356247&p=DevEx,5037.1"
+  }, 
+  {
+    "headLine": "PS4 NEWS: HUGE new PlayStation 4 update solves console's biggest problem", 
+    "id": 18, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=liL4PpIAT7JYCaSKvN_dJ1Sral6XVUBoA9FhnMOTDbw&v=1&r=http%3a%2f%2fwww.express.co.uk%2fentertainment%2fgaming%2f762799%2fPS4-news-update-external-hard-drive-PS4-Pro-mode&p=DevEx,5233.1"
+  }, 
+  {
+    "headLine": "PlayStation owners can now download this excellent PS4 VR game for FREE", 
+    "id": 19, 
+    "sentiment_magnitude": 0.8, 
+    "sentiment_score": 0.8, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=Tz06vmhYVlXZIlur-2wGtsNfCCtpmDu1B6nGBSxBaZc&v=1&r=http%3a%2f%2fwww.dailystar.co.uk%2ftech%2fgaming%2f585209%2fPlayStation-PS4-VR-game-FREE-PLAYROOM-VR&p=DevEx,5041.1"
+  }, 
+  {
+    "headLine": "Frog not seen in decades discovered in Africa", 
+    "id": 20, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=brHR2G2Zy_ssvykjfheGKtgLyPbxsM-J3jIcMUm6_Rk&v=1&r=http%3a%2f%2fwww.independent.co.uk%2fnews%2fworld%2fafrica%2ffrog-africa-cave-squeaker-zimbabwe-a7562966.html&p=DevEx,5043.1"
+  }, 
+  {
+    "headLine": "US utilities seek sun as Trump sides with coal, fossil fuels", 
+    "id": 21, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=ijRk7mwRIoRZmJpOWZdSjObcYiNi4zSIK030D6bUT94&v=1&r=http%3a%2f%2finfotel.ca%2fnewsitem%2fus-community-solar-power%2fcp70191888&p=DevEx,5045.1"
+  }, 
+  {
+    "headLine": "The changing face of Newcastle Breweries site: from coal mining to science hub", 
+    "id": 22, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=ikdUKfAqKn3lbqT02odamU2y8poTOMk82AkiRPJkQUs&v=1&r=http%3a%2f%2fwww.chroniclelive.co.uk%2fnews%2fnorth-east-news%2fchanging-face-newcastle-breweries-site-12556383&p=DevEx,5047.1"
+  }, 
+  {
+    "headLine": "TECH BREAKTHROUGH: Scientists see location of 23,000 atoms in huge PC boost", 
+    "id": 23, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=Gfdt08bBPYzheUNugNK6-9BpD4b9_uf80t30XQyScF8&v=1&r=http%3a%2f%2fwww.express.co.uk%2fnews%2fscience%2f763106%2fTECH-BREAKTHROUGH-Scientists-see-location-of-23-000-atoms-in-huge-PC-boost&p=DevEx,5049.1"
+  }, 
+  {
+    "headLine": "ProShare Advisors LLC Sells 1,703 Shares of First Solar, Inc. (FSLR)", 
+    "id": 24, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.1, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=8pTKYIoiAjqFCvHIvxYClAO2g9Z7zOZ-hAEPsiD4Shg&v=1&r=http%3a%2f%2fwww.financial-market-news.com%2fproshare-advisors-llc-sells-1703-shares-of-first-solar-inc-fslr%2f1298659%2f&p=DevEx,5051.1"
+  }, 
+  {
+    "headLine": "John Lindberg: Leaving Euratom would be a disaster", 
+    "id": 25, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=8Rcw6q9OVzPi4GDBNZQXs_L3HinLKEBuL-YOkVQ8BLc&v=1&r=http%3a%2f%2fwww.conservativehome.com%2fplatform%2f2017%2f02%2fjohn-lindberg-leaving-euratom-would-be-a-disaster.html&p=DevEx,5053.1"
+  }, 
+  {
+    "headLine": "William Blair Research Analysts Lower Earnings Estimates for SAP SE (SAP)", 
+    "id": 26, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
+    "url": "https://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=XpmTxbXK_L8t3b9cO2VkgQQ-Ryvez_KYE8RLtYxCgI8&v=1&r=https%3a%2f%2fwww.thecerbatgem.com%2f2017%2f02%2f04%2fwilliam-blair-research-analysts-lower-earnings-estimates-for-sap-se-sap.html&p=DevEx,5055.1"
+  }, 
+  {
+    "headLine": "Arthur J. Gallagher & Co. (AJG) Director David S. Johnson Sells 3,125 Shares of Stock", 
+    "id": 27, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
+    "url": "https://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=ktyW36EXW887ENQ3wYbThN6qLb9XQlIwJcbqD59VA8U&v=1&r=https%3a%2f%2fwww.thecerbatgem.com%2f2017%2f02%2f04%2farthur-j-gallagher-co-ajg-director-david-s-johnson-sells-3125-shares-of-stock.html&p=DevEx,5057.1"
+  }, 
+  {
+    "headLine": "Poll: Has Your PS4 Started to Run a Little Slower Lately?", 
+    "id": 28, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": -0.5, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=HjCkUNSGx-DnjYPVZ2hY4snXI9-1bF_1UUsf8Pg7ayM&v=1&r=http%3a%2f%2fwww.pushsquare.com%2fnews%2f2017%2f02%2fpoll_has_your_ps4_started_to_run_a_little_slower_lately&p=DevEx,5059.1"
+  }, 
+  {
+    "headLine": "What is Xbox One Project Scorpio? Everything you need to know about Microsoft's 4K, VR console", 
+    "id": 29, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.3, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=YA-CW4YqVKETHEoPzSQwHMYQeOPgThJHb9m0G4eq6dU&v=1&r=http%3a%2f%2fwww.ibtimes.co.uk%2fwhat-xbox-one-project-scorpio-everything-you-need-know-about-microsofts-4k-vr-console-1604698&p=DevEx,5061.1"
+  }, 
+  {
+    "headLine": "ProShare Advisors LLC Sells 11,287 Shares of F5 Networks, Inc. (FFIV)", 
+    "id": 30, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.1, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=jN9zIHgBc_KT7KAIzMiNcXj9HqRU-QlQh9xXyJm0O6k&v=1&r=http%3a%2f%2fwww.financial-market-news.com%2fproshare-advisors-llc-sells-11287-shares-of-f5-networks-inc-ffiv%2f1298663%2f&p=DevEx,5063.1"
+  }, 
+  {
+    "headLine": "Teen finds cheap way to turn salt water into safe drinking water", 
+    "id": 31, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=qaBrlyZPlQtzcWYEAI7eFvwVQtF9lwduM6ljQqKzbAc&v=1&r=http%3a%2f%2fmetro.co.uk%2f2017%2f02%2f04%2fteen-finds-cheap-way-to-turn-salt-water-into-safe-drinking-water-6426659%2f&p=DevEx,5065.1"
+  }, 
+  {
+    "headLine": "Ready at Dawn's Deformers has been delayed just ahead of launch", 
+    "id": 32, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=Kn-qL7TA3Yyl7kiJXGEVcO9P_QQ0wQBDapd5PVrvN0o&v=1&r=http%3a%2f%2fwww.eurogamer.net%2farticles%2f2017-02-04-ready-at-dawns-deformers-has-been-delayed-just-ahead-of-launch&p=DevEx,5067.1"
+  }, 
+  {
+    "headLine": "'Fantastic' Roman mosaic floor discovered in Leicester during city centre excavations", 
+    "id": 33, 
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": 0.7, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=4cUwLPldjO8f0E0T8JsbrUBAtjKU_sPyQyKOW8wGaSc&v=1&r=http%3a%2f%2fwww.leicestermercury.co.uk%2flargest-roman-mosaic-floor-found-in-leicester-for-30-years%2fstory-30110162-detail%2fstory.html&p=DevEx,5069.1"
+  }, 
+  {
+    "headLine": "Revolutionary? New Device Guarantees to Teach You to Play Guitar in 60 Seconds", 
+    "id": 34, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.3, 
+    "url": "https://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=d9OLZkUKqmmcmHImDiS-UQv11i4vyb6rRIRrDNebnkI&v=1&r=https%3a%2f%2fwww.ultimate-guitar.com%2fnews%2fgeneral_music_news%2frevolutionary_new_device_guarantees_to_teach_you_to_play_guitar_in_60_seconds.html&p=DevEx,5071.1"
+  }, 
+  {
+    "headLine": "Kirdford man to run for snow leopard protection projects", 
+    "id": 35, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=xeHeglSi4YHwKhbpo6ag4m-PmGUPvyk70LjdfEbKURw&v=1&r=http%3a%2f%2fwww.midhurstandpetworth.co.uk%2fnews%2fkirdford-man-to-run-for-snow-leopard-protection-projects-1-7790761&p=DevEx,5073.1"
+  }, 
+  {
+    "headLine": "Why Poker, Dating Dapps Chose Ethereum", 
+    "id": 36, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
+    "url": "https://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=Zt6eciVO_cNyn_mvrl0WIibmE9MgfhwR-pkIh0NbIXI&v=1&r=https%3a%2f%2fcointelegraph.com%2fnews%2fwhy-poker-dating-dapps-chose-ethereum&p=DevEx,5075.1"
+  }, 
+  {
+    "headLine": "Seattle judge blocks Trump immigration order", 
+    "id": 37, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=qDKeIc_etwiZ76FDF6-737FFFLW76xnk_IR00YgewDI&v=1&r=http%3a%2f%2fuk.reuters.com%2fvideo%2f2017%2f02%2f04%2fseattle-judge-blocks-trump-immigration-o%3fvideoId%3d371061600%26newsChannel%3dmiddle-east&p=DevEx,5077.1"
+  }, 
+  {
+    "headLine": "Tesla Vehicles Now Available To Order In Portugal \u2013 First Deliveries In Q2 2017", 
+    "id": 38, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=QKCpYWwYBDbCH_jdHG69DiPEskAe_4L_OVS3YSWuakg&v=1&r=http%3a%2f%2finsideevs.com%2ftesla-vehicles-now-available-to-order-in-portugal-first-deliveries-in-q2-2017%2f&p=DevEx,5256.1"
+  }, 
+  {
+    "headLine": "Experience A Touch Of Genius", 
+    "id": 39, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=uhZgmNtzD9Z1tVT_65QLB8SR6WtC-f5voG9Eai8vcHs&v=1&r=http%3a%2f%2fwww.thesundayleader.lk%2f2017%2f02%2f05%2fexperience-a-touch-of-genius%2f&p=DevEx,5081.1"
+  }, 
+  {
+    "headLine": "This is how far germs from a cough or sneeze can travel\u2026 and it\u2019s utterly gross", 
+    "id": 40, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": -0.6, 
+    "url": "https://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=lwvQThsSPezl1eXuavF3R3QD2AunI0PYHWtvlgO-Jo4&v=1&r=https%3a%2f%2fwww.thesun.co.uk%2fliving%2f2784458%2fthis-is-how-far-germs-from-a-cough-or-sneeze-can-travel-and-its-utterly-gross%2f&p=DevEx,5083.1"
+  }, 
+  {
+    "headLine": "Celebrate the best of the county when Staffordshire Day returns on May 1", 
+    "id": 41, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=xU5JDvtg6ymdPyv4HY7Kc_0XkBNYzp7Tg3QRanvOF8A&v=1&r=http%3a%2f%2fwww.staffordshirenewsletter.co.uk%2fcelebrate-the-best-of-the-county-when-staffordshire-day-returns-on-may-1%2fstory-30110433-detail%2fstory.html&p=DevEx,5085.1"
+  }, 
+  {
+    "headLine": "WATCH: LGBTI engineers reveal coming out stories and career triumphs", 
+    "id": 42, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=Ti8w1y5iSSLe7fshm0sXEeaTF2G0PQ0A3pNASTeggvM&v=1&r=http%3a%2f%2fwww.gaystarnews.com%2farticle%2fwatch-lgbti-engineers-reveal-coming-out-stories-and-career-triumphs%2f&p=DevEx,5087.1"
+  }, 
+  {
+    "headLine": "404 Ink prove print publishers need not fear the internet", 
+    "id": 43, 
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": 0.7, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=I7iruoq-rCL09XGA5bvfh3uCwL7ze41X45gav0OxvBE&v=1&r=http%3a%2f%2fwww.scotsman.com%2ffuture-scotland%2ftech%2f404-ink-prove-print-publishers-need-not-fear-the-internet-1-4356597&p=DevEx,5089.1"
+  }, 
+  {
+    "headLine": "Is Snapchat the new Facebook?", 
+    "id": 44, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
+    "url": "https://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=CVj6P0wQwwblVELEVl_PGxONI9Kh4ozBJdJeEUIIio4&v=1&r=https%3a%2f%2fwww.theguardian.com%2fmedia%2f2017%2ffeb%2f03%2fis-snapchat-the-new-facebook&p=DevEx,5091.1"
+  }, 
+  {
+    "headLine": "Sony is bringing HDR to its 1080p TVs, and not just PS4 owners will benefit", 
+    "id": 45, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=w59lesX3htGLLAaaY2KoriRp-hXytWX2XgrTB-HJsuQ&v=1&r=http%3a%2f%2fwww.techradar.com%2fnews%2fsony-is-bringing-hdr-to-its-1080p-tvs-but-only-ps4-owners-will-benefit&p=DevEx,5093.1"
+  }, 
+  {
+    "headLine": "Lawsuit against Apple alleges the company broke Facetime on iOS 6", 
+    "id": 46, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": -0.4, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=MwCO0cwQn2bsoG5EwDt5hEacynfQbXo5ZAUpwAAJuno&v=1&r=http%3a%2f%2ftechaeris.com%2f2017%2f02%2f04%2flawsuit-against-apple-alleges-company-broke-facetime-ios-6%2f&p=DevEx,5095.1"
+  }, 
+  {
+    "headLine": "VW unveil all-new Camper van - and it's electric", 
+    "id": 47, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=S30eyHR858rQltKySBoLbKei-2gg-JBikJfFWKzhc5Q&v=1&r=http%3a%2f%2fwww.coventrytelegraph.net%2fnews%2fvw-unveil-new-camper-van-12546268&p=DevEx,5097.1"
+  }, 
+  {
+    "headLine": "Data must have a user-centred focus, GDS says", 
+    "id": 48, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": -0.3, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=rUK-xV2WiPeOfnTduKgkXmDD-Dqa7I9n6yNlPzTgMmI&v=1&r=http%3a%2f%2fwww.digitalbydefaultnews.co.uk%2f2017%2f02%2f02%2fdata-must-have-a-user-centred-focus-gds-says%2f&p=DevEx,5099.1"
+  }, 
+  {
+    "headLine": "Tech Crunch: Chevrolet Bolt Is A \u201cVehicle Capable Of Leading The Industry\u201d (w/videos)", 
+    "id": 49, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=kH3lXhfwXJjTY62IyzY1TQV66UU9wLQBSSkszX4aUkM&v=1&r=http%3a%2f%2finsideevs.com%2ftech-crunch-chevrolet-bolt-capable-leading-industry-wvideo%2f&p=DevEx,5101.1"
+  }, 
+  {
+    "headLine": "VIDEO: MP visits scientific vacuum firm", 
+    "id": 50, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=snhScd9YNUYDd7lZY0tRCe_iztq3Db36mxRCHOyvfDc&v=1&r=http%3a%2f%2fwww.hastingsobserver.co.uk%2fnews%2fbusiness%2fvideo-mp-visits-scientific-vacuum-firm-1-7807006&p=DevEx,5103.1"
+  }, 
+  {
+    "headLine": "Rural businesses fear tourism funding shortfall after Brexit", 
+    "id": 51, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=tjA1aRTcXahKaSU5wbcBcjXBMFm-zCM-d6DNgJ1Jgog&v=1&r=http%3a%2f%2fwww.mix96.co.uk%2fnews%2fnational%2f2215866%2frural-businesses-fear-tourism-funding-shortfall-after-brexit%2f&p=DevEx,5283.1"
+  }, 
+  {
+    "headLine": "Your insurer knows when you text and drive - and they'll make you pay", 
+    "id": 52, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": -0.3, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=m7628P11B-q3DZj3YyY9vdvRUg30GTE6NdxUVqtj9vc&v=1&r=http%3a%2f%2fwww.telegraph.co.uk%2finsurance%2fcar%2finsurer-knows-text-drive-make-pay%2f&p=DevEx,5107.1"
+  }, 
+  {
+    "headLine": "Design Museum", 
+    "id": 53, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=nZgEIKtI4wcdB0-d58IWiRp-g2sC_ZplRxiKA6-eaiA&v=1&r=http%3a%2f%2fpremierconstructionnews.com%2f2017%2f02%2f04%2fdesign-museum%2f&p=DevEx,5109.1"
+  }, 
+  {
+    "headLine": "Snapchat: How one young star makes his money", 
+    "id": 54, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": -0.3, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=oXjHOSHPcPLHpdN3AYaMPkcXr4CfQ2WU2dc2MR-LeEE&v=1&r=http%3a%2f%2fwww.bbc.com%2fnews%2fbusiness-38857878&p=DevEx,5111.1"
+  }, 
+  {
+    "headLine": "PS4 Fallout 4 Experience Could Have Been Ruined By Sony", 
+    "id": 55, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": -0.4, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=-ollw_xv3_bunEithE0Tp1MaJR2cQRV0HmUHeE_4Tns&v=1&r=http%3a%2f%2fwww.autoomobile.com%2fnews%2fps4-fallout-4-experience-could-have-been-ruined-by-sony%2f40042768%2f&p=DevEx,5113.1"
+  }, 
+  {
+    "headLine": "Five things to do before giving your teenager a smartphone", 
+    "id": 56, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
+    "url": "https://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=Uw_yQoCT61FA1HCGigwYZKRYvxQCqlBD8gsYOD28xYQ&v=1&r=https%3a%2f%2fappolicious.com%2ffive-things-to-do-before-giving-your-teenager-a-smartphone%2f&p=DevEx,5115.1"
+  }, 
+  {
+    "headLine": "New American Music Company Has Plans to 'Revolutionize the Music Industry,' But Do They Have What It Takes?", 
+    "id": 57, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
+    "url": "https://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=pITWKsyyvmHwafVs2LISKnZrM4pObQHfmR8Ae8FDnEI&v=1&r=https%3a%2f%2fwww.ultimate-guitar.com%2fnews%2fcommunity_feed%2fnew_american_music_company_has_plans_to_revolutionize_the_music_industry_but_do_they_have_what_it_takes.html&p=DevEx,5117.1"
+  }, 
+  {
+    "headLine": "Taking the plunge: why waterproof smartphones will be even better in 2018", 
+    "id": 58, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=EmRMcuKdbxxBQJ1LoKA3SlTsdZQji2I_QouE9FefWtY&v=1&r=http%3a%2f%2fwww.techradar.com%2fnews%2ftaking-the-plunge-why-waterproof-smartphones-will-be-even-better-in-2018&p=DevEx,5119.1"
+  }, 
+  {
+    "headLine": "Lunar eclipse, Snow Moon and New Year Comet to coincide in spectacular celestial display this month", 
+    "id": 59, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=ewcfKT73QkvjythESO9GFOvrVWxqaGpmOEaxcrb4q3o&v=1&r=http%3a%2f%2fwww.hulldailymail.co.uk%2flunar-eclipse-snow-moon-and-new-year-comet-to-coincide-in-spectacular-celestial-display-this-month%2fstory-30111710-detail%2fstory.html&p=DevEx,5121.1"
+  }, 
+  {
+    "headLine": "Gosport primary school hopes new bus inspires reading for all", 
+    "id": 60, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.6, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=BwlZ8vBvSzfJuBkKUi1Q45lSqmDULSPVZv9BY2af3U8&v=1&r=http%3a%2f%2fwww.portsmouth.co.uk%2four-region%2fgosport%2fgosport-primary-school-hopes-new-bus-inspires-reading-for-all-1-7806564&p=DevEx,5123.1"
+  }, 
+  {
+    "headLine": "Hacker leaks iOS and Android phone cracking tools", 
+    "id": 61, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": -0.4, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=XcR5YrhAHqE6JSKKXNT-k8JzR5FwnvId99gUzX_gJPE&v=1&r=http%3a%2f%2fwww.trustedreviews.com%2fnews%2fhacker-leaks-ios-and-android-phone-cracking-tools&p=DevEx,5125.1"
+  }, 
+  {
+    "headLine": "Planetarium opens at Esplora science centre", 
+    "id": 62, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=PP6-hz0LkaPrVRFEJuKoU2MBotIhnqGzK6PvDQ35uOU&v=1&r=http%3a%2f%2fwww.timesofmalta.com%2farticles%2fview%2f20170204%2flocal%2fplanetarium-opens-at-esplora-science-centre.638593&p=DevEx,5127.1"
+  }, 
+  {
+    "headLine": "Warner Brothers Games teases major March announcement", 
+    "id": 63, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": -0.6, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=FozQ-ZlCIElvI3PKVA_yIhGdZBIRldcsB46Kezl96Yw&v=1&r=http%3a%2f%2fwww.femalefirst.co.uk%2fgames%2fwarner-brothers-games-teases-major-march-announcement-1031451.html&p=DevEx,5129.1"
+  }, 
+  {
+    "headLine": "Google's Now Launcher will reportedly be removed from the Play Store soon", 
+    "id": 64, 
+    "sentiment_magnitude": 0.8, 
+    "sentiment_score": -0.8, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=_H6WlMAY0PzxEub0u4YE644OAIkUHHUpEp1d5rmhYRA&v=1&r=http%3a%2f%2fwww.trustedreviews.com%2fnews%2fgoogle-s-now-launcher-will-be-removed-in-coming-android-builds&p=DevEx,5131.1"
+  }, 
+  {
+    "headLine": "New app pays \u00a310 for reporting of illegally parked cars", 
+    "id": 65, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=chWykG3yExpchoc0HawCoR0VGlc6o960FVIKwoWls_E&v=1&r=http%3a%2f%2fwww.pocklingtonpost.co.uk%2fnews%2fnew-app-pays-10-for-reporting-of-illegally-parked-cars-1-8370216&p=DevEx,5133.1"
+  }, 
+  {
+    "headLine": "The wait is over: New Alnwick apartments are ready", 
+    "id": 66, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=HOvIQvzHf-ka0SnF51SEBfFfgbeCVQn2DrKxxOyhVq0&v=1&r=http%3a%2f%2fwww.northumberlandgazette.co.uk%2fnews%2fthe-wait-is-over-new-alnwick-apartments-are-ready-1-8368020&p=DevEx,5135.1"
+  }, 
+  {
+    "headLine": "Valentine's Day card ideas from Moon Pig, Sainsbury's and Funky Pigeon", 
+    "id": 67, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=ZNd4QsHTpKiQSXs3ZHraAl-arDIkRemfuVjWwfmG1vk&v=1&r=http%3a%2f%2fwww.scunthorpetelegraph.co.uk%2fvalentine-s-day-card-ideas-from-moon-pig-sainsbury-s-and-funky-pigeon%2fstory-30111638-detail%2fstory.html&p=DevEx,5137.1"
+  }, 
+  {
+    "headLine": "Join Sefton Coast Landscape Partnership for a host of family activities", 
+    "id": 68, 
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": 0.7, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=9_qaOCnjFKRmgLQ22NE0J8rH4IDBpaAU7C8L1p6eDgY&v=1&r=http%3a%2f%2fwww.southportvisiter.co.uk%2fwhats-on%2fjoin-sefton-coast-landscape-partnership-12540243&p=DevEx,5139.1"
+  }, 
+  {
+    "headLine": "Return to Morrowind in Elder Scrolls Online", 
+    "id": 69, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": -0.3, 
+    "url": "https://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=WKyJb9jno8I1TYe8HaVOZJaGcKAkFEH_2hZH5LGZ3EQ&v=1&r=https%3a%2f%2fwww.n3rdabl3.co.uk%2f2017%2f02%2f04%2f166536%2freturn-to-morrowind-in-elder-scrolls-online%2f&p=DevEx,5141.1"
+  }, 
+  {
+    "headLine": "Snapchat looks to net billions in stock market move", 
+    "id": 70, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": -0.3, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=Y7mxpu5v6n6ec6ZQOKcxAHeJJmSOwluQ3iQepi8yQiI&v=1&r=http%3a%2f%2fwww.scotsman.com%2fbusiness%2fcompanies%2ftech%2fsnapchat-looks-to-net-billions-in-stock-market-move-1-4357028&p=DevEx,5306.1"
+  }, 
+  {
+    "headLine": "What to Watch Out For Before Investing in Altcoins: Litecoin Creator", 
+    "id": 71, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
+    "url": "https://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=3YOHELH33v9nT4wICxo2SEJn1RZmB-Kb-Cl3oR9cqIc&v=1&r=https%3a%2f%2fcointelegraph.com%2fnews%2fwhat-to-watch-out-for-before-investing-in-altcoins-litecoin-creator&p=DevEx,5145.1"
+  }, 
+  {
+    "headLine": "Nursery review ratings now showing in Google search results", 
+    "id": 72, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": -0.4, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=dh7FTELH_Ck27LqLJBfjPQxb9mE_2wSxNk4Np1HC1is&v=1&r=http%3a%2f%2fwww.daynurseries.co.uk%2fnews%2farticle.cfm%2fid%2f1581708%2fnursery-review-ratings-google-search-results&p=DevEx,5147.1"
+  }, 
+  {
+    "headLine": "Teenagers see spending 12 hours a day on an iPhone as completely normal", 
+    "id": 73, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=E7f8R9SoPrywGuLMK5bdIFynbAFbJOd9QM2j_xQe6iI&v=1&r=http%3a%2f%2fwww.liverpoolecho.co.uk%2fnews%2fliverpool-news%2fteenagers-see-spending-12-hours-12544673&p=DevEx,5149.1"
+  }, 
+  {
+    "headLine": "Windows 10 Cloud may be Microsoft\u2019s answer to Google\u2019s Chrome OS", 
+    "id": 74, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=tFdDVmKJpevKfRNmDkFVsmokzp_nVJYdIYYPhUEzQso&v=1&r=http%3a%2f%2ftechaeris.com%2f2017%2f02%2f04%2fwindows-10-cloud-microsofts-answer-chrome-os%2f&p=DevEx,5151.1"
+  }, 
+  {
+    "headLine": "The Dragon Prince of Bhutan celebrates his first birthday", 
+    "id": 75, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=TkCGiWGEIFbEeIlOvuNiSRbBbjhbpg_C0BZNJzh_JOk&v=1&r=http%3a%2f%2froyalcentral.co.uk%2finternational%2fthe-dragon-prince-of-bhutan-celebrates-his-first-birthday-76010&p=DevEx,5153.1"
+  }, 
+  {
+    "headLine": "Godfathers of smartphone camera tech win \u00a31m award for world-changing innovations", 
+    "id": 76, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=TqWrixqIDXgi4XPnPUoui8nv9Gk_arhUsxG1sFh0mY8&v=1&r=http%3a%2f%2fwww.v3.co.uk%2fv3-uk%2fnews%2f3003772%2fgodfathers-of-smartphone-camera-tech-win-gbp1m-award-for-world-changing-innovations&p=DevEx,5155.1"
+  }, 
+  {
+    "headLine": "Cancer Research UK raises funds via contactless benches", 
+    "id": 77, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
+    "url": "https://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=3FAy_ABxdMe6FV2RMzZfgXyi0WKZifGMrZeTc_RSi1E&v=1&r=https%3a%2f%2ffundraising.co.uk%2f2017%2f02%2f04%2fcancer-research-uk-raises-funds-via-contactless-benches%2f&p=DevEx,5157.1"
+  }, 
+  {
+    "headLine": "In Israel, teaching kids cyber skills is a national mission", 
+    "id": 78, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=6cWInFINbk57tucMEF5qf5837zHUvl8dwgzHLgr0v_U&v=1&r=http%3a%2f%2finfotel.ca%2fnewsitem%2fml-israel-cyber-children%2fcp600004573&p=DevEx,5159.1"
+  }, 
+  {
+    "headLine": "Alibaba ramps up its expansion plans with new office in Australia", 
+    "id": 79, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=Fmceaw99YZGBU9zeXrP0J2-Nhg1RM19lTEhxRimIY4k&v=1&r=http%3a%2f%2fwww.cityam.com%2f258420%2falibaba-ramps-up-its-expansion-plans-new-office-australia-&p=DevEx,5161.1"
+  }, 
+  {
+    "headLine": "OnePlus 5 Specs, Rumors, Release Date: On Par with Samsung S8; Will it be 2017's Best Smartphone?", 
+    "id": 80, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=3mNWyAGjwdOvbDNejTOXJME9KGNWPL5uiwWbyOygilA&v=1&r=http%3a%2f%2fwww.latinoshealth.com%2farticles%2f24878%2f20170204%2foneplus-5-specs-rumors-release-date-on-par-with-samsung-s8-will-it-be-2017s-best-smartphone.htm&p=DevEx,5163.1"
+  }, 
+  {
+    "headLine": "Could adding friction to spending improve people's mental health?", 
+    "id": 81, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
+    "url": "https://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=iDMhNjoJHSy3_W8J1uOidhqrKVbUZ4eqcNXuc5VB4gY&v=1&r=https%3a%2f%2fwww.theguardian.com%2ftechnology%2f2017%2ffeb%2f04%2ftech-banking-mental-health-anxiety-bipolar-disorder&p=DevEx,5165.1"
+  }, 
+  {
+    "headLine": "AV security - unwelcome guests and visual oversight?", 
+    "id": 82, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": -0.5, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=i8FJBMflhv_-49L-dARXqqwAV0JMozQHULiAp-uvKHY&v=1&r=http%3a%2f%2fwww.computerweekly.com%2fblog%2fQuocirca-Insights%2fAV-security-unwelcome-guests-and-visual-oversight&p=DevEx,5167.1"
+  }, 
+  {
+    "headLine": "\u2018Have you seen this picture?\u2019 asks Norfolk police chief", 
+    "id": 83, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": -0.4, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=08AoXF9quSDqxhgYeY7wFO0Icbc-bIWTFJgHs5ubcVY&v=1&r=http%3a%2f%2fwww.lynnnews.co.uk%2fnews%2fhave-you-seen-this-picture-asks-norfolk-police-chief-1-7805048&p=DevEx,5169.1"
+  }, 
+  {
+    "headLine": "A secret to Tom Brady's success kept in the dark: Super pajamas", 
+    "id": 84, 
+    "sentiment_magnitude": 0.8, 
+    "sentiment_score": 0.8, 
+    "url": "https://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=KZ8zMe9srJl9ZvgLQpLGuiKnK3iSpFCN_bfxKnDeo-A&v=1&r=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fsecret-tom-bradys-success-kept-160000137.html&p=DevEx,5171.1"
+  }, 
+  {
+    "headLine": "Anonymous hackers shut down Freedom Hosting II, the largest host of dark web sites", 
+    "id": 85, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=1fdhLYZLvrIJIKQcVUtoIWIbA_nkmShyM5TmixtRqFg&v=1&r=http%3a%2f%2fwww.ibtimes.co.uk%2fanonymous-hackers-shut-down-freedom-hosting-ii-largest-host-dark-web-sites-1604834&p=DevEx,5173.1"
+  }, 
+  {
+    "headLine": "Hyperlocal focus helps weekly newspaper for City of London thrive in home of UK journalism", 
+    "id": 86, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=fORTpJuBUhntbv3LU-ZeCfqAXzl5z7Fe6Nffw8zW0ik&v=1&r=http%3a%2f%2fwww.pressgazette.co.uk%2fhyperlocal-focus-helps-weekly-newspaper-for-city-of-london-thrive-in-home-of-uk-journalism%2f&p=DevEx,5175.1"
+  }, 
+  {
+    "headLine": "GM wheat trial could offer solutions to crop\u2019s plateau", 
+    "id": 87, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=5iDyyANkBupQiIlvoY8Victr5P1Dnn8Xyc-wXljUKvc&v=1&r=http%3a%2f%2fwww.yorkshirepost.co.uk%2fnews%2fgm-wheat-trial-could-offer-solutions-to-crop-s-plateau-1-8370971&p=DevEx,5177.1"
+  }, 
+  {
+    "headLine": "LG admits premium display fails near wi-fi", 
+    "id": 88, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": -0.6, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=W-I9MUXkFdAv5YELgYdg0ow3HYxopTmsuedU6OfghY4&v=1&r=http%3a%2f%2fwww.myjoyonline.com%2ftechnology%2f2017%2fFebruary-4th%2flg-admits-premium-display-fails-near-wi-fi.php&p=DevEx,5179.1"
+  }, 
+  {
+    "headLine": "New website coming soon", 
+    "id": 89, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=sP-9L_YPy6k7jBjNFyQm2mIbZZoGTQrgrDWYupOWYYA&v=1&r=http%3a%2f%2fsouthyorks.police.uk%2fnode%2f24637&p=DevEx,5181.1"
+  }, 
+  {
+    "headLine": "What message do selfies post?", 
+    "id": 90, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=vwAMxO6P6-0UZhL-L_kRpdI2gy4gMtoNfSiLshvlBA0&v=1&r=http%3a%2f%2fwww.yorkshireeveningpost.co.uk%2fyour-leeds%2fwhat-message-do-selfies-post-1-8369548&p=DevEx,5183.1"
+  }, 
+  {
+    "headLine": "Swirling polar ice caps revealed on Mars", 
+    "id": 91, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
+    "url": "https://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=VauFHNQSn0nXyFPcEhF_J9FnAos73R8wLR0s6Cn-8go&v=1&r=https%3a%2f%2fwww.theregister.co.uk%2f2017%2f02%2f04%2fswirling_polar_ice_caps_on_mars%2f&p=DevEx,5185.1"
+  }, 
+  {
+    "headLine": "New Balance RunIQ Smartwatch launched for $299", 
+    "id": 92, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=Zyh7tQF07kHwC29cEnWcKTDhu3nfrJVOnpN8Pr7ZGCU&v=1&r=http%3a%2f%2fwww.phonesreview.co.uk%2fnew-balance-runiq-smartwatch-launched-299%2f&p=DevEx,5187.1"
+  }, 
+  {
+    "headLine": "Company briefs", 
+    "id": 93, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=XQj60W8jvY-Vg2NNOfi4mJiuvGyGBZd1gb8MfbcnhQM&v=1&r=http%3a%2f%2fwww.timesofmalta.com%2farticles%2fview%2f20170204%2fbusiness-news%2fCompany-briefs.638575&p=DevEx,5189.1"
+  }, 
+  {
+    "headLine": "MNA Digital gives school leaders the heads-up on internet marketing success", 
+    "id": 94, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=OPP-6FLtffS1P2Xz6HlZ0PSxmtAFTQJkVEwgi1M3TUI&v=1&r=http%3a%2f%2fwww.expressandstar.com%2feducation%2f2017%2f02%2f01%2fmna-digital-gives-school-leaders-the-heads-up-on-internet-marketing-success%2f&p=DevEx,5191.1"
+  }, 
+  {
+    "headLine": "PlayStation and Xbox forums HACKED exposing 2.5 million gamers' personal details", 
+    "id": 95, 
+    "sentiment_magnitude": 0.8, 
+    "sentiment_score": -0.8, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=6UL45mQ-b0Vf6KF_zdHHAZ_V0JB_opWVKLc5zokFjU4&v=1&r=http%3a%2f%2fwww.mirror.co.uk%2ftech%2fplaystation-xbox-forums-hacked-exposing-9735102&p=DevEx,5193.1"
+  }, 
+  {
+    "headLine": "Huawei P10 pictures leak giving a glimpse at the next Chinese smartphone to rival Apple and Samsung", 
+    "id": 96, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": -0.3, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=4fFNYjG1QH2PBi8nw7M5CgcCKlz5QeqYcLBBVEvKyhM&v=1&r=http%3a%2f%2fwww.mirror.co.uk%2ftech%2fhuawei-p10-pictures-leak-gives-9737652&p=DevEx,5195.1"
+  }, 
+  {
+    "headLine": "Security firm agrees many others use fear to propel sales", 
+    "id": 97, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=hIDPChuIqySMu-vQElMqKOpdGK4LLfN45qjs4AitodI&v=1&r=http%3a%2f%2fwww.computerweekly.com%2fnews%2f450412311%2fSecurity-firm-agrees-many-others-use-fear-to-propel-sales&p=DevEx,5197.1"
+  }, 
+  {
+    "headLine": "Your nude image is online and you want it removed. Follow these steps.", 
+    "id": 98, 
+    "sentiment_magnitude": 1.1, 
+    "sentiment_score": -0.1, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=sIAhs7gpvxn2fQ4skZTm8y7pwQuxqkJRXZC1Kk9GvXs&v=1&r=http%3a%2f%2fwww.12newsnow.com%2flife%2ffamily%2fif-my-parents-only-knew%2fyour-nude-image-is-online-and-you-want-it-removed-follow-these-steps%2f396799520&p=DevEx,5199.1"
+  }, 
+  {
+    "headLine": "Have you seen a red Honda quad bike after one stolen from South Devon smallholding?", 
+    "id": 99, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=YW2Qd0PBvdZPn88JPe4w9ZNLZShLlZsljN2x1ZZt8Os&v=1&r=http%3a%2f%2fwww.exeterexpressandecho.co.uk%2fhave-you-seen-a-red-honda-quad-bike-after-one-stolen-from-south-devon-smallholding%2fstory-30111312-detail%2fstory.html&p=DevEx,5201.1"
+  }, 
+  {
+    "headLine": "New website launched by Stamford Mercury Archive Trust", 
+    "id": 100, 
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": 0.7, 
+    "url": "http://www.bing.com/cr?IG=CC7D414A5EE34BB3A3EB9BEECB619CFA&CID=31EF13BADF2966B1242C19A5DECE6747&rd=1&h=p7aY5bABR5LR68xiNYqXn53McX0QqdB6XQD7L0uaT2U&v=1&r=http%3a%2f%2fwww.bournelocal.co.uk%2fnews%2fnew-website-launched-by-stamford-mercury-archive-trust-1-7804340&p=DevEx,5203.1"
+  }
+]
