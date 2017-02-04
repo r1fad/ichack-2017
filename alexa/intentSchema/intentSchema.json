@@ -1,0 +1,31 @@
+{
+  "intents": [
+    {
+      "intent": "GetNews",
+      "slots": [
+        {
+          "name": "mood",
+          "type": "LIST_OF_MOODS"
+        },
+        {
+          "name": "category",
+          "type": "LIST_OF_CATEGORIES"
+        }
+      ]
+    },
+    {
+      "intent": "GetURL",
+      "slots": [
+        {
+          "name": "SendSMS",
+          "type": "boolean"
+        },
+        {
+          "name": "mood",
+          "type": "LIST_OF_MOODS"
+        }
+      ]
+    }
+
+  ]
+}
