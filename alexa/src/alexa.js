@@ -108,18 +108,30 @@ function handleTestRequest(intent, session, callback) {
 
 function handleCategorySelection(intent, session, callback) {
 
-  var category = intent.slots.category.value || NULL;
-  var mood = intent.slots.mood.value || NULL;
+  var category = intent.slots.category.value || '';
+  var mood = intent.slots.mood.value || "happy";
 
 
   if (mood == 'sad' || mood == 'bad') {
     callback(session.attributes,
         buildSpeechletResponseWithoutCard("No.", "", "true"));
 
+  } else if (mood && category) {
+    // If mood and category exist
+    callback(session.attributes,
+        buildSpeechletResponseWithoutCard("Nothing " + mood + " in " + category
+         + " today.", "", "true"));
+  } else if (category == ''){
+    // if no category
+    callback(session.attributes,
+        buildSpeechletResponseWithoutCard("Please specify the news category: "
+         + "business, entertainment, politics, science, technology, sports, "
+         + "or world.", "", "false"));
+
   } else {
     callback(session.attributes,
-        buildSpeechletResponseWithoutCard("Nothing " + mood + " in " + category + " today.", "", "true"));
-
+        buildSpeechletResponseWithoutCard("Oops! I am unable to process your "
+         + "request. Please start over.", "", "true"));
   }
 
 }
