@@ -108,14 +108,20 @@ function handleTestRequest(intent, session, callback) {
 
 function handleCategorySelection(intent, session, callback) {
 
-  (intent.slots.category.value != '') ? var mood = intent.slots.category.value : NULL;
-  (intent.slots.mood.value != '') ? var category = intent.slots.mood.value : NULL;
+  var category = intent.slots.category.value || NULL;
+  var mood = intent.slots.mood.value || NULL;
 
 
+  if (mood == 'sad' || mood == 'bad') {
+    callback(session.attributes,
+        buildSpeechletResponseWithoutCard("No.", "", "true"));
 
+  } else {
+    callback(session.attributes,
+        buildSpeechletResponseWithoutCard("Nothing " + mood + " in " + category + " today.", "", "true"));
 
-  callback(session.attributes,
-      buildSpeechletResponseWithoutCard("Nothing " + mood + " in " + category + " today.", "", "true"));
+  }
+
 }
 
 // ------- Helper functions to build responses -------
