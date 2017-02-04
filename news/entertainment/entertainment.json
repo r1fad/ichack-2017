@@ -2,441 +2,617 @@
   {
     "headline": "Jedward still have not spoken to their dad after discovering he was 'fighting for his life in hospital'", 
     "id": 0, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=ZnwFPBkClZMq638xhDoF8H7Mt1yH-avvJjNacK2MHVY&v=1&r=http%3a%2f%2fwww.mirror.co.uk%2f3am%2fcelebrity-news%2fjedward-still-not-spoken-dad-9756129&p=DevEx,5182.1"
   }, 
   {
     "headline": "Is this what Jay Z and Beyonce's twins could look like? Celebrity age-progression expert sketches world's first portraits of future Carter babies", 
     "id": 1, 
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=BlSPllD7zNOAqFDypQ5JK17xoWWysC7vN1bw-l1hCzU&v=1&r=http%3a%2f%2fwww.dailymail.co.uk%2ftvshowbiz%2farticle-4191670%2fBeyonce-s-twins-Artist-sketches-age-progression-portrait.html&p=DevEx,5187.1"
   }, 
   {
     "headline": "David Beckham defended by Unicef following email leaks", 
     "id": 2, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=3OiYMBXvngNh8_1jbyoZSHCJ6EjHeIamUTGw3TeMw24&v=1&r=http%3a%2f%2fwww.independent.co.uk%2fnews%2fpeople%2fdavid-beckham-email-leaks-unicef-charity-work-knighthood-statement-latest-hacking-doctored-a7562511.html&p=DevEx,5009.1"
   }, 
   {
     "headline": "David Cameron joins in with Arnold Schwarzenegger's Snapchat in jibe at Donald Trump", 
     "id": 3, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=NCpRRCMiU3he_dhWw0KdSxqHi-uwFYYXolSof00WViI&v=1&r=http%3a%2f%2fwww.ibtimes.co.uk%2fdavid-cameron-joins-arnold-schwarzeneggers-snapchat-jibe-donald-trump-1604854&p=DevEx,5193.1"
   }, 
   {
     "headline": "The new mum shared the first picture of her son on Instagram", 
     "id": 4, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=GZhC12Mn9SuirkdrK92skg-9wC-lhjj1h4gwlKXKtNE&v=1&r=http%3a%2f%2fwww.mirror.co.uk%2ftv%2ftv-news%2fone-show-host-alex-jones-9758011&p=DevEx,5013.1"
   }, 
   {
     "headline": "DIIV\u2019s Zachary Cole Smith checks into rehab", 
     "id": 5, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=bCY1lWfUNyZEJz8yOy3wHNyZt8byruUPygLENZoRYCk&v=1&r=http%3a%2f%2fwww.nme.com%2fnews%2fmusic%2fdiivs-zachary-cole-smith-checks-rehab-1966993&p=DevEx,5015.1"
   }, 
   {
     "headline": "Celebrity Big Brother final voting figures show it was a two-horse race all along", 
     "id": 6, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=2HOLJCC6x_8lclj5HsoSQlVqqbfR-61FWWxqpKbHLkM&v=1&r=http%3a%2f%2fmetro.co.uk%2f2017%2f02%2f04%2fcelebrity-big-brother-final-voting-figures-show-it-was-a-two-horse-race-all-along-6427527%2f&p=DevEx,5017.1"
   }, 
   {
     "headline": "Kimberly Schlapman: 'Baby adoption was meant to be'", 
     "id": 7, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=VIpG3apDB308iEltojCIxk5uCcSQMXvV6EQFlj1Uio0&v=1&r=http%3a%2f%2fwww.belfasttelegraph.co.uk%2fentertainment%2fnews%2fkimberly-schlapman-baby-adoption-was-meant-to-be-35423034.html&p=DevEx,5019.1"
   }, 
   {
     "headline": "Who is Dannii Minogue? Let It Shine judge profile", 
     "id": 8, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=-mSTRTZkjM1909-4lIsV1gsRqjyZt2nINlEvyq50taM&v=1&r=http%3a%2f%2fwww.radiotimes.com%2fnews%2f2017-02-04%2fwho-is-dannii-minogue-let-it-shine-judge-profile&p=DevEx,5203.1"
   }, 
   {
     "headline": "Joe Satriani: The Solo I Never Should Have Recorded, It Will Haunt Me for the Rest of My Life!", 
     "id": 9, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "https://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=TY_Dv3D311ud4wERtU8jhRlzXkPT45DioQQIr3S8pvU&v=1&r=https%3a%2f%2fwww.ultimate-guitar.com%2fnews%2fgeneral_music_news%2fjoe_satriani_the_solo_i_never_should_have_recorded_it_will_haunt_me_for_the_rest_of_my_life.html&p=DevEx,5023.1"
   }, 
   {
     "headline": "Tom 'Mouse' Smith: 12-year-old singer writes brilliant 'no thank you' note to Simon Cowell and Britain's Got Talent", 
     "id": 10, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=wR-AxzfwkucGOaLe_sc7bmnYIMa5f0bFn2og6bV_i_Y&v=1&r=http%3a%2f%2fwww.independent.co.uk%2farts-entertainment%2fmusic%2fnews%2ftom-mouse-smith-singer-guitar-simon-cowell-britains-got-talent-the-charlatans-a7562941.html&p=DevEx,5025.1"
   }, 
   {
     "headline": "NRA urge Lady Gaga not to tell \u2018real Americans\u2019 \u2018how stupid and racist they are\u2019 at Super Bowl", 
     "id": 11, 
+    "sentiment_magnitude": 0.8, 
+    "sentiment_score": -0.8, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=QxSHKPNXLrgJ_yvCQnIUf7EFIuktNGMUH9ASdxNt9Ug&v=1&r=http%3a%2f%2fwww.nme.com%2fnews%2fmusic%2flady-gaga-super-bowl-nra-real-americans-1966989&p=DevEx,5211.1"
   }, 
   {
     "headline": "Andrew McGregor with Ben Walton and Anna Picard", 
     "id": 12, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=ma4T4bOVV1TEljm1dM3lMdIacJwjoot2xEr-VcOc7pQ&v=1&r=http%3a%2f%2fwww.bbc.co.uk%2fprogrammes%2fb08cgvlm&p=DevEx,5029.1"
   }, 
   {
     "headline": "First look at Stranger Things teaser being revealed during Sunday\u2019s Super Bowl", 
     "id": 13, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=uUCCZxCyH5vVdkVh04LT0AYFa2MebxORkHXnzoKDg1A&v=1&r=http%3a%2f%2fmetro.co.uk%2f2017%2f02%2f04%2ffirst-look-at-stranger-things-teaser-being-revealed-during-sundays-super-bowl-6426486%2f&p=DevEx,5031.1"
   }, 
   {
     "headline": "\u2018Trump\u2019s a b****\u2019 Eminem lays into US President and says he'll make The Donald 'go under'", 
     "id": 14, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=9joPNkaPd-dnD8WRanrRXSvptb1y2ti4Ff3hTGIOn5o&v=1&r=http%3a%2f%2fwww.express.co.uk%2fnews%2fpolitics%2f763181%2fDonald-Trump-Eminem-attack-Trump-s-a-bitch&p=DevEx,5217.1"
   }, 
   {
     "headline": "Kim Woodburn: Celebrity Big Brother winner Coleen Nolan a 'boring fag ash Lil'", 
     "id": 15, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": -0.5, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=6EdXZL5cNzn-tEgUhcYhlftz4vB-NCmTWfTkB6iVZ0s&v=1&r=http%3a%2f%2fwww.belfasttelegraph.co.uk%2fentertainment%2fnews%2fkim-woodburn-celebrity-big-brother-winner-coleen-nolan-a-boring-fag-ash-lil-35422667.html&p=DevEx,5035.1"
   }, 
   {
     "headline": "Who is Olly Murs? Let It Shine performer, TV presenter and X Factor runner up \u2013 all you need to know", 
     "id": 16, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.1, 
     "url": "https://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=vGx-ycRnoSsffilUk-ZgenLeossNn1iLrDK-sA-VM48&v=1&r=https%3a%2f%2fwww.thesun.co.uk%2ftvandshowbiz%2f2684850%2folly-murs-tv-presenter-x-factor%2f&p=DevEx,5037.1"
   }, 
   {
     "headline": "\u2018You\u2019ll get a knighthood\u2019 David Beckham and Jonathan Ross chat resurfaces amid email leak", 
     "id": 17, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=cQGjh5Ef5bJdabXDt1S7vqonGSPZOnYqP15U8gcKJ9I&v=1&r=http%3a%2f%2fwww.dailystar.co.uk%2fnews%2flatest-news%2f585259%2fDavid-Beckham-email-leak-knighthood-UNICEF-video-Jonathan-Ross-interview&p=DevEx,5222.1"
   }, 
   {
     "headline": "Who is Jennifer Hudson? The Voice UK\u2019s new judge, Dreamgirls singer and Oscar-winning actress \u2013 here\u2019s all you need to know", 
     "id": 18, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.2, 
     "url": "https://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=gtGoHafExEZeSv2bXOLZjqs6tC1L0QVqtpOcTOirrYU&v=1&r=https%3a%2f%2fwww.thesun.co.uk%2ftvandshowbiz%2f2569474%2fjennifer-hudson-voice-uk-judge-singer%2f&p=DevEx,5041.1"
   }, 
   {
     "headline": "Let It Shine! Judges and spoilers from Gary Barlow's new TV show", 
     "id": 19, 
+    "sentiment_magnitude": 0.8, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=m4O8eJ-gOCKk1g0nAkxXIHnl9M1xpjoy9sGedq7p9eE&v=1&r=http%3a%2f%2fwww.tellymix.co.uk%2freality-tv%2flet-it-shine%2f294175-let-shine-start-time-judges-spoilers-gary-barlow-new-tv-show-bbc-week-5.html&p=DevEx,5043.1"
   }, 
   {
     "headline": "Welcome to Hull - City of Culture 2017", 
     "id": 20, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=x-AeRZ3uP3R3pSqpWlrCRYkoit4XxDB7HHQDHyKjojw&v=1&r=http%3a%2f%2fwww.bbc.co.uk%2fprogrammes%2fb08fjltx&p=DevEx,5045.1"
   }, 
   {
     "headline": "The Moorside: why the Shannon Matthews abduction drama is TV at its finest", 
     "id": 21, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "https://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=cwDfXZJE9KiZR1aAFRd77iXzfeQddmgMAQE7AYxkdNw&v=1&r=https%3a%2f%2fwww.theguardian.com%2ftv-and-radio%2f2017%2ffeb%2f03%2fsheridan-smith-the-moorside-how-the-shannon-matthews-abduction-drama-is-tv-at-its-finest&p=DevEx,5047.1"
   }, 
   {
     "headline": "Bruno Mars slays at pre-Super Bowl concert in Houston", 
     "id": 22, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=90vGtwufdAjOQg7SxySsCOV7aq1bf2Uj9Fe0N-tQubI&v=1&r=http%3a%2f%2finfotel.ca%2fnewsitem%2fus-super-bowl-bruno-mars%2fcp989199535&p=DevEx,5049.1"
   }, 
   {
     "headline": "'It's been brutal' \u2013 Celebrity Big Brother winner Coleen Nolan on her experience inside the house", 
     "id": 23, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=I7pdiMdCAi5xfmCO0iqLtX7jcvznQG6jDiO3Ot1eybw&v=1&r=http%3a%2f%2fwww.telegraph.co.uk%2ftv%2f2017%2f02%2f03%2fcelebrity-big-brother-2017-finale-review-coleen-nolan-winning%2f&p=DevEx,5051.1"
   }, 
   {
     "headline": "When is Let it Shine on BBC1? Everything you need to know about Gary Barlow\u2019s talent show", 
     "id": 24, 
+    "sentiment_magnitude": 0.8, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=j9FaM0Ndi2cCISlea9ml8tao7OV1Nsq48fqev9urlvc&v=1&r=http%3a%2f%2fwww.radiotimes.com%2fnews%2f2017-02-04%2fwhen-is-let-it-shine-on-bbc1-everything-you-need-to-know-about-gary-barlows-talent-show&p=DevEx,5053.1"
   }, 
   {
     "headline": "Big Sean: is the 'best rapper of all time' finally stepping out of Kanye's shadow?", 
     "id": 25, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "https://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=82c3ltcy-GryStfSI8aE3GiBPB92oFD5i-Kq-D1qebs&v=1&r=https%3a%2f%2fwww.theguardian.com%2fmusic%2f2017%2ffeb%2f04%2fbig-sean-i-decided-kanye-west&p=DevEx,5055.1"
   }, 
   {
     "headline": "The Voice UK: Judges, contestants and spoilers on the new series!", 
     "id": 26, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=GrD4jta353oRqh3Dfr3VvoRbNcgyoraH1JPki3KNVzQ&v=1&r=http%3a%2f%2fwww.tellymix.co.uk%2freality-tv%2fthe-voice%2f296285-voice-uk-2017-judges-coaches-contestants-spoilers-week-5.html&p=DevEx,5057.1"
   }, 
   {
     "headline": "Celebrity Big Brother made huge gaffe when Coleen Nolan left the house", 
     "id": 27, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": -0.5, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=IK4mb8GuRtVZy1VDtFEZpE0l4E1tyd24XcAG-9a0W0s&v=1&r=http%3a%2f%2fwww.liverpoolecho.co.uk%2fnews%2ftv%2fcelebrity-big-brother-made-huge-12557584&p=DevEx,5059.1"
   }, 
   {
     "headline": "Heart attack left me wondering who I was says Shakin\u2019 Stevens, heading to Ipswich Regent", 
     "id": 28, 
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": 0.7, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=GdlaHJrKZLs1_qjwP112QIEd4AH1GDL52ObVHaRHuFI&v=1&r=http%3a%2f%2fwww.eadt.co.uk%2fwhat-s-on%2fheart_attack_left_me_wondering_who_i_was_says_shakin_stevens_heading_to_ipswich_regent_1_4874852&p=DevEx,5061.1"
   }, 
   {
     "headline": "Review: A Sudden Burst of Blinding Light", 
     "id": 29, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=5tDVq7hGSeO-qW4vQHhnObRF09wkSanV00nh1ctadeA&v=1&r=http%3a%2f%2fwww.tcs.cam.ac.uk%2fculture%2f0036660-review-a-sudden-burst-of-blinding-light.html&p=DevEx,5063.1"
   }, 
   {
     "headline": "Gail Porter joins Susan Boyle, Andy Murray and Lorraine Kelly to back the Scottish Sun on Sunday\u2019s Sort Our Shelters campaign", 
     "id": 30, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "https://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=s-0PAdrFikwLReQ0HqCFEkGzolRBsZXqVS1l8VGIt9Q&v=1&r=https%3a%2f%2fwww.thescottishsun.co.uk%2fnews%2f536386%2fgail-porter-joins-susan-boyle-andy-murray-and-lorraine-kelly-to-back-the-scottish-sun-on-sundays-save-our-shelters-campaign%2f&p=DevEx,5065.1"
   }, 
   {
     "headline": "Busted's Sold Out London Show Was Everything We Wanted & More", 
     "id": 31, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=zOFo35cjzT6R3J1FxDeTgMf2XoW9r2Ss1kDDcPUqRwQ&v=1&r=http%3a%2f%2fwww.mtv.co.uk%2fbusted%2fnews%2fbusted-london-sold-out-gig-review&p=DevEx,5067.1"
   }, 
   {
     "headline": "One to watch: Seejay 100", 
     "id": 32, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=YIzAZJimqeocNQ8btmZcYRXJYfYI2gcDFJXIFBhhAkc&v=1&r=http%3a%2f%2fwww.voice-online.co.uk%2farticle%2fone-watch-seejay-100&p=DevEx,5069.1"
   }, 
   {
     "headline": "Xxx: Return Of Xander Cage", 
     "id": 33, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=CUWVmy-T5sWY-AHXwKa7RMKbeMRGtpHGPnBaFmt47Ts&v=1&r=http%3a%2f%2fwww.thesundayleader.lk%2f2017%2f02%2f05%2fxxx-return-of-xander-cage%2f&p=DevEx,5071.1"
   }, 
   {
     "headline": "Who has won Celebrity Big Brother and what are they up to now?", 
     "id": 34, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": -0.5, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=2UQ-GiqBr2aEf7ZHgWL_ZuLqMMU4ISbrnaOk5SOSjHk&v=1&r=http%3a%2f%2fguernseypress.com%2flifestyle%2fshowbiz-news%2f2017%2f02%2f04%2fwho-has-won-celebrity-big-brother-and-what-are-they-up-to-now%2f&p=DevEx,5073.1"
   }, 
   {
     "headline": "The Jump: Sir Bradley Wiggins already injured but vows 'the show must go on'", 
     "id": 35, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=UAuYF6W_XdaUAoUsaWOG4ZpBPB98-79jMYVdILqZeL0&v=1&r=http%3a%2f%2fwww.standard.co.uk%2fshowbiz%2fcelebrity-news%2fthe-jump-sir-bradley-wiggins-already-injured-but-vows-the-show-must-go-on-a3458541.html&p=DevEx,5075.1"
   }, 
   {
     "headline": "Bradley Wiggins hurt in The Jump training - but insists 'the show must go on'", 
     "id": 36, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=pWE9QxmRaeXoqUK9-yNH2uJJwTIebPDISK9okoNUK9I&v=1&r=http%3a%2f%2fwww.expressandstar.com%2fentertainment%2fshowbiz-news%2f2017%2f02%2f04%2fbradley-wiggins-hurt-in-the-jump-training-but-insists-the-show-must-go-on%2f&p=DevEx,5248.1"
   }, 
   {
     "headline": "Watch as X Factor auditions visit Middlesbrough to try and find next James Arthur", 
     "id": 37, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=P5wCpzKwuJ3R59gzmDOsFd_TSx2OWhSOsjx6g5rl_zI&v=1&r=http%3a%2f%2fwww.gazettelive.co.uk%2fwhats-on%2fwhats-on-news%2fwatch-x-factor-auditions-visit-12557192&p=DevEx,5079.1"
   }, 
   {
     "headline": "Power Rangers Ninja Steel Episode 4 Details", 
     "id": 38, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.6, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=hjjBOaDxlRTVsPOUcCBfJMPkJj5U7A_oSY_XRJ4SJIg&v=1&r=http%3a%2f%2fwww.denofgeek.com%2fus%2ftv%2fpower-rangers%2f251896%2fpower-rangers-ninja-steel-episode-4-details&p=DevEx,5081.1"
   }, 
   {
     "headline": "Ghost in the Shell Trailer, Release Date, & Everything Else We Know", 
     "id": 39, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=rW2p-x2wq0f4VkscmTK2IGITlokcYo9osmJCr6BMH8g&v=1&r=http%3a%2f%2fwww.denofgeek.com%2fus%2fmovies%2fghost-in-the-shell%2f258636%2fghost-in-the-shell-trailer-release-date-everything-else-we-know&p=DevEx,5083.1"
   }, 
   {
     "headline": "Metallica Was Forced to Cut Tonight's Concert Short Due to James Hetfield's Illness", 
     "id": 40, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": -0.5, 
     "url": "https://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=oI9bdYTlPlIJ5K1W0p_XED7ZTG6_8DBMtvRlLaxMPZY&v=1&r=https%3a%2f%2fwww.ultimate-guitar.com%2fnews%2fgeneral_music_news%2fmetallica_was_forced_to_cut_tonights_concert_short_due_to_james_hetfields_illness.html&p=DevEx,5085.1"
   }, 
   {
     "headline": "Do you have the X Factor?", 
     "id": 41, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=W4ECSShuMGOtUeaKRABdKNhh4Xiyl2Zs7z2krxhOQfQ&v=1&r=http%3a%2f%2fwww.forres-gazette.co.uk%2fNews%2fDo-you-have-the-X-Factor-03022017.htm&p=DevEx,5087.1"
   }, 
   {
     "headline": "ON THIS DAY: 1959: Rock legend Buddy Holly dies - here's the story of the night the star played Doncaster", 
     "id": 42, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=Ef3I3ASvHNEIz0b7a2f6epVWFD60FEUltj02O899Y3o&v=1&r=http%3a%2f%2fwww.doncasterfreepress.co.uk%2fnews%2fon-this-day-1959-rock-legend-buddy-holly-dies-here-s-the-story-of-the-night-the-star-played-doncaster-1-8370241&p=DevEx,5089.1"
   }, 
   {
     "headline": "I'm A Celebrity winner Scarlett Moffatt splits from boyfriend", 
     "id": 43, 
+    "sentiment_magnitude": 0.9, 
+    "sentiment_score": 0.9, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=PvyVF_PzgEr6XUzun_bpXNtn-sorbHwE7u1m-O6YVYA&v=1&r=http%3a%2f%2fwww.lancashiretelegraph.co.uk%2fleisure%2fshowbiz%2f15070719.I_m_A_Celebrity_winner_Scarlett_Moffatt_splits_from_boyfriend%2f&p=DevEx,5091.1"
   }, 
   {
     "headline": "'Coronation Street' Spoilers: Michelle Connor 'Set For Romance With Robert Preston'", 
     "id": 44, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=PuAIeqBtdmEZT-_-d8ysB_j3NSMbMWnyRWo0HaC-eYI&v=1&r=http%3a%2f%2fwww.huffingtonpost.co.uk%2fentry%2fcoronation-street-spoilers-michelle-connor-steve-split_uk_5895aea5e4b0768562163861&p=DevEx,5093.1"
   }, 
   {
     "headline": "Kreator Is Back", 
     "id": 45, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=6HL2Xs13_Apg6V9mJpvyIQhKDmK3EP_jA9dxovw9Ilo&v=1&r=http%3a%2f%2fwww.thesundayleader.lk%2f2017%2f02%2f05%2fkreator-is-back%2f&p=DevEx,5095.1"
   }, 
   {
     "headline": "Female Doctor Who is a 'great opportunity' says South Derbyshire MP and fan", 
     "id": 46, 
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": 0.7, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=kMXNY6e_wASy2YCsJs7FjMeOLk7VskZdM9fUxecOQW0&v=1&r=http%3a%2f%2fwww.burtonmail.co.uk%2ffemale-doctor-who-is-great-opportunity-says-south-derbyshire-mp-fan%2fstory-30106698-detail%2fstory.html&p=DevEx,5097.1"
   }, 
   {
     "headline": "Megan McKenna and Pete Wicks look loved-up as they film for TOWIE - after THAT blazing row", 
     "id": 47, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=AXEq869I10zVUSzsiZdNM3OIqElbr-O53hwqeSclqM4&v=1&r=http%3a%2f%2fwww.ok.co.uk%2fcelebrity-news%2f997007%2fmegan-mckenna-pete-wicks-towie-loved-up-blazing-row-split-rumours-back-together-jacqui-ryland&p=DevEx,5099.1"
   }, 
   {
     "headline": "\u2018La La Land\u2019 Oscar test: Best director or just minor musical?", 
     "id": 48, 
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": 0.7, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=jlchE9-dp7TdtWH_3xnlb93Rdsph6iWGz-eLJkLKUAU&v=1&r=http%3a%2f%2fmynewsla.com%2fhollywood%2f2017%2f02%2f04%2fla-la-land-oscar-test-best-director-or-just-minor-musical%2f&p=DevEx,5101.1"
   }, 
   {
     "headline": "VIDEO: Jarvis Cocker set to perform DJ set in tiny Sheffield club tonight", 
     "id": 49, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=uLCC8jFlw-ksbyviPLjQNAcD3mFNScFdReB2ntxaAbs&v=1&r=http%3a%2f%2fwww.thestar.co.uk%2fnews%2fvideo-jarvis-cocker-set-to-perform-dj-set-in-tiny-sheffield-club-tonight-1-8371846&p=DevEx,5103.1"
   }, 
   {
     "headline": "Eric Clapton Movie to be directed by Oscar-winner Lili Fini Zanuck", 
     "id": 50, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=HGDd4Vtm_Ccjj17uDuyo_iB-TUUsMwgBukBRSxukbK4&v=1&r=http%3a%2f%2fwww.thedailystar.net%2farts-entertainment%2fmusic%2feric-clapton-movie-be-directed-oscar-winner-lili-fini-zanuck-1355542&p=DevEx,5105.1"
   }, 
   {
     "headline": "Selena Gomez teases new music", 
     "id": 51, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=w67dB7JuV0MD4CHVtbdl_CejcDuM2oRgDwo2yT90zKU&v=1&r=http%3a%2f%2fwww.thedailystar.net%2farts-entertainment%2fnews-bytes%2fselena-gomez-teases-new-music-1355956&p=DevEx,5107.1"
   }, 
   {
     "headline": "Amy Duggar and Dillon King air their dirty laundry", 
     "id": 52, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": -0.3, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=2FOaAHj2EbF6OrP8LRTUgF0_GA_qPlNR5NjPxpiB8PM&v=1&r=http%3a%2f%2fus.blastingnews.com%2fshowbiz-tv%2f2017%2f02%2famy-duggar-and-dillon-king-air-their-dirty-laundry-001448225.html&p=DevEx,5109.1"
   }, 
   {
     "headline": "Mariah Carey sets fire to \u00a3200k wedding dress following split from James Packer", 
     "id": 53, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=PFenAmWIcIjWPnO4jwO61ICcHzW35dEBg5d8Zo_XFH0&v=1&r=http%3a%2f%2fwww.hellomagazine.com%2fcelebrities%2f2017020436394%2fmariah-carey-sets-fire-to-wedding-dress-following-split-from-james-parker%2f&p=DevEx,5268.1"
   }, 
   {
     "headline": "JAZZ MATTERS: Weekley jazz round-up for the east (February 4-10)", 
     "id": 54, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=UUGEYc6OcZui5-F6gv_rIJFD2xP9lD2UHWMcKqC4QDc&v=1&r=http%3a%2f%2fwww.buryfreepress.co.uk%2fwhats-on%2fjazz-matters-weekley-jazz-round-up-for-the-east-february-4-10-1-7807175&p=DevEx,5113.1"
   }, 
   {
     "headline": "Michael Bay to bow out of Transformers universe with The Last Knight", 
     "id": 55, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=W-jDfvguhNt93SR0SxJSkM5r_TUTzoLJjx6-jNCz-9Y&v=1&r=http%3a%2f%2fwww.expressandstar.com%2fentertainment%2fshowbiz-news%2f2017%2f02%2f04%2fmichael-bay-to-bow-out-of-transformers-universe-with-the-last-knight%2f&p=DevEx,5115.1"
   }, 
   {
     "headline": "Devastated Charlotte, from Littleborough, Rochdale, thought she was paying \u00a3440 for all three tickets for her and friends", 
     "id": 56, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=fKnRWgRqVVW9JkiplWh4wdhBLG4kp-ESdg6vz4K45pk&v=1&r=http%3a%2f%2fwww.manchestereveningnews.co.uk%2fnews%2fgreater-manchester-news%2fed-sheeran-mega-fan-forced-12557385&p=DevEx,5117.1"
   }, 
   {
     "headline": "Dempseys in Cardiff hosts celebration gig for musicians to bid farewell to popular pub", 
     "id": 57, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=lhziifPpIRtxhy-6_Wkp1AtsOBHpEBzNTI13oeJ8VWE&v=1&r=http%3a%2f%2fwww.walesonline.co.uk%2fwhats-on%2fmusic-nightlife-news%2fdempseys-cardiff-hosts-celebration-gig-12556952&p=DevEx,5119.1"
   }, 
   {
     "headline": "Black Sabbath faces The End as band returns to Birmingham for final gig", 
     "id": 58, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": -0.4, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=RHhLS-O4ptD6Ewg30ZWSG1lmst2o1A8hTpSJWBLPQ7I&v=1&r=http%3a%2f%2fnews.sky.com%2fstory%2fblack-sabbath-faces-the-end-as-band-returns-to-birmingham-for-final-gig-10755498&p=DevEx,5121.1"
   }, 
   {
     "headline": "Blood Brothers comes to Southport", 
     "id": 59, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=J9Hf00SqVfAB73Zyt2OiR_3PmnBiZRSYGbqLp6wr67Y&v=1&r=http%3a%2f%2fwww.southportvisiter.co.uk%2fwhats-on%2fblood-brothers-comes-to-southport-12547120&p=DevEx,5123.1"
   }, 
   {
     "headline": "Gods And Heroes Of \"Dragon Ball Super - Universal Survival Arc\" Gathered For New Opening Preview Shots", 
     "id": 60, 
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": 0.7, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=LiFs8UKNl_fwlrDN9Z5j9LC_UziZvY2o6TBUfhqNE-Y&v=1&r=http%3a%2f%2fwww.crunchyroll.com%2fanime-news%2f2017%2f02%2f04%2fgods-and-heroes-of-dragon-ball-super-universal-survival-arc-gathered-for-new-opening-preview-shots&p=DevEx,5125.1"
   }, 
   {
     "headline": "Couple\u2019s despair after wedding venue cancels", 
     "id": 61, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": -0.6, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=SDKM5wJIq3x-2hmEfkeN5Tz6eHiXaUt0_KVcWw-GClk&v=1&r=http%3a%2f%2fwww.midsussextimes.co.uk%2fnews%2fcouple-s-despair-after-wedding-venue-cancels-1-7806366&p=DevEx,5127.1"
   }, 
   {
     "headline": "\u2018Finding Dory,\u2019 \u2018Moana\u2019 battle for top animation honors", 
     "id": 62, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=1g_bdxesn8QuK6AjEj1ozsUsog-u_jnQ6I02mI389SI&v=1&r=http%3a%2f%2fmynewsla.com%2fhollywood%2f2017%2f02%2f04%2ffinding-dory-moana-battle-for-top-animation-honors%2f&p=DevEx,5129.1"
   }, 
   {
     "headline": "The Best Things We Saw on the Dance Music Internet This Week", 
     "id": 63, 
+    "sentiment_magnitude": 0.8, 
+    "sentiment_score": 0.8, 
     "url": "https://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=X2zf9xI7hhlY3axoFBK6D6GQRZyqt7z52TlIWdUB3KM&v=1&r=https%3a%2f%2fthump.vice.com%2fen_us%2farticle%2fbest-things-roundup-feb-4&p=DevEx,5131.1"
   }, 
   {
     "headline": "Johnny Cash Roadshow Coming to Consett \u2013 Tour Dates & Interview", 
     "id": 64, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=CDVxO88WFTIsJpls77Jasb8VjgiVJbL5nHdTcM3HbYY&v=1&r=http%3a%2f%2fconsettmagazine.com%2fblog%2f2017%2f02%2f04%2fjohnny-cash-roadshow-coming-consett-tour-dates-interview-51468%2f&p=DevEx,5133.1"
   }, 
   {
     "headline": "Swedish Eurovision star Loreen came out as bisexual", 
     "id": 65, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=H73pMPszkzyqQ6oLtji76RhfQ9uzpEW5qDtkSHcT4Fs&v=1&r=http%3a%2f%2fwww.pinknews.co.uk%2f2017%2f02%2f04%2fswedish-eurovision-star-loreen-came-out-as-bisexual%2f&p=DevEx,5135.1"
   }, 
   {
     "headline": "In His Mind, Billy Dee Williams Is Always Lando", 
     "id": 66, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=D9W6yZ15321AI4Y3M1Q-HJoXfAXBMHn2kPOTZ4NSSfo&v=1&r=http%3a%2f%2fwww.gizmodo.co.uk%2f2017%2f02%2fin-his-mind-billy-dee-williams-is-always-lando%2f&p=DevEx,5137.1"
   }, 
   {
     "headline": "Bradley Wiggins insists 'the show must go on' despite injury", 
     "id": 67, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=Ce6muA6CCe_CH0DqI3dCpijtRNJi9gKM_PFSY1z1xGk&v=1&r=http%3a%2f%2fwww.itv.com%2fnews%2f2017-02-04%2fbradley-wiggins-insists-the-show-must-go-on-despite-injury%2f&p=DevEx,5139.1"
   }, 
   {
     "headline": "Mayor\u2019s Business Awards 2016 Community Event of the Year: Time to vote for your favourite", 
     "id": 68, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.6, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=7WyfSY0ONfFD3djz1nYsDmL4XrtpNcjKwmrvVFVQXGs&v=1&r=http%3a%2f%2fwww.lynnnews.co.uk%2fnews%2fmayor-s-business-awards-2016-community-event-of-the-year-time-to-vote-for-your-favourite-1-7805357&p=DevEx,5141.1"
   }, 
   {
     "headline": "FIRST GLIMPSE: Who\u2019s going to be on tonight\u2019s The Voice", 
     "id": 69, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=yaGZkU8dZVQP3Yg5BaUvoQe_c2Xo2T_P9gawX0fT_2s&v=1&r=http%3a%2f%2fwww.whatsontv.co.uk%2fnews%2ffirst-glimpse-tonights-the-voice-450114%2f&p=DevEx,5143.1"
   }, 
   {
     "headline": "FEATURE: Why It Works: Miss Kobayashi's Dragon Maid and the Power of Adorable Daughters", 
     "id": 70, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=ZsJOKnKCwd2oRU8R74iKsFBz8z1_LvrbAWC_trzWzA8&v=1&r=http%3a%2f%2fwww.crunchyroll.com%2fanime-feature%2f2017%2f02%2f04-1%2ffeature-why-it-works-miss-kobayashis-dragon-maid-and-the-power-of-adorable-daughters&p=DevEx,5145.1"
   }, 
   {
     "headline": "Beyonc\u00e9 set to make \u00a3800,000 from Coachella \u2013 Even if she doesn\u2019t perform", 
     "id": 71, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": -0.4, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=E-zSkGwDWGICw2ZQJSRfU6twe6c8OHRSBMbZR-2fzzc&v=1&r=http%3a%2f%2fwww.unrealitytv.co.uk%2fshowbiz%2fbeyonce-make-800000-coachella-even-doesnt-perform%2f&p=DevEx,5147.1"
   }, 
   {
     "headline": "David Beckham\u2019s Leaked Emails Show His Fury Over Lack Of Knighthood... And See Him SLAM Katherine Jenkins", 
     "id": 72, 
+    "sentiment_magnitude": 0.8, 
+    "sentiment_score": 0, 
     "url": "https://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=PvN5DM7ht0dH-RDGn0Fl-3BO4WZKUqkOZs6i2h6JJVA&v=1&r=https%3a%2f%2fuk.yahoo.com%2fnews%2fdavid-beckhams-leaked-emails-show-his-fury-over-092852187.html&p=DevEx,5149.1"
   }, 
   {
     "headline": "Ryan Reynolds the proud dad accepts Hasty Pudding honour", 
     "id": 73, 
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": 0.7, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=T1bAgzpmBCOCXKNy1kF14FEVh-JauGUdwN3tNvyOf7M&v=1&r=http%3a%2f%2fwww.film-news.co.uk%2fnews%2fUK%2f44158%2fRyan-Reynolds-the-proud-dad-accepts-Hasty-Pudding-honour&p=DevEx,5151.1"
   }, 
   {
     "headline": "Katy Perry to perform at BRITs", 
     "id": 74, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.6, 
     "url": "https://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=VKDpYEhfQG1KSULY2WJQpf12x9AWx3QAce9czgJ86tI&v=1&r=https%3a%2f%2fwww.list.co.uk%2farticle%2f88419-katy-perry-to-perform-at-brits%2f&p=DevEx,5153.1"
   }, 
   {
     "headline": "Sigala hints at work on new Craig David", 
     "id": 75, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "https://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=t7TiKcJVv67H9NLz58SQCkBxFiQcG3XgwmqO98qiwro&v=1&r=https%3a%2f%2fwww.list.co.uk%2farticle%2f88420-sigala-hints-at-work-on-new-craig-david%2f&p=DevEx,5155.1"
   }, 
   {
     "headline": "Animal magic for all the family in orchestra\u2019s Nottingham concert", 
     "id": 76, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=35TUIoFZkwbYQWz5mQQatCGhBzHsmSlY3ew-xoY9VaM&v=1&r=http%3a%2f%2fwww.chad.co.uk%2fwhats-on%2fmusic%2fanimal-magic-for-all-the-family-in-orchestra-s-nottingham-concert-1-8361818&p=DevEx,5157.1"
   }, 
   {
     "headline": "Paralympic star swimmer surprises panto audience", 
     "id": 77, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=pvpdwR5MFdTerB5fVWL0CsOEaeo7MzqK-GFvpN-KLns&v=1&r=http%3a%2f%2fwww.cambrian-news.co.uk%2farticle.cfm%3fid%3d111839%26headline%3dParalympic%2520star%2520swimmer%2520surprises%2520panto%2520audience%26sectionIs%3dnews%26searchyear%3d2017&p=DevEx,5159.1"
   }, 
   {
     "headline": "Expect \"Fifty Shades Darker\" to go even further, says Jamie Dornan", 
     "id": 78, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=WsGentzHyc6kqgbV4liQEJePSs4WH2dBfIYgA1tgt4I&v=1&r=http%3a%2f%2fwww.reuters.com%2farticle%2fus-film-fiftyshadesdarker-idUSKBN15I268&p=DevEx,5161.1"
   }, 
   {
     "headline": "Singer LeAnn Rimes focuses on love for new album 'Remnants'", 
     "id": 79, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.6, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=jL0Vo2Z3jamxyC2u50qNMXknnTTxdxZNWy4FknIKRZI&v=1&r=http%3a%2f%2fwww.reuters.com%2farticle%2fus-music-leannrimes-idUSKBN15J031%3ffeedType%3dRSS%26virtualBrandChannel%3d11563&p=DevEx,5163.1"
   }, 
   {
     "headline": "LeAnn Rimes' message of love", 
     "id": 80, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=9PeL1cZ5aY1iJKXUG0WFPgxd4rP1FVsmtGZg68Dfh7g&v=1&r=http%3a%2f%2fuk.reuters.com%2fvideo%2f2017%2f02%2f03%2fleann-rimes-message-of-love%3fvideoId%3d371059434%26videoChannel%3d81&p=DevEx,5165.1"
   }, 
   {
     "headline": "Eagles of Death Metal premiere Paris attack film", 
     "id": 81, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.6, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=0HlVEdDtcHxUEFEM7OCLhcfeUvm9KSe-Jy1Y3S716CM&v=1&r=http%3a%2f%2fuk.reuters.com%2fvideo%2f2017%2f02%2f03%2feagles-of-death-metal-premiere-paris-att%3fvideoId%3d371056282%26videoChannel%3d81&p=DevEx,5167.1"
   }, 
   {
     "headline": "President Trump questions UC Berkeley funding after protest", 
     "id": 82, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=HE0Ky7lkCxR3MWEnasSG0FtIYpFPL4JNQpx3vKe6CDc&v=1&r=http%3a%2f%2fabc30.com%2fpolitics%2ftrump-questions-uc-berkeley-funding-after-protest%2f1733599%2f&p=DevEx,5169.1"
   }, 
   {
     "headline": "Beyonce announces she's pregnant with twins on Instagram", 
     "id": 83, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=35XaNw7GwiHyUosJW7F1Pd92ZpHfIjoDXC4FtkWI6W8&v=1&r=http%3a%2f%2fabc7news.com%2fentertainment%2fbeyonce-announces-shes-pregnant-with-twins%2f1731974%2f&p=DevEx,5171.1"
   }, 
   {
     "headline": "Emma Stone Could Lock Natalie Portman Out Of The Oscars Race", 
     "id": 84, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "https://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=wrYlLGqn-1XNNj9mk3wbJFGy5PQpOHIg6lATxzZTTic&v=1&r=https%3a%2f%2ffivethirtyeight.com%2ffeatures%2femma-stone-could-lock-natalie-portman-out-of-the-oscars-race%2f&p=DevEx,5173.1"
   }, 
   {
     "headline": "Is Casey Affleck\u2019s Oscar Run In Jeopardy?", 
     "id": 85, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
     "url": "https://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=7GStGR6d_0200cZVqif5WlHGn9wjDHUlUNDiEZsj37s&v=1&r=https%3a%2f%2ffivethirtyeight.com%2ffeatures%2fis-casey-afflecks-oscar-run-in-jeopardy%2f&p=DevEx,5175.1"
   }, 
   {
     "headline": "'Mannix' star Mike Connors dies at 91", 
     "id": 86, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=Z4fhBtSVgiK8SNFbq9VouYXUhHKsaqRSgentM6XTMPE&v=1&r=http%3a%2f%2fabc30.com%2fentertainment%2fmannix-star-mike-connors-dies-at-91%2f1723263%2f&p=DevEx,5177.1"
   }, 
   {
     "headline": "2017 Golden Globes red carpet fashion", 
     "id": 87, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=A8DCB92FACB941D6B5BF9A594B4DB64A&CID=1F341B2093216F5D0AC6113F92C66E7A&rd=1&h=jJwjQ8Uu-sNbPW4RjUUWCJspbmi2WBDmsDkOTvp7_Rg&v=1&r=http%3a%2f%2fabc7.com%2fentertainment%2f2017-golden-globes-red-carpet-fashion%2f1692755%2f&p=DevEx,5179.1"
   }
 ]

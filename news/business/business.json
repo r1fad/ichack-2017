@@ -2,501 +2,701 @@
   {
     "headline": "Deutsche Bank says 'sorry' in full-page German newspaper ads", 
     "id": 1, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": -0.4, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=pcPR5iF6Ep-l47yI9aipEVpaTjQMQ7WEAqQUyqIdf5w&v=1&r=http%3a%2f%2fwww.dailymail.co.uk%2fwires%2fap%2farticle-4191396%2fDeutsche-Bank-says-sorry-page-German-newspaper-ads.html&p=DevEx,5005.1"
   }, 
   {
     "headline": "Premier Oil boss Tony Durrant: 'Once you see the light at the end of the tunnel it seems quite exciting'", 
     "id": 2, 
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": 0.7, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=blIuMtj7Mz_fm5GPFDhFtIT5ZcfIYfyjJvjPrB9hyp4&v=1&r=http%3a%2f%2fwww.telegraph.co.uk%2fbusiness%2f2017%2f02%2f04%2fpremier-oil-boss-tony-durrant-see-light-end-tunnel-seems-quite%2f&p=DevEx,5007.1"
   }, 
   {
     "headline": "Trump: the unlikely new force behind ethical investing", 
     "id": 3, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": -0.5, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=6CblXuGOzrsj_1CWB0XrrXUVjGgxFAUylguZDhYcd_Y&v=1&r=http%3a%2f%2fwww.independent.co.uk%2fmoney%2ftrump-the-unlikely-new-force-behind-ethical-investing-a7557366.html&p=DevEx,5208.1"
   }, 
   {
     "headline": "Poland positive about Malta's EU presidency aims", 
     "id": 4, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=i4RCWqdMZrphQNZUiOtnjFecVDjuTIr2IbBdG--4E3A&v=1&r=http%3a%2f%2fwww.timesofmalta.com%2farticles%2fview%2f20170204%2flocal%2fpoland-positive-about-maltas-eu-presidency-aims.638566&p=DevEx,5212.1"
   }, 
   {
     "headline": "Le Pen's French debt plan would trigger default, S&P tells Economist", 
     "id": 5, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=FU0qiOf0-VPusavCBHFQWOGQJDq6eH02J2VD6PFDmdo&v=1&r=http%3a%2f%2fuk.reuters.com%2farticle%2fus-france-election-fn-debt-idUKKBN15J0OD&p=DevEx,5013.1"
   }, 
   {
     "headline": "FTSE 100 rises and pound edges back above $1.25 as US job growth beats expectations in January", 
     "id": 6, 
+    "sentiment_magnitude": 0.8, 
+    "sentiment_score": 0.8, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=gBJ9RzNEtQIrKilwgM29D748EkQqGRV1PZTbTDJuzD8&v=1&r=http%3a%2f%2fwww.telegraph.co.uk%2fbusiness%2f2017%2f02%2f03%2fftse-100-rises-pound-extends-losses-investors-eye-uk-services%2f&p=DevEx,5216.1"
   }, 
   {
     "headline": "Glamorous air hostesses, exotic ads and America's earliest planes: Captivating images trace Pan Am's 60-year history from glory to crushing bankruptcy", 
     "id": 7, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=VJAzl03pFje_lXLuzImjKf6CUlSFgqbZwRqsJ8bxp78&v=1&r=http%3a%2f%2fwww.dailymail.co.uk%2ftravel%2ftravel_news%2farticle-4179352%2fPan-History-Design-Identity-book-explores-airline.html%3fITO%3d1490&p=DevEx,5017.1"
   }, 
   {
     "headline": "Labour\u2019s John McDonnell promises cap on energy prices", 
     "id": 8, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=oBZan_MDzLRQwmK34U21FZrN5zQPkcACMu5aGBCBrBc&v=1&r=http%3a%2f%2fwww.independent.co.uk%2fnews%2fbusiness%2fnews%2flabour-s-john-mcdonnell-promises-cap-on-energy-prices-a7563271.html&p=DevEx,5019.1"
   }, 
   {
     "headline": "Rosalie Chadwick: Plenty of life left in the North Sea", 
     "id": 9, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=zCmbyza3nG2xqFOYpRRyEkSdAIvH9POURSJ6NlHIrf8&v=1&r=http%3a%2f%2fwww.scotsman.com%2fnews%2frosalie-chadwick-plenty-of-life-left-in-the-north-sea-1-4356862&p=DevEx,5021.1"
   }, 
   {
     "headline": "Commodities Round-up: Oil futures rise after Trump slaps sanctions on Iranian entities", 
     "id": 10, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": -0.4, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=c7OyMY9kTwf4zyoyiwbfirokalltxK6WiGpPxph1SOk&v=1&r=http%3a%2f%2fwww.ibtimes.co.uk%2foil-futures-rise-after-trump-slaps-sanctions-iranian-entities-1604761&p=DevEx,5223.1"
   }, 
   {
     "headline": "UniCredit agrees job cuts with unions ahead of cash call start", 
     "id": 11, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=bQEldMg3WvO_-V6ePIDuCspacvXB0ZRDOA6Fp7M-v9Q&v=1&r=http%3a%2f%2fwww.reuters.com%2farticle%2fus-italy-banks-unicredit-jobs-idUSKBN15J0S4&p=DevEx,5025.1"
   }, 
   {
     "headline": "Joseph Cala 'committed' to Morecambe takeover", 
     "id": 12, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=qOiYqlcozu8r3w2m7lAmDpS0KbnoFfw4tvx01TZ-YbA&v=1&r=http%3a%2f%2fwww.bbc.co.uk%2fsport%2ffootball%2f38867891&p=DevEx,5027.1"
   }, 
   {
     "headline": "What rising rates this year may mean to your finances", 
     "id": 13, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "https://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=AXx1VVRU70oSZLZPSI-bho9Trc13yOwbjk6Xfxyjc2g&v=1&r=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2frising-rates-may-mean-finances-182800681.html&p=DevEx,5029.1"
   }, 
   {
     "headline": "John B. Davies Acquires 442 Shares of Berkshire Hills Bancorp, Inc. (BHLB) Stock", 
     "id": 14, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.2, 
     "url": "https://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=aFC7dh4oOm5nWoOkOiRpNe8i1zibKDVgfjiqqglK7Ak&v=1&r=https%3a%2f%2fwww.thecerbatgem.com%2f2017%2f02%2f04%2fjohn-b-davies-acquires-442-shares-of-berkshire-hills-bancorp-inc-bhlb-stock.html&p=DevEx,5031.1"
   }, 
   {
     "headline": "After a huge week for financial stocks, here's why there could still be time to buy", 
     "id": 15, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "https://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=89Z8xLCJInhOGBk_1V4quX6YlSi6Er0vEeEa5mdFVXA&v=1&r=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fhuge-week-financial-stocks-heres-173500123.html&p=DevEx,5033.1"
   }, 
   {
     "headline": "Pity the poor financier", 
     "id": 16, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": -0.4, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=AJN8ZUgARSWV3rb3wFby_osWKnUGs1VmjeJjzvcDSCI&v=1&r=http%3a%2f%2fmoneyweek.com%2fpity-the-poor-financier%2f&p=DevEx,5232.1"
   }, 
   {
     "headline": "Muhith revives plan for fuel price cuts", 
     "id": 17, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=pDOvb0_KoFXQXX_KZGK3gJoEhfO6QjIYdOJplT0qWsM&v=1&r=http%3a%2f%2fwww.thedailystar.net%2fbusiness%2fmuhith-revives-plan-fuel-price-cuts-1356265&p=DevEx,5037.1"
   }, 
   {
     "headline": "Dominic Hinde: Budget deal a milestone for Green politics in Scotland", 
     "id": 18, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=4FF03TsEI5zyoNzx70RiE2PXwyFkUojGUuBjQjekLGM&v=1&r=http%3a%2f%2fwww.scotsman.com%2fnews%2fdominic-hinde-budget-deal-a-milestone-for-green-politics-in-scotland-1-4356617&p=DevEx,5039.1"
   }, 
   {
     "headline": "Hany Massarany Sells 1,142 Shares of GenMark Diagnostics, Inc. (GNMK) Stock", 
     "id": 19, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.1, 
     "url": "https://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=1vJtXhbPn26RoYkHJZiHH7ZRSyXgnoUvG3m3N3NHoyQ&v=1&r=https%3a%2f%2fwww.thecerbatgem.com%2f2017%2f02%2f04%2fhany-massarany-sells-1142-shares-of-genmark-diagnostics-inc-gnmk-stock.html&p=DevEx,5041.1"
   }, 
   {
     "headline": "Labour vows to 'control' energy companies following Npower price surge", 
     "id": 20, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=2-Gs65cqpmHMn1T0WhCmI_4xPoh20nsPOyNYHWs9VrI&v=1&r=http%3a%2f%2fwww.ibtimes.co.uk%2flabour-vows-control-energy-companies-following-npower-price-surge-1604849&p=DevEx,5238.1"
   }, 
   {
     "headline": "Here's what's happening at Liverpool landmark Chancery House", 
     "id": 21, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=UPY6ReORAt8IbH_9i5LNay-XOTaPkf_rgqvizAPq8-E&v=1&r=http%3a%2f%2fwww.liverpoolecho.co.uk%2fnews%2fliverpool-news%2fheres-whats-happening-liverpool-landmark-12544674&p=DevEx,5045.1"
   }, 
   {
     "headline": "Waterman teams up for UK pilot of NABERS", 
     "id": 22, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=q-rtRlTTvNdMY4YvnF49WRcZvvUrw1rvABcNTYJshVo&v=1&r=http%3a%2f%2fpremierconstructionnews.com%2f2017%2f02%2f04%2fwaterman-teams-uk-pilot-nabers%2f&p=DevEx,5047.1"
   }, 
   {
     "headline": "Cost of BEER to rise after \u2018CRIPPLING\u2019 tax bombshell", 
     "id": 23, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=RdxCsrkJZ3kWYTxRWH_jmKclu9BDkMlo4uUHn8gYclQ&v=1&r=http%3a%2f%2fwww.dailystar.co.uk%2fnews%2flatest-news%2f585240%2fpint-beer-price-rise-pub-business-rates-cost-lager-duty-tax&p=DevEx,5049.1"
   }, 
   {
     "headline": "Cash dollar import unlikely", 
     "id": 24, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=9dyCKIO9N05AycMb25s2v6-qB5WhraO3ojoJMtxPmbk&v=1&r=http%3a%2f%2fwww.thedailystar.net%2fbusiness%2fcash-dollar-import-unlikely-1356262&p=DevEx,5051.1"
   }, 
   {
     "headline": "Preston fashion brand The Killing Tree taking it to the world", 
     "id": 25, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=a7U2GR1MJOnpOfCnX9QtWymmUw_EfVdqFn0CSpy_C9c&v=1&r=http%3a%2f%2fwww.blogpreston.co.uk%2f2017%2f02%2fpreston-fashion-brand-the-killing-tree-taking-it-to-the-world%2f&p=DevEx,5053.1"
   }, 
   {
     "headline": "RMT calls ASLEF's deal with Southern rail a 'shocking betrayal'", 
     "id": 26, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=qQ6_3PBfbycazz_G1xR_3CGFXYFNUSBLiNvdyrh4TVg&v=1&r=http%3a%2f%2fwww.964eagle.co.uk%2fnews%2fbusiness-news%2f2216172%2frmt-calls-aslefs-deal-with-southern-rail-a-shocking-betrayal%2f&p=DevEx,5055.1"
   }, 
   {
     "headline": "UK Energy Market Committee", 
     "id": 27, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=7vLXhkXvxkFOhjv2sNq_NPtH1KLCX1Kt1rKfQz8gsDM&v=1&r=http%3a%2f%2fwww.bbc.co.uk%2fprogrammes%2fb08fy40z&p=DevEx,5057.1"
   }, 
   {
     "headline": "RBS to pay \u00a3340m bonus pot as it posts ninth successive loss", 
     "id": 28, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=zHyXkgmBUt9mYvo3jzheLqyadA-32VEnlIs-08d3UyQ&v=1&r=http%3a%2f%2fnews.sky.com%2fstory%2frbs-to-pay-163340m-bonus-pot-as-it-posts-ninth-successive-loss-10755536&p=DevEx,5250.1"
   }, 
   {
     "headline": "AMP Capital Investors Ltd Has $1,823,000 Stake in Domino\u2019s Pizza Inc (DPZ)", 
     "id": 29, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.6, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=_BPUpfOKH4FzC3-b09DMOsdQZ0xhc1DIA7gROktP4Lk&v=1&r=http%3a%2f%2fwww.financial-market-news.com%2famp-capital-investors-ltd-has-1823000-stake-in-dominos-pizza-inc-dpz%2f1298685%2f&p=DevEx,5061.1"
   }, 
   {
     "headline": "Accuride Co. (ACW) Shares Bought by KCG Holdings Inc.", 
     "id": 30, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=Uqy0TdZpXNVzw1-kIVG-ohWf6wKljZaKt6Ym32Ytli0&v=1&r=http%3a%2f%2fwww.financial-market-news.com%2faccuride-co-acw-shares-bought-by-kcg-holdings-inc%2f1298681%2f&p=DevEx,5063.1"
   }, 
   {
     "headline": "House prices set to rise for the next 50 years", 
     "id": 31, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=VwJ9OjL_CirK-4rAe0IAk0POFw0c9OiWhS9p5fKuYN8&v=1&r=http%3a%2f%2fwww.thisismoney.co.uk%2fmoney%2fmortgageshome%2farticle-4188266%2fHouse-prices-set-rise-50-years.html&p=DevEx,5065.1"
   }, 
   {
     "headline": "South Gloucestershire picks Mosaic", 
     "id": 32, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=J1J5KaXwLC0fvncs4aIkqJ4N2iYJBc_pscssQzqHiFI&v=1&r=http%3a%2f%2fwww.digitalhealth.net%2f2017%2f02%2fsouth-gloucestershire-picks-mosaic%2f&p=DevEx,5067.1"
   }, 
   {
     "headline": "REVEALED: Number of people looking for Sharia-complaint banking SOARS in UK", 
     "id": 33, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=Mo_ZYHZCAaHmyoBk5j1HL1hmDZUb9wVoEttCxNpH0wM&v=1&r=http%3a%2f%2fwww.express.co.uk%2fnews%2fuk%2f762980%2fSharia-banking-UK-customers-demand-soars&p=DevEx,5069.1"
   }, 
   {
     "headline": "The Future of Cannabis Investing", 
     "id": 34, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=RqOhdtLmQy6xsCmD7xO9zgkHWWDUQSNdRcpWARYyrdo&v=1&r=http%3a%2f%2fwww.marketoracle.co.uk%2fArticle58054.html&p=DevEx,5071.1"
   }, 
   {
     "headline": "Help for landlords who want to switch to Airbnb", 
     "id": 35, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=HdqDHlxiwIQnZzZ3NRqD17WjPKN10TVo63zasFU9zeo&v=1&r=http%3a%2f%2fwww.yorkshirepost.co.uk%2flifestyle%2fhomes%2fhelp-for-landlords-who-want-to-switch-to-airbnb-1-8366194&p=DevEx,5073.1"
   }, 
   {
     "headline": "SPX Stocks Bull Market Continues", 
     "id": 36, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": -0.6, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=yV-7cYkM5SWudoDdPWg4EdqhhXdOI2893Q0ksTDX_q0&v=1&r=http%3a%2f%2fwww.marketoracle.co.uk%2fArticle58055.html&p=DevEx,5075.1"
   }, 
   {
     "headline": "MARKET REPORT: Bank shares rally as Trump attacks red tape", 
     "id": 37, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=suLaoQfM61A1GEbDH3YfW-Fb5II8PeguqIf97fTC4_M&v=1&r=http%3a%2f%2fwww.thisismoney.co.uk%2fmoney%2fmarkets%2farticle-4189974%2fMARKET-REPORT-Bank-shares-rally-Trump-attacks-red-tape.html&p=DevEx,5077.1"
   }, 
   {
     "headline": "War of convenience as supermarket chains take on small stores", 
     "id": 38, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "https://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=FixLjWI6DPuPdRALqNNCUMi4oQCsFbwQOsoAJct5W8w&v=1&r=https%3a%2f%2fwww.theguardian.com%2fbusiness%2f2017%2ffeb%2f04%2fconvenience-stores-tesco-booker-deal&p=DevEx,5079.1"
   }, 
   {
     "headline": "GREXIT? Greece on the brink of financial disaster & could spark 'EU RUPTURE', experts warn", 
     "id": 39, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=QDuKyb3-h7G7vsir5648D_mk7xpmhHZmDQ99TQqlksY&v=1&r=http%3a%2f%2fwww.express.co.uk%2fnews%2fworld%2f763028%2fGrexit-Greece-European-Union-Germany-IMF-austerity-bailout-financial-disaster-crisis-debt&p=DevEx,5081.1"
   }, 
   {
     "headline": "Five Portsmouth area hotels receive great reception from web reviewers", 
     "id": 40, 
+    "sentiment_magnitude": 0.8, 
+    "sentiment_score": 0.8, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=h7013oWTc7iRMR4HekgMOxWMZrq7qHjOSoc8Oxxfa0I&v=1&r=http%3a%2f%2fwww.portsmouth.co.uk%2fbusiness%2ffive-portsmouth-area-hotels-receive-great-reception-from-web-reviewers-1-7806550&p=DevEx,5083.1"
   }, 
   {
     "headline": "New campaign urges drivers to check safety issues", 
     "id": 41, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=TySgEtsPH4OFGuwFopzppia-E1NDxA9sWtPed57zVlY&v=1&r=http%3a%2f%2fwww.hucknalldispatch.co.uk%2fnews%2fnew-campaign-urges-drivers-to-check-safety-issues-1-8371603&p=DevEx,5085.1"
   }, 
   {
     "headline": "Npower hit by backlash over 10 per cent price hike", 
     "id": 42, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=CpJsSdb13Y3JHCrXiSR6DbNkmKldSszAm2udWe0pmh0&v=1&r=http%3a%2f%2fwww.edinburghnews.scotsman.com%2fnews%2fnpower-hit-by-backlash-over-10-per-cent-price-hike-1-4357926&p=DevEx,5087.1"
   }, 
   {
     "headline": "Why you need to get matched betting in 2017", 
     "id": 43, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=V2IoTrrVr-DCPhy0L3KY_a0e1MDm3qeqNMHFqxzy9Zk&v=1&r=http%3a%2f%2fwww.femalefirst.co.uk%2fentertainment-home%2fneed-get-matched-betting-2017-1031499.html&p=DevEx,5089.1"
   }, 
   {
     "headline": "Solomon Airlines denies rumours of property sell-off", 
     "id": 44, 
+    "sentiment_magnitude": 0.8, 
+    "sentiment_score": -0.8, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=ov8-xAxHLnf7q2gud_MzzVeNOZlwnBieyM1Ug5lfDOU&v=1&r=http%3a%2f%2fwww.ch-aviation.com%2fportal%2fnews%2f52982-solomon-airlines-denies-rumours-of-property-sell-off&p=DevEx,5091.1"
   }, 
   {
     "headline": "Brighton given \u00a317m funding towards two key projects", 
     "id": 45, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=-GhL6J8mDZ9OgCCFG_JK6_U1-CkQ-4j4l6TsvLyZlR4&v=1&r=http%3a%2f%2fwww.brightonandhovenews.org%2f2017%2f02%2f03%2fbrighton-given-17m-funding-towards-two-key-projects%2f&p=DevEx,5093.1"
   }, 
   {
     "headline": "We spoke to shops in Merthyr Tydfil to see if they're thriving or surviving", 
     "id": 46, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=AnSAg9Oy5DBi3SLzvUW0Tu5XO-lvynGqud_6yzw1fpc&v=1&r=http%3a%2f%2fwww.walesonline.co.uk%2fnews%2fwales-news%2fspoke-shops-merthyr-tydfil-see-12550292&p=DevEx,5095.1"
   }, 
   {
     "headline": "RMT attacks Aslef deal in Southern rail dispute", 
     "id": 47, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "https://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=WPLUDUtF4i4SynQFcFgCx0TxjnwAXd5VzaOcTLBB278&v=1&r=https%3a%2f%2fwww.theguardian.com%2fuk-news%2f2017%2ffeb%2f04%2frmt-attacks-aslef-deal-in-southern-rail-dispute&p=DevEx,5097.1"
   }, 
   {
     "headline": "Preston\u2019s covered market on the move", 
     "id": 48, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=pMYsUa7DdZdU3Tdv0gvEZorSC3fd5TxGbenqQEovgJI&v=1&r=http%3a%2f%2fwww.lep.co.uk%2fyour-lancashire%2fpreston%2fpreston-s-covered-market-on-the-move-1-8371469&p=DevEx,5099.1"
   }, 
   {
     "headline": "Burness Paull LLP cleared of fraud", 
     "id": 49, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": -0.6, 
     "url": "https://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=l27Vrf_EhbpriTh_MQVYr-r85Y3w5rT5w8XlIQmPQEc&v=1&r=https%3a%2f%2fwww.energyvoice.com%2fother-news%2f130764%2fburness-paull-llp-cleared-fraud%2f&p=DevEx,5101.1"
   }, 
   {
     "headline": "Lune Valley dream home to be raffled off in \u00a31m competition", 
     "id": 50, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=qz1Bj8xcIsggoUjfZSsoW-5mlswheg_ysBpnv_qqRCk&v=1&r=http%3a%2f%2fwww.lep.co.uk%2fnews%2flune-valley-dream-home-to-be-raffled-off-in-1m-competition-1-8367156&p=DevEx,5103.1"
   }, 
   {
     "headline": "Girlguiding needs help from knitters", 
     "id": 51, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=bVTh483YS_pRudbPgqGo9vb8b8T_0l-bxOZC1Bp3RaE&v=1&r=http%3a%2f%2fwww.bognor.co.uk%2fnews%2fgirlguiding-needs-help-from-knitters-1-7798034&p=DevEx,5105.1"
   }, 
   {
     "headline": "Chart Signals: Multiple round number tests underway as Dow regains 20,000", 
     "id": 52, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
     "url": "https://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=PvOzAaujI4ay_qR3AWmKtSsvXrC-xb2_vnE9Sep2GHI&v=1&r=https%3a%2f%2fwww.cmcmarkets.com%2fen-sg%2fnews-and-analysis%2fchart-signals-multiple-round-number-tests-underway-as-dow-regains-20000&p=DevEx,5107.1"
   }, 
   {
     "headline": "The business column with Kat Bond", 
     "id": 53, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=_WxdeUJK-lHAe82r_QDd74Qb-pgOWyHXzlFuy13xCs8&v=1&r=http%3a%2f%2fwww.fileymercury.co.uk%2fnews%2fthe-business-column-with-kat-bond-1-8361053&p=DevEx,5109.1"
   }, 
   {
     "headline": "Unique 2012 AC 378 GT Zagato Prototype in Historics 4th March Classic Car Auction", 
     "id": 54, 
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": 0.7, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=8kXsT0btrE-pTzaP5ZP6LJKyGDy5TNjdZrIbr7RUGmw&v=1&r=http%3a%2f%2fclassics.honestjohn.co.uk%2fnews%2fauction-news%2f2017-02%2funique-2012-ac-378-gt-zagato-prototype-in-historics-4th-march-classic-car-auction%2f&p=DevEx,5111.1"
   }, 
   {
     "headline": "Councils urged to take ownership of their cyber security strategy", 
     "id": 55, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=GYPVZtvgv_C4f3OHBsDjJdHlw1ERX_V9pnat4x7lChk&v=1&r=http%3a%2f%2fwww.digitalbydefaultnews.co.uk%2f2017%2f02%2f02%2fcouncils-urged-to-take-ownership-of-their-cyber-security-strategy%2f&p=DevEx,5281.1"
   }, 
   {
     "headline": "Scope 2017 survey: Economists say action on carbon is vital, or say nothing at all", 
     "id": 56, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=MgMD53GqC92mx3nrzGBIhOvwj5hN0EcgrNdLUQrLztI&v=1&r=http%3a%2f%2fwww.queanbeyanagechronicle.com.au%2fstory%2f4446864%2fscope-2017-survey-economists-say-action-on-carbon-is-vital-or-say-nothing-at-all%2f%3fcs%3d12&p=DevEx,5115.1"
   }, 
   {
     "headline": "BREAKING: Government invests \u00a316m in Worthing and Adur", 
     "id": 57, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=PdLUc5U1lX-oZRrmIXtb95DiKYK_wdE2RKZrVXc3NlM&v=1&r=http%3a%2f%2fwww.worthingherald.co.uk%2fnews%2fbreaking-government-invests-16m-in-worthing-and-adur-1-7804155&p=DevEx,5117.1"
   }, 
   {
     "headline": "Gold continues to shine for tipsters on back of Trump concerns", 
     "id": 58, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=eP2uBiKfkWdkXsTX9oXGUpE9wVvJ5t-CzQcP8vBKrv4&v=1&r=http%3a%2f%2fwww.queanbeyanagechronicle.com.au%2fstory%2f4446867%2fgold-continues-to-shine-for-tipsters-on-back-of-trump-concerns%2f%3fcs%3d24&p=DevEx,5119.1"
   }, 
   {
     "headline": "Does this show John Jay Moores really hasn't given up hope of buying Nottingham Forest?", 
     "id": 59, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=RoX5vSNw-GAsqD4qpZFfwhbuah6ax-p7GFb6DQNUEYU&v=1&r=http%3a%2f%2fwww.nottinghampost.com%2fdoes-this-show-john-jay-moores-really-hasn-t-given-up-hope-of-buying-nottingham-forest%2fstory-30111494-detail%2fstory.html&p=DevEx,5121.1"
   }, 
   {
     "headline": "Bank of England raises UK growth forecast again to 2% for 2017", 
     "id": 60, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=QZBEX8YaiePW_9LAjuoSoR-U1GYy3-zjUu7Ib97S1kQ&v=1&r=http%3a%2f%2fwww.964eagle.co.uk%2fnews%2fbusiness-news%2f2216073%2fbank-of-england-raises-uk-growth-forecast-again-to-2-for-2017%2f&p=DevEx,5123.1"
   }, 
   {
     "headline": "Fordham House builders hit a new high point", 
     "id": 61, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=P88IsDBnqzrToaVozQ3HBb_MKFe-EeQkLiLSxhvOAow&v=1&r=http%3a%2f%2fwww.stratford-herald.com%2f65748-fordham-house-builders-hit-new-high-point.html&p=DevEx,5125.1"
   }, 
   {
     "headline": "One of Southsea\u2019s most popular cafes celebrates an interesting decade in the catering business", 
     "id": 62, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=7kFTbSNXu1wBVnbGdsjQ8CBfWIMftKSdCqsM_By1CfQ&v=1&r=http%3a%2f%2fwww.portsmouth.co.uk%2fbusiness%2fone-of-southsea-s-most-popular-cafes-celebrates-an-interesting-decade-in-the-catering-business-1-7806138&p=DevEx,5127.1"
   }, 
   {
     "headline": "Farmland values \u2018more polarised than any time in living memory\u2019", 
     "id": 63, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=nol1z4WBesAgARsCIYCG4A0IucSJQAawraMnagcTzjM&v=1&r=http%3a%2f%2fwww.eadt.co.uk%2fnews%2ffarmland_values_more_polarised_than_any_time_in_living_memory_1_4874623&p=DevEx,5129.1"
   }, 
   {
     "headline": "Parking fee increases 'betray' Olympic Park legacy", 
     "id": 64, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=TVeIcA94u5kL8iNyMaWEtwvU-G820Z2L_zhlNBQj918&v=1&r=http%3a%2f%2fwww.bbc.com%2fnews%2fuk-england-london-38867133&p=DevEx,5131.1"
   }, 
   {
     "headline": "Trump's immigration clampdown has Silicon Valley worried about housing prices", 
     "id": 65, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "https://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=mP1HroecmWZJn-ptv79aF3mIHmoXal0uFAdeUTbm7GM&v=1&r=https%3a%2f%2fwww.theregister.co.uk%2f2017%2f02%2f04%2fimmigration_ban_and_silicon_valley_real_estate%2f&p=DevEx,5293.1"
   }, 
   {
     "headline": "3 ways to retire with a million", 
     "id": 66, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=30tFd2s9U1kIZqEST5DXoWWNSZ8-aPwX-h4KKBWDT0g&v=1&r=http%3a%2f%2fmoney.aol.co.uk%2f2017%2f02%2f04%2f3-ways-to-retire-with-a-million%2f&p=DevEx,5135.1"
   }, 
   {
     "headline": "Birmingham Airport launch flights to Vienna with Eurowings", 
     "id": 67, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=iJFwlp_HzvCAPSeiYIxfB5DsfmbrXOJa6pxSlDL8Ajs&v=1&r=http%3a%2f%2fwww.coventrytelegraph.net%2fnews%2fcoventry-news%2fbirmingham-airport-launch-flights-vienna-12506945&p=DevEx,5137.1"
   }, 
   {
     "headline": "Revealed: China's Xinwei is Doncasters bidder", 
     "id": 68, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": -0.3, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=ZvmQS-6uyQ73Bkd689abcJbqXeeFZTJ3ADiaQTF49mg&v=1&r=http%3a%2f%2fnews.sky.com%2fstory%2frevealed-chinas-xinwei-is-doncasters-bidder-10753789&p=DevEx,5139.1"
   }, 
   {
     "headline": "Schroders tops list of worst performing equity funds", 
     "id": 69, 
+    "sentiment_magnitude": 0.8, 
+    "sentiment_score": -0.8, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=UqS-ASFMy949RYF4YVDzAb2LLsy5qq1zKSe63cHEjrw&v=1&r=http%3a%2f%2fguernseypress.com%2fnews%2fuk-news%2f2017%2f02%2f04%2fschroders-tops-list-of-worst-performing-equity-funds%2f&p=DevEx,5141.1"
   }, 
   {
     "headline": "Dominican Republic 'historic' pact on Odebrecht US$92M bribes", 
     "id": 70, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=kQdHTZLX8iUCqJ-BpJnJd7Zq3jMiykiV8KosC_3JqTY&v=1&r=http%3a%2f%2fwww.dominicantoday.com%2fdr%2flocal%2f2017%2f2%2f4%2f62304%2fDominican-Republic-historic-pact-on-Odebrecht-US92M-bribes&p=DevEx,5143.1"
   }, 
   {
     "headline": "Car insurance premiums rise again \u2013 here\u2019s how much you\u2019re paying", 
     "id": 71, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=Qgv82ccT26jyNwEiSxkxJ4OWj9lPRqzV_s7j67wT5uQ&v=1&r=http%3a%2f%2fwww.grimsbytelegraph.co.uk%2fcar-insurance-premiums-rise-again-8211-here-8217-s-how-much-you-8217-re-paying%2fstory-30111426-detail%2fstory.html&p=DevEx,5145.1"
   }, 
   {
     "headline": "Analysts question prospects of Deutsche's investment banking division", 
     "id": 72, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.6, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=tzC6SrCx_e_UgPDFFfkczx_8Q1GFKODWgrU3gdRimKc&v=1&r=http%3a%2f%2fwww.hitc.com%2fen-gb%2f2017%2f02%2f04%2fanalysts-question-prospects-of-investment-banking-division%2f&p=DevEx,5147.1"
   }, 
   {
     "headline": "Estonian-developed ticket system adopted in France", 
     "id": 73, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=smTZH6bKDaEsWrclN327toc4-2KLac17-qL-6CPj4gU&v=1&r=http%3a%2f%2fnews.err.ee%2fv%2fbusiness%2fdfa64e73-7f61-4de0-bb19-2b68bdeafc4c%2festonian-developed-ticket-system-adopted-in-france&p=DevEx,5149.1"
   }, 
   {
     "headline": "Post Office on Cambridge Drive, Clayton to shut for refurbishment", 
     "id": 74, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=Fnup9caLiDeee4sQjn5iwVoacMPZlb3zCtlqFVodqXk&v=1&r=http%3a%2f%2fwww.stokesentinel.co.uk%2fpost-office-on-cambridge-drive-clayton-to-shut-for-refurbishment%2fstory-30111534-detail%2fstory.html&p=DevEx,5151.1"
   }, 
   {
     "headline": "Labour pledge to legislate to limit price hikes by energy firms", 
     "id": 75, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.6, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=t7MFQoQy0MQQz-1yfTb12SAnX_qK8NnQjEkhV2PQWfs&v=1&r=http%3a%2f%2fwww.belfasttelegraph.co.uk%2fnews%2fuk%2flabour-pledge-to-legislate-to-limit-price-hikes-by-energy-firms-35422781.html&p=DevEx,5153.1"
   }, 
   {
     "headline": "BREAKING NEWS: Crawley council boss set to leave", 
     "id": 76, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=wnnRXUTuWuUfQgCa3zq8fvN6rtd5rKyoaVs7hsD4MnI&v=1&r=http%3a%2f%2fwww.crawleyobserver.co.uk%2fnews%2fbreaking-news-crawley-council-boss-set-to-leave-1-7805075&p=DevEx,5155.1"
   }, 
   {
     "headline": "Fuel prices unchanged except LPG", 
     "id": 77, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=XdWR8v79vzcYKCSid8KO2uRJVoEqxKL1E3W954FRhgU&v=1&r=http%3a%2f%2fwww.dominicantoday.com%2fdr%2feconomy%2f2017%2f2%2f3%2f62302%2fFuel-prices-unchanged-except-LPG&p=DevEx,5157.1"
   }, 
   {
     "headline": "Support for building new homes has doubled. The government must be bold", 
     "id": 78, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=qt8KPzVvdAywIReB2PDLjcVinPEzxjdNDDqnE6t34Iw&v=1&r=http%3a%2f%2fwww.thetimes.co.uk%2farticle%2fsupport-for-building-new-homes-has-doubled-the-government-must-be-bold-sxz2knqfc&p=DevEx,5159.1"
   }, 
   {
     "headline": "Banks in two South Devon towns to close", 
     "id": 79, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=hcfGs3oj51MfJbfmsz-Tc6nnxg4sNfp2a9zaPDB6Izc&v=1&r=http%3a%2f%2fwww.exeterexpressandecho.co.uk%2fbanks-in-two-south-devon-towns-to-close%2fstory-30111533-detail%2fstory.html&p=DevEx,5161.1"
   }, 
   {
     "headline": "Complaints advice van coming to Widnes", 
     "id": 80, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=s_CsMIPuBcXk9520MERli7NtsIRNgG43KL9DCc89N9g&v=1&r=http%3a%2f%2fwww.liverpoolecho.co.uk%2fnews%2flocal-news%2fcomplaints-advice-van-coming-widnes-12551101&p=DevEx,5163.1"
   }, 
   {
     "headline": "Screwfix is on the lookout for Scunthorpe apprentices", 
     "id": 81, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=t8b2Om7A-EbTy1JvNuIA18pJ-AOzmWiKUMYUzOo6jzU&v=1&r=http%3a%2f%2fwww.scunthorpetelegraph.co.uk%2fscrewfix-is-on-the-lookout-for-scunthorpe-apprentices%2fstory-30111511-detail%2fstory.html&p=DevEx,5165.1"
   }, 
   {
     "headline": "Exeter waste company offers first zero to landfill solution in South West", 
     "id": 82, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": -0.5, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=LQ4HE1y21U0PnzRJ9pabZoW4wfz8HjPVY6g-snb6L1s&v=1&r=http%3a%2f%2fwww.exeterexpressandecho.co.uk%2fexeter-waste-company-offers-first-zero-to-landfill-solution-in-south-west%2fstory-30111531-detail%2fstory.html&p=DevEx,5167.1"
   }, 
   {
     "headline": "Public land 'siphoned from people and given for private profit'", 
     "id": 83, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=t05DZH01N4nwPNxPotDxS0zZJLbuqNa6SGf0_9XoJm8&v=1&r=http%3a%2f%2fwww.timesofmalta.com%2farticles%2fview%2f20170204%2flocal%2fpublic-land-siphoned-from-people-and-given-for-private-profit.638567&p=DevEx,5169.1"
   }, 
   {
     "headline": "Carlisle greengrocers absorbthe cost of scarcer veg", 
     "id": 84, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=4yl08k8aD15HwjWLEO9HDAsAonaNkeZ9aVQkfiWjxoE&v=1&r=http%3a%2f%2fwww.newsandstar.co.uk%2fnews%2flatest%2fCarlisle-greengrocers-absorb-the-cost-of-scarcer-veg-58917046-8cb2-4d7a-98ae-9a7db91cd64f-ds&p=DevEx,5171.1"
   }, 
   {
     "headline": "Plans revealed to refurbish Bensons for Beds and Harveys store on Festival Park", 
     "id": 85, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=sPY7mTLpYCqjez8QwWEqP72XYUp7wmSqQzgtKdfl2ds&v=1&r=http%3a%2f%2fwww.stokesentinel.co.uk%2fplans-revealed-to-refurbish-bensons-for-beds-and-harveys-store-on-festival-park%2fstory-30111520-detail%2fstory.html&p=DevEx,5173.1"
   }, 
   {
     "headline": "GM And Honda Announced $85M Joint Fuel Cell System Manufacturing Operation in Michigan", 
     "id": 86, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=eiHxwYvVOL1WlFDvRZatCKtEcLOy0eJn-8B0OSiimGY&v=1&r=http%3a%2f%2finsideevs.com%2fgm-honda-announced-85m-joint-fuel-cell-system-manufacturing-operation-in-michigan%2f&p=DevEx,5175.1"
   }, 
   {
     "headline": "RNLI Feature: The dangerous task of saving lives at sea", 
     "id": 87, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.6, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=3oD6_rdH9BvQWGgAw5KVEQKBG3I7Dx70gOCxh67jEsY&v=1&r=http%3a%2f%2fwww.whitbygazette.co.uk%2fnews%2frnli-feature-the-dangerous-task-of-saving-lives-at-sea-1-8368072&p=DevEx,5177.1"
   }, 
   {
     "headline": "New York Times Records Highest Growth during Trump\u2019s Reign", 
     "id": 88, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=suz1FQiov3_iOL2D2bDeFNrpm4PyQFSW5PnlxpV80hE&v=1&r=http%3a%2f%2fwww.capitalotc.com%2fnew-york-times%2f216902%2f&p=DevEx,5179.1"
   }, 
   {
     "headline": "Aslef-Southern Railway deal \u2018shocking betrayal\u2019 of workers and passengers", 
     "id": 89, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "https://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=vOYgd7tR8iWuLceBZjEk3zVdmmSBdVt6eXHG5IwyxWE&v=1&r=https%3a%2f%2fwww.eveningexpress.co.uk%2fpipe%2fnews%2fuk%2faslef-southern-railway-deal-shocking-betrayal-of-workers-and-passengers%2f&p=DevEx,5181.1"
   }, 
   {
     "headline": "Watch: What a difference 20 years makes - Rover vs Honda in crash test", 
     "id": 90, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=XbDBEMm4BihiQ3wl2SXomiC0hYy3ARr9pSdMSAh66xY&v=1&r=http%3a%2f%2fwww.birminghammail.co.uk%2fnews%2fmidlands-news%2fwatch-what-difference-20-years-12544265&p=DevEx,5183.1"
   }, 
   {
     "headline": "WH Ireland details Hurricane Energy\u2019s upside potential", 
     "id": 91, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=no9pn9L1caNZ26uEGUqUiWPIlCD2L4kCxtb6PDi4Eu8&v=1&r=http%3a%2f%2fwww.proactiveinvestors.co.uk%2fcompanies%2fnews%2f172562&p=DevEx,5185.1"
   }, 
   {
     "headline": "How much will you pay when Northumbrian Water increases bills in April?", 
     "id": 92, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": -0.3, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=B-9bdly5q9Rb7WBk-ylqNY6L0eX9-hdD1_qCrInojSI&v=1&r=http%3a%2f%2fwww.chroniclelive.co.uk%2fnews%2fnorth-east-news%2fhow-much-you-pay-northumbrian-12544603&p=DevEx,5187.1"
   }, 
   {
     "headline": "All eyes on Sound Energy as the next well can confirm a huge discovery", 
     "id": 93, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=OJbBvB3HqOvmwEWlP8vhpnk3vs0LGIW84F1E1EIVdeo&v=1&r=http%3a%2f%2fwww.proactiveinvestors.co.uk%2fcompanies%2fnews%2f172567%2fall-eyes-on-sound-energy-as-the-next-well-can-confirm-a-huge-discovery-172567.html&p=DevEx,5189.1"
   }, 
   {
     "headline": "Two property trust launches target yields of 5% plus", 
     "id": 94, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=d8lgscTtTMBdoIiK1xs8gkr1r5hAqANB1yTjoNZ3yHA&v=1&r=http%3a%2f%2fcitywire.co.uk%2fmoney%2ftwo-property-trust-launches-target-yields-of-5-plus%2fa989464&p=DevEx,5191.1"
   }, 
   {
     "headline": "Walsall-based Homeserve spends \u00a337m on home improvement companies", 
     "id": 95, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=mi0GqS02ta8WJsTc2-Op1x7NXUPnsWnOCBTOQZpi3cE&v=1&r=http%3a%2f%2fwww.expressandstar.com%2fbusiness%2f2017%2f02%2f03%2fwalsall-based-homeserve-spends-37m-on-home-improvement-companies%2f&p=DevEx,5193.1"
   }, 
   {
     "headline": "Brits face a 5p rise in the price of a pint because of a \u2018crippling\u2019 tax bombshell", 
     "id": 96, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
     "url": "https://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=Yx3PH3_Ejh_3smwzszVjon-8KHRzlVTwovCWDQ4PXcY&v=1&r=https%3a%2f%2fwww.thesun.co.uk%2fnews%2f2779559%2fbrits-face-a-5p-rise-in-the-price-of-a-pint-because-of-a-crippling-tax-bombshell%2f&p=DevEx,5195.1"
   }, 
   {
     "headline": "HMV respond to reports about its flagship Oxford Street store closure: \"There is no agreement in place\"", 
     "id": 97, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": -0.4, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=3SfrRFVSDnMJKZGAOvgAIG5WXBJinvP7I8z1eA_HDdU&v=1&r=http%3a%2f%2fwww.officialcharts.com%2fchart-news%2fhmv-respond-to-reports-about-its-flagship-oxford-street-store-closure-there-is-no-agreement-in-place__18090%2f&p=DevEx,5197.1"
   }, 
   {
     "headline": "Pound falls despite Bank's hike to growth forecasts", 
     "id": 98, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=Wm4efb0-Z7MWjzeeNaUpCjMYQMEJAWgwC3PJbLdvIlE&v=1&r=http%3a%2f%2fcitywire.co.uk%2fmoney%2fpound-falls-despite-banks-hike-to-growth-forecasts%2fa989369&p=DevEx,5199.1"
   }, 
   {
     "headline": "LIVE British Pound To Euro Outlook - BoE Sends GBP/EUR Exchange Rate Below 1.16", 
     "id": 99, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": -0.3, 
     "url": "http://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=V4rFZ_wyO3WmPcilGhzbes9DIAzB0KJ1AYekeZlLhuQ&v=1&r=http%3a%2f%2fwww.exchangerates.org.uk%2fnews%2f17302%2fgbp-eur-exchange-rate-news-and-five-day-currency-predictions-forecast.html&p=DevEx,5201.1"
   }, 
   {
     "headline": "USA! USa! Udia! India! India! Apple nudges iPhone production base", 
     "id": 100, 
+    "sentiment_magnitude": 0.8, 
+    "sentiment_score": 0.2, 
     "url": "https://www.bing.com/cr?IG=F3F2523D13404AA087865E592B60F476&CID=3C8087383556604916CD8D2734B16171&rd=1&h=S3N_hv-uufzGVCdMyz_D8ttu9eNdp1jbGAh2Q2wcv-Q&v=1&r=https%3a%2f%2fwww.theregister.co.uk%2f2017%2f02%2f03%2fapple_to_move_iphone_production_to_india%2f&p=DevEx,5203.1"
   }
 ]

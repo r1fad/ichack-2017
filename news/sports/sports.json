@@ -1,427 +1,597 @@
 [
   {
-    "headLine": "Chelsea 3-1 Arsenal",
-    "id": 1,
+    "headLine": "Chelsea 3-1 Arsenal", 
+    "id": 1, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=neNtl-jxpLnxGkXWpGZls4JwbU2hGF3dMSt5d5i_wBE&v=1&r=http%3a%2f%2fwww.bbc.co.uk%2fsport%2ffootball%2f38779302&p=DevEx,5176.1"
-  },
+  }, 
   {
-    "headLine": "Tottenham 1 Middlesbrough 0: Harry Kane on the spot to break through Boro's brick wall",
-    "id": 2,
+    "headLine": "Tottenham 1 Middlesbrough 0: Harry Kane on the spot to break through Boro's brick wall", 
+    "id": 2, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=vloGmxfaVwNUiF7rjK9B_YUIcQgcGFQuGvLpDhyuHPI&v=1&r=http%3a%2f%2fwww.telegraph.co.uk%2ffootball%2f2017%2f02%2f04%2ftottenham-vs-middlesbrough-premier-league-live-score-updates%2f&p=DevEx,5180.1"
-  },
+  }, 
   {
-    "headLine": "Hull City 2-0 Liverpool: Marco Silva masterminds shock victory over Jurgen Klopp - 5 things we learned",
-    "id": 3,
+    "headLine": "Hull City 2-0 Liverpool: Marco Silva masterminds shock victory over Jurgen Klopp - 5 things we learned", 
+    "id": 3, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=Ass5KtAVs0xNNITjBFYN7qg9_yw2vQ2GaRYgv00egP0&v=1&r=http%3a%2f%2fwww.mirror.co.uk%2fsport%2ffootball%2fmatch-reports%2fhull-city-2-0-liverpool-9407672&p=DevEx,5184.1"
-  },
+  }, 
   {
-    "headLine": "2017 Six Nations: Scotland 27-22 Ireland",
-    "id": 4,
+    "headLine": "2017 Six Nations: Scotland 27-22 Ireland", 
+    "id": 4, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=ceOr5qfROkByYhRTgArCs_dDXi0rtY9TPHwmOKc0vRY&v=1&r=http%3a%2f%2fwww.bbc.co.uk%2fsport%2frugby-union%2f38848621&p=DevEx,5190.1"
-  },
+  }, 
   {
-    "headLine": "England 19 France 16: Unbeaten run tested to the limit as Eddie Jones forced to summon the cavalry",
-    "id": 5,
+    "headLine": "England 19 France 16: Unbeaten run tested to the limit as Eddie Jones forced to summon the cavalry", 
+    "id": 5, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": -0.4, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=tUvEFQrDd1Qs1ayra0KTSX222tMcDAiRX6CyU_Gc3MY&v=1&r=http%3a%2f%2fwww.telegraph.co.uk%2frugby-union%2f2017%2f02%2f04%2fengland-vs-france-six-nations-live-score-updates%2f&p=DevEx,5013.1"
-  },
+  }, 
   {
-    "headLine": "Sam Allardyce's Sunderland reunion a forgettable one as Crystal Palace get hammered",
-    "id": 6,
+    "headLine": "Sam Allardyce's Sunderland reunion a forgettable one as Crystal Palace get hammered", 
+    "id": 6, 
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": -0.7, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=c98mkDJFqbJCDDlZSOAC2ndkdtwzn0FvK6vasil-K7M&v=1&r=http%3a%2f%2fwww.independent.co.uk%2fsport%2ffootball%2fpremier-league%2fsam-allardyces-sunderland-reunion-a-forgettable-one-as-crystal-palace-get-hammered-a7563096.html&p=DevEx,5197.1"
-  },
+  }, 
   {
-    "headLine": "MMA fans could not believe how these controversial fights ended",
-    "id": 7,
+    "headLine": "MMA fans could not believe how these controversial fights ended", 
+    "id": 7, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=OZaZk8hu3dP0OSERBruVa1Bqtv7Qm7vozuMri5vgbSo&v=1&r=http%3a%2f%2fwww.dailystar.co.uk%2fsport%2fufc%2f584760%2fmost-controversial-moments-UFC-history-MMA-fixed-fights-conspiracy-theories&p=DevEx,5017.1"
-  },
+  }, 
   {
-    "headLine": "Manchester City v Swansea preview",
-    "id": 8,
+    "headLine": "Manchester City v Swansea preview", 
+    "id": 8, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=uuyxAEYzApsTHa5GuInuBs91ZcHOXxEYye6XM5T8pCk&v=1&r=http%3a%2f%2fwww.sportinglife.com%2ffootball%2fnews%2farticle%2f165%2f10741988%2fmanchester-city-v-swansea-city-team-news-predictions-statistics-odds-kick-off-time&p=DevEx,5019.1"
-  },
+  }, 
   {
-    "headLine": "Brady good for several more seasons, say science experts",
-    "id": 9,
+    "headLine": "Brady good for several more seasons, say science experts", 
+    "id": 9, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.6, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=1u-q6LEN_DX06yZh7t76IMTogrRhPENSAJG69Q3d5BY&v=1&r=http%3a%2f%2fwww.reuters.com%2farticle%2fus-nfl-superbowl-patriots-brady-idUSKBN15J0SO&p=DevEx,5203.1"
-  },
+  }, 
   {
-    "headLine": "Everton\u2019s Romelu Lukaku hits four to deny Bournemouth in 6-3 thrilller",
-    "id": 10,
+    "headLine": "Everton\u2019s Romelu Lukaku hits four to deny Bournemouth in 6-3 thrilller", 
+    "id": 10, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
     "url": "https://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=m9h_XECU8kG3YLvr39Qq6XpXkJwWiiUITPMKR2MRu10&v=1&r=https%3a%2f%2fwww.theguardian.com%2ffootball%2f2017%2ffeb%2f04%2feverton-bournemouth-premier-league-match-report&p=DevEx,5207.1"
-  },
+  }, 
   {
-    "headLine": "Mourinho responds to Rio\u2019s criticism of Pogba",
-    "id": 11,
+    "headLine": "Mourinho responds to Rio\u2019s criticism of Pogba", 
+    "id": 11, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=rUYnMPw1IpX4Z_GX4dVVqPvLWO3PyoKBFxnfFcPgufs&v=1&r=http%3a%2f%2fwww.teamtalk.com%2fnews%2fmourinho-responds-to-rios-criticism-of-pogba&p=DevEx,5212.1"
-  },
+  }, 
   {
-    "headLine": "Dwaine, AB star in SA victory",
-    "id": 12,
+    "headLine": "Dwaine, AB star in SA victory", 
+    "id": 12, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=AsJBXfquQIIP28RHcif9IbZNTOq0hdoGRESRw8RtGGk&v=1&r=http%3a%2f%2fwww.supersport.com%2fcricket%2farticle.aspx%3fId%3d3873774&p=DevEx,5027.1"
-  },
+  }, 
   {
-    "headLine": "Isaiah Thomas: The Eastern Conference's best guard?",
-    "id": 13,
+    "headLine": "Isaiah Thomas: The Eastern Conference's best guard?", 
+    "id": 13, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.6, 
     "url": "https://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=PvOQFGBACWihVbxtVy91bBG0ena6-nIFcZEeX_e8Y7k&v=1&r=https%3a%2f%2fwww.vavel.com%2fen-us%2fnba%2f751082-isaiah-thomas-the-eastern-conferences-best-guard.html&p=DevEx,5029.1"
-  },
+  }, 
   {
-    "headLine": "Rangers 1 - 1 Ross County: The Gers drop to third with disappointing draw",
-    "id": 14,
+    "headLine": "Rangers 1 - 1 Ross County: The Gers drop to third with disappointing draw", 
+    "id": 14, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=Fjd93UuzoySOQJrpMTqi6cnOnx2NcSWYRnFkLOK4oaQ&v=1&r=http%3a%2f%2fwww.scotsman.com%2fsport%2ffootball%2fcompetitions%2fpremiership%2frangers-1-1-ross-county-the-gers-drop-to-third-with-disappointing-draw-1-4358120&p=DevEx,5031.1"
-  },
+  }, 
   {
-    "headLine": "Pulis: West Brom could have thrown Berahino under bus",
-    "id": 15,
+    "headLine": "Pulis: West Brom could have thrown Berahino under bus", 
+    "id": 15, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=rgx4Dyz7fiGXqMrw-JXbjNpQ7swsyxlldBDbfTndoMY&v=1&r=http%3a%2f%2fwww.football365.com%2fnews%2fpulis-west-brom-could-have-thrown-berahino-under-bus&p=DevEx,5219.1"
-  },
+  }, 
   {
-    "headLine": "Chelsea 3-1 Arsenal: Eden Hazard inspires Blues to victory over Gunners",
-    "id": 16,
+    "headLine": "Chelsea 3-1 Arsenal: Eden Hazard inspires Blues to victory over Gunners", 
+    "id": 16, 
+    "sentiment_magnitude": 0.9, 
+    "sentiment_score": 0.9, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=vu6OgJDGD8asCDzBfeVBze2ctUc4IF9a44N2fMI0f0k&v=1&r=http%3a%2f%2fwww.belfasttelegraph.co.uk%2fsport%2ffootball%2fpremier-league%2fchelsea-31-arsenal-eden-hazard-inspires-blues-to-victory-over-gunners-35423113.html&p=DevEx,5035.1"
-  },
+  }, 
   {
-    "headLine": "Hard work allows Chelsea stars to shine",
-    "id": 17,
+    "headLine": "Hard work allows Chelsea stars to shine", 
+    "id": 17, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=NvxVHU7KbEk1lbLAjSKtv1ZTAxFLHovjUg2VIbI-ZH4&v=1&r=http%3a%2f%2fuk.reuters.com%2farticle%2fuk-soccer-england-che-ars-analysis-idUKKBN15J0QG%3ffeedType%3dRSS%26feedName%3dtopNews&p=DevEx,5224.1"
-  },
+  }, 
   {
-    "headLine": "Premier League match report: Spurs 1-0 Middlesbrough",
-    "id": 18,
+    "headLine": "Premier League match report: Spurs 1-0 Middlesbrough", 
+    "id": 18, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=rGu090BLoLWGBDL1OvPZ7DeTp2Nr5eZ9zcZ2kVJojno&v=1&r=http%3a%2f%2fwww.itv.com%2fnews%2f2017-02-04%2fpremier-league-match-report-spurs-1-0-middlesbrough%2f&p=DevEx,5039.1"
-  },
+  }, 
   {
-    "headLine": "Chelsea, Sunderland & Hull win",
-    "id": 19,
+    "headLine": "Chelsea, Sunderland & Hull win", 
+    "id": 19, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=7RCF2PYAwfhJGtoOAQyrjIKeCzexXqbCjuI8UgP8Ci8&v=1&r=http%3a%2f%2fwww.sportinglife.com%2ffootball%2fnews%2farticle%2f165%2f10755966%2fpremier-league-review-and-football-results-for-saturday-february-4&p=DevEx,5041.1"
-  },
+  }, 
   {
-    "headLine": "Chelsea 3 Arsenal 1 player ratings: Eden Hazard stars as Chelsea outclass the Gunners",
-    "id": 20,
+    "headLine": "Chelsea 3 Arsenal 1 player ratings: Eden Hazard stars as Chelsea outclass the Gunners", 
+    "id": 20, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=bsLg3N4gOTw1H8yuNZ90BC8fYqP6fMZdBJWH64edhZc&v=1&r=http%3a%2f%2fmetro.co.uk%2f2017%2f02%2f04%2fchelsea-3-arsenal-1-player-ratings-eden-hazard-stars-as-chelsea-outclass-the-gunners-6426873%2f&p=DevEx,5230.1"
-  },
+  }, 
   {
-    "headLine": "Scotland 27-22 Ireland: Scots 'finding ways to win' - Vern Cotter",
-    "id": 21,
+    "headLine": "Scotland 27-22 Ireland: Scots 'finding ways to win' - Vern Cotter", 
+    "id": 21, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=ipX6szZ713MAnLvFu3G28Bb-SuSZzzWEq5f9sliRiGI&v=1&r=http%3a%2f%2fwww.bbc.com%2fsport%2frugby-union%2f38869774&p=DevEx,5045.1"
-  },
+  }, 
   {
-    "headLine": "Inverness CT 2 - 2 Dundee: Richie Foran\u2019s men rescue crucial point",
-    "id": 22,
+    "headLine": "Inverness CT 2 - 2 Dundee: Richie Foran\u2019s men rescue crucial point", 
+    "id": 22, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=qnktedYo3NV-rjzQEkL4CjCcUjXhbva4nRJ-vqjEvnE&v=1&r=http%3a%2f%2fwww.scotsman.com%2fsport%2ffootball%2fcompetitions%2fpremiership%2finverness-ct-2-2-dundee-richie-foran-s-men-rescue-crucial-point-1-4358138&p=DevEx,5047.1"
-  },
+  }, 
   {
-    "headLine": "Kristina Mladenovic through to final at St Petersburg Ladies Trophy",
-    "id": 23,
+    "headLine": "Kristina Mladenovic through to final at St Petersburg Ladies Trophy", 
+    "id": 23, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=KAjcARXSyOG-eORWqIXuUhonLBHTJxgTRyilSMZ9__Y&v=1&r=http%3a%2f%2fwww.tennis.co.uk%2fwta%2fkristina-mladenovic-through-to-final-at-st-petersburg-ladies%2f8331238%2f&p=DevEx,5049.1"
-  },
+  }, 
   {
-    "headLine": "Newcastle return to Championship summit with 1-0 win over Derby",
-    "id": 24,
+    "headLine": "Newcastle return to Championship summit with 1-0 win over Derby", 
+    "id": 24, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": -0.5, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=Fw7wYgrha3RttoEScXd_lgnxJWQgwi0pKIJ3rxBXKtk&v=1&r=http%3a%2f%2fwww.reuters.com%2farticle%2fuk-soccer-england-championship-idUKKBN15J0R4&p=DevEx,5051.1"
-  },
+  }, 
   {
-    "headLine": "Borussia Dortmund 1 RB Leipzig 0: Pierre-Emerick Aubameyang scores the only goal of the game as BVB move up to third in the table",
-    "id": 25,
+    "headLine": "Borussia Dortmund 1 RB Leipzig 0: Pierre-Emerick Aubameyang scores the only goal of the game as BVB move up to third in the table", 
+    "id": 25, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": -0.3, 
     "url": "https://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=M7zXMUCz5b2KVAbRJy3Tx8oj5ZpuPLIwISMWbDT9LNU&v=1&r=https%3a%2f%2fwww.thesun.co.uk%2fsport%2ffootball%2f2785562%2fborussia-dortmund-1-rb-leipzig-0-pierre-emerick-aubameyang-scores-the-only-goal-of-the-game-as-bvb-move-up-to-third-in-the-table%2f&p=DevEx,5053.1"
-  },
+  }, 
   {
-    "headLine": "Ballyea book place in All-Ireland final",
-    "id": 26,
+    "headLine": "Ballyea book place in All-Ireland final", 
+    "id": 26, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=ewzaYchI7d51ZqTTzJcyLbLjPe2WnxaezoAcSzEoAAg&v=1&r=http%3a%2f%2fclareherald.com%2f2017%2f02%2fballyea-book-place-in-all-ireland-final-99676%2f&p=DevEx,5055.1"
-  },
+  }, 
   {
-    "headLine": "Riders left embarrassed by lack of CPA representation at the Dubai Tour",
-    "id": 27,
+    "headLine": "Riders left embarrassed by lack of CPA representation at the Dubai Tour", 
+    "id": 27, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=RCocGuVKfeRDYOZdSbAjYQfXYCRyxR6m9Evmehs4iak&v=1&r=http%3a%2f%2fwww.cyclingnews.com%2fnews%2friders-left-embarrassed-by-lack-of-cpa-representation-at-the-dubai-tour%2f&p=DevEx,5057.1"
-  },
+  }, 
   {
-    "headLine": "Tottenham 1 - 0 Middlesbrough: Kane penalty helps Spurs grind out three points",
-    "id": 28,
+    "headLine": "Tottenham 1 - 0 Middlesbrough: Kane penalty helps Spurs grind out three points", 
+    "id": 28, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=LZEQuaHaaWFnMTPjbV8HzwqGFGPf0sLtXZkbAxDs4gE&v=1&r=http%3a%2f%2fcartilagefreecaptain.sbnation.com%2f2017%2f2%2f4%2f14508710%2ftottenham-1-0-middlesbrough-kane-penalty-helps-spurs-grind-out-three-points&p=DevEx,5059.1"
-  },
+  }, 
   {
-    "headLine": "'Reality check' for Wolves says Paul Lambert after Burton defeat",
-    "id": 29,
+    "headLine": "'Reality check' for Wolves says Paul Lambert after Burton defeat", 
+    "id": 29, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=GDxtCYY9VCdObC6xPdwhbZkDbUxf7bJfj76kuI8Ocjc&v=1&r=http%3a%2f%2fwww.expressandstar.com%2fsport%2fwolverhampton-wanderers-fc%2f2017%2f02%2f04%2freality-check-for-wolves-says-paul-lambert-after-burton-defeat%2f&p=DevEx,5061.1"
-  },
+  }, 
   {
-    "headLine": "Pistons Edged By Terriers, Have Winning Streak Snapped",
-    "id": 30,
+    "headLine": "Pistons Edged By Terriers, Have Winning Streak Snapped", 
+    "id": 30, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
     "url": "https://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=6K-nvX5-YvEF9WKeJ9_vNnhslYObn8k72cXwDByRLN0&v=1&r=https%3a%2f%2fsteinbachonline.com%2flocal-sports%2fpistons-edged-by-terriers-have-winning-streak-snapped&p=DevEx,5063.1"
-  },
+  }, 
   {
-    "headLine": "Game Plan Delivered Perfectly Beams Slaven Bilic As West Ham Beat Southampton",
-    "id": 31,
+    "headLine": "Game Plan Delivered Perfectly Beams Slaven Bilic As West Ham Beat Southampton", 
+    "id": 31, 
+    "sentiment_magnitude": 0.8, 
+    "sentiment_score": 0.8, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=sm8qkdic9n6OFy4QgAkUxd2r8siqdoxJ8oC8P3RC4RM&v=1&r=http%3a%2f%2fwww.insidefutbol.com%2f2017%2f02%2f04%2fgame-plan-delivered-perfectly-beams-slaven-bilic-as-west-ham-beat-southampton%2f325103%2f&p=DevEx,5065.1"
-  },
+  }, 
   {
-    "headLine": "Two-try Ed Sheldon sends Moseley RFC to bonus point win over ill-disciplined Rosslyn Park",
-    "id": 32,
+    "headLine": "Two-try Ed Sheldon sends Moseley RFC to bonus point win over ill-disciplined Rosslyn Park", 
+    "id": 32, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=NsggcllivXRZfKpAzbfnJfiqmun02IbAlYR31DtWR-w&v=1&r=http%3a%2f%2fwww.coventrytelegraph.net%2fnews%2flocal-news%2ftwo-try-ed-sheldon-sends-12548569&p=DevEx,5067.1"
-  },
+  }, 
   {
-    "headLine": "Rangers 1 Ross County 1 \u2013 Mark Warburton\u2019s men booed off at final whistle as they drop points at home to Staggies",
-    "id": 33,
+    "headLine": "Rangers 1 Ross County 1 \u2013 Mark Warburton\u2019s men booed off at final whistle as they drop points at home to Staggies", 
+    "id": 33, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "https://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=HV9Rh3RfVWG6Op42tifXvlfTqdMlSIgpPN1le_pY_XM&v=1&r=https%3a%2f%2fwww.thescottishsun.co.uk%2fsport%2ffootball%2f536164%2frangers-1-ross-county-1-mark-warburtons-men-booed-off-at-final-whistle-as-they-drop-points-at-home-to-staggies%2f&p=DevEx,5246.1"
-  },
+  }, 
   {
-    "headLine": "Kane spot on as Spurs ease past Boro",
-    "id": 34,
+    "headLine": "Kane spot on as Spurs ease past Boro", 
+    "id": 34, 
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": 0.7, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=a4gOyiyiNcMafRvunXdaL4kA7qmtRQchT60Pmxhuob4&v=1&r=http%3a%2f%2fwww.timesofmalta.com%2farticles%2fview%2f20170204%2fsport%2fkane-spot-on-as-spurs-ease-past-boro.638599&p=DevEx,5071.1"
-  },
+  }, 
   {
-    "headLine": "Robson, Vees hold off Clippers for second straight win",
-    "id": 35,
+    "headLine": "Robson, Vees hold off Clippers for second straight win", 
+    "id": 35, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=g-v3Q1xjhWYU7K673uDdDxTE8_05XJCsdQQvb76ljb0&v=1&r=http%3a%2f%2finfotel.ca%2fnewsitem%2frobson-vees-hold-off-clippers-for-second-straight-win%2fit39331&p=DevEx,5073.1"
-  },
+  }, 
   {
-    "headLine": "Chelsea 3-1 Arsenal: 5 things we learned",
-    "id": 36,
+    "headLine": "Chelsea 3-1 Arsenal: 5 things we learned", 
+    "id": 36, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=ulNlOP0xjqS3ILV_u0lX0nFvj1dK2opUQq4d1OB0tGM&v=1&r=http%3a%2f%2fsport360.com%2farticle%2ffootball%2fenglish-premier-league%2f221588%2fchelsea-3-1-arsenal-five-things-we-learned-from-chelseas-commanding-win-over-london-rivals%2f&p=DevEx,5075.1"
-  },
+  }, 
   {
-    "headLine": "Jazz hits a winning note",
-    "id": 37,
+    "headLine": "Jazz hits a winning note", 
+    "id": 37, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=-33bB7hc2T82RUD_HGn-lVyYZbrg1ImIqyaquLaYBdk&v=1&r=http%3a%2f%2fwww.thedailystar.net%2fsports%2fgolf%2fjazz-hits-winning-note-1356118&p=DevEx,5077.1"
-  },
+  }, 
   {
-    "headLine": "'On a personal note I'm not happy about that': Coventry City defender Farrend Rawson on Millwall's opener",
-    "id": 38,
+    "headLine": "'On a personal note I'm not happy about that': Coventry City defender Farrend Rawson on Millwall's opener", 
+    "id": 38, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": -0.4, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=0KSnrgtM5RkOxeqJBIjwpSYA7SCbBSpPECz2FxH8GOw&v=1&r=http%3a%2f%2fwww.coventrytelegraph.net%2fsport%2ffootball%2ffootball-news%2fon-personal-note-im-not-12558122&p=DevEx,5079.1"
-  },
+  }, 
   {
-    "headLine": "Bolt leads All-Stars to win",
-    "id": 39,
+    "headLine": "Bolt leads All-Stars to win", 
+    "id": 39, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=T73zHrYneFLAOUX8d1nsab1Y5uVvRG1czR6ij-vVXgo&v=1&r=http%3a%2f%2fwww.thedailystar.net%2fsports%2fbolt-leads-all-stars-win-1356142&p=DevEx,5081.1"
-  },
+  }, 
   {
-    "headLine": "Things are looking up for Matt Miazga and Vitesse",
-    "id": 40,
+    "headLine": "Things are looking up for Matt Miazga and Vitesse", 
+    "id": 40, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=YQR6yv3zEgbZavb4f8xfRdXYvfNDCsX7Lwg_IPl4Cwk&v=1&r=http%3a%2f%2fwww.onceametro.com%2f2017%2f2%2f4%2f14509618%2fthings-are-looking-up-for-matt-miazga-and-vitesse-chelsea-new-york-red-bulls&p=DevEx,5083.1"
-  },
+  }, 
   {
-    "headLine": "Corey Bell hired at Florida as new position coach",
-    "id": 41,
+    "headLine": "Corey Bell hired at Florida as new position coach", 
+    "id": 41, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=bsL7txCOCJDBNpufBBq2ghN49HIkUa_tEQB6ON1P8qE&v=1&r=http%3a%2f%2fflorida.247sports.com%2fBolt%2fReport-Corey-Bell-hired-at-Florida-as-defensive-backs-coach-51104556&p=DevEx,5085.1"
-  },
+  }, 
   {
-    "headLine": "Nottingham Forest 2 Aston Villa 1 - report, stats and video",
-    "id": 42,
+    "headLine": "Nottingham Forest 2 Aston Villa 1 - report, stats and video", 
+    "id": 42, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=sn9wG9OlNi4Nj2x_s5Be2aOUJ4EWF65xb44EyVaL_2Q&v=1&r=http%3a%2f%2fwww.birminghammail.co.uk%2fsport%2ffootball%2fmatch-reports%2fnottingham-forest-2-aston-villa-12556596&p=DevEx,5087.1"
-  },
+  }, 
   {
-    "headLine": "Crystal Palace Fans React Angrily After Dismal Defeat To Sunderland",
-    "id": 43,
+    "headLine": "Crystal Palace Fans React Angrily After Dismal Defeat To Sunderland", 
+    "id": 43, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=DbnrI7sFwphvz6U5oXhjwKrOaVFfpRbkxkJ48IZlwJY&v=1&r=http%3a%2f%2fwww.punditarena.com%2ffootball%2fpreynolds%2fcrystal-palace-fans-sunderland%2f&p=DevEx,5089.1"
-  },
+  }, 
   {
-    "headLine": "Greig Laidlaw hails stunning Scotland win as Ireland fall short at Murrayfield",
-    "id": 44,
+    "headLine": "Greig Laidlaw hails stunning Scotland win as Ireland fall short at Murrayfield", 
+    "id": 44, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.6, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=W6dhNdoFGj79uq3MfAIndm3rm3nhFtjR6ejTRncyuuY&v=1&r=http%3a%2f%2fwww.newsandstar.co.uk%2fnews%2fnational%2farticle%2fGreig-Laidlaw-hails-stunning-Scotland-win-as-Ireland-fall-short-at-Murrayfield-b0696589-061b-4b7e-8784-509b42e320fb-ds&p=DevEx,5091.1"
-  },
+  }, 
   {
-    "headLine": "Newcastle 1-0 Derby: Steve, who? It's all about Rafa Benitez for United fans - 5 things we learned",
-    "id": 45,
+    "headLine": "Newcastle 1-0 Derby: Steve, who? It's all about Rafa Benitez for United fans - 5 things we learned", 
+    "id": 45, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=hYSTD2-P60GQHlLpwyWAXztf38hn8p_oYItOI7E2ykU&v=1&r=http%3a%2f%2fwww.chroniclelive.co.uk%2fsport%2ffootball%2ffootball-news%2fnewcastle-1-0-derby-steve-12557632&p=DevEx,5093.1"
-  },
+  }, 
   {
-    "headLine": "AFC Telford 0 Gloucester City 2 - Report",
-    "id": 46,
+    "headLine": "AFC Telford 0 Gloucester City 2 - Report", 
+    "id": 46, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": -0.3, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=s6DSOzPEKDZs_AgvZ95OButlUjVUYKkjZ8O7BuNVH-o&v=1&r=http%3a%2f%2fwww.shropshirestar.com%2fsport%2fafc-telford-united%2f2017%2f02%2f04%2fafc-telford-0-gloucester-city-2-report%2f&p=DevEx,5095.1"
-  },
+  }, 
   {
-    "headLine": "Ben Te'o strikes late as England survive France scare in Six Nations opener",
-    "id": 47,
+    "headLine": "Ben Te'o strikes late as England survive France scare in Six Nations opener", 
+    "id": 47, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": -0.5, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=Y1KiYHXmWECYRCKCZbeR7jP1UhGVB1hrBxkQexu15oA&v=1&r=http%3a%2f%2fwww.ibtimes.co.uk%2fben-teo-strikes-late-england-survive-france-scare-six-nations-opener-1604859&p=DevEx,5097.1"
-  },
+  }, 
   {
-    "headLine": "Tottenham 1 Middlesbrough 0: Harry Kane penalty closes gap on Chelsea to nine points as Arsenal, Liverpool lose",
-    "id": 48,
+    "headLine": "Tottenham 1 Middlesbrough 0: Harry Kane penalty closes gap on Chelsea to nine points as Arsenal, Liverpool lose", 
+    "id": 48, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=xH0pw-MYtTi1nvTaRrvAHnBhL_k_OB9zMIMVW6q_VEw&v=1&r=http%3a%2f%2fwww.standard.co.uk%2fsport%2ffootball%2ftottenham-1-middlesbrough-0-harry-kane-penalty-closes-gap-on-chelsea-to-nine-points-as-arsenal-a3458551.html&p=DevEx,5099.1"
-  },
+  }, 
   {
-    "headLine": "Jose Mourinho: You wanted him, you got him, now stop the whining",
-    "id": 49,
+    "headLine": "Jose Mourinho: You wanted him, you got him, now stop the whining", 
+    "id": 49, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=JKxzlVWIEGJt2VapdFNFzEQrEmIkkBEa107D_ttgYMs&v=1&r=http%3a%2f%2fmufclatest.com%2fjose-mourinho-you-wanted-him-you-got-him-now-stop-the-whining%2f&p=DevEx,5101.1"
-  },
+  }, 
   {
-    "headLine": "Tranmere Rovers 1-1 Chelmsford City: The match in a minute",
-    "id": 50,
+    "headLine": "Tranmere Rovers 1-1 Chelmsford City: The match in a minute", 
+    "id": 50, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=MHxfRoDXGj9tiMnx5I3jNoBa0q9-ybK-omVq7jIdkDM&v=1&r=http%3a%2f%2fwww.essexlive.news%2ftranmere-rovers-1-1-chelmsford-city-the-match-in-a-minute%2fstory-30111745-detail%2fstory.html&p=DevEx,5103.1"
-  },
+  }, 
   {
-    "headLine": "Etoile de Besseges: Demare nabs stage 4",
-    "id": 51,
+    "headLine": "Etoile de Besseges: Demare nabs stage 4", 
+    "id": 51, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=GBOMVUbDpeedAIY_si4r6Q3QyYMkV9Y3DM5AbZfydSk&v=1&r=http%3a%2f%2fwww.cyclingnews.com%2fraces%2fetoile-de-besseges-2017%2fstage-4%2fresults%2f&p=DevEx,5105.1"
-  },
+  }, 
   {
-    "headLine": "On Goals on Sunday: Former Everton boss Roberto Martinez on the sofa",
-    "id": 52,
+    "headLine": "On Goals on Sunday: Former Everton boss Roberto Martinez on the sofa", 
+    "id": 52, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=YFAiGpnh2OdG_Byslha04e1wqLmqVQNHgm670UHadHA&v=1&r=http%3a%2f%2fwww.skysports.com%2fwatch%2ftv-shows%2fgoals-on-sunday%2fnews%2f10753683%2fon-goals-on-sunday-former-everton-boss-roberto-martinez-on-the-sofa&p=DevEx,5107.1"
-  },
+  }, 
   {
-    "headLine": "United recall Henderson from loan spell",
-    "id": 53,
+    "headLine": "United recall Henderson from loan spell", 
+    "id": 53, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=qfV24aJ1ITd4_m26FfvsaHui0SM4l6C9tis3ldmA2VE&v=1&r=http%3a%2f%2fwww.manutd.com%2fen%2fNews-And-Features%2fFootball-News%2f2017%2fFeb%2fmanchester-united-goalkeeper-Dean-Henderson-recalled-from-loan-spell-at-grimsby-town.aspx&p=DevEx,5109.1"
-  },
+  }, 
   {
-    "headLine": "United submit updated Europa League squad",
-    "id": 54,
+    "headLine": "United submit updated Europa League squad", 
+    "id": 54, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=lOJF5d-Q6tt1YbxgKJrjo8LGc-QtrRys8zHF4wGaeGQ&v=1&r=http%3a%2f%2fwww.manutd.com%2fen%2fNews-And-Features%2fFootball-News%2f2017%2fFeb%2fManchester-United-submit-updated-squad-to-UEFA-for-Europa-League.aspx&p=DevEx,5111.1"
-  },
+  }, 
   {
-    "headLine": "Is It Time To Bring Back The Hartford Whalers?",
-    "id": 55,
+    "headLine": "Is It Time To Bring Back The Hartford Whalers?", 
+    "id": 55, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": -0.6, 
     "url": "https://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=6JI3G486Q2ZXh-JkWMCbIXIWu_26F41xZccn3ZUChVM&v=1&r=https%3a%2f%2ffivethirtyeight.com%2ffeatures%2fis-it-time-to-bring-back-the-hartford-whalers%2f&p=DevEx,5113.1"
-  },
+  }, 
   {
-    "headLine": "Stanford women's basketball coach clinches 1,000 wins",
-    "id": 56,
+    "headLine": "Stanford women's basketball coach clinches 1,000 wins", 
+    "id": 56, 
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": 0.7, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=ZeeqyIFZA8V2qN2Y0JsKw-LfUjOflmbNbUTIQyaV9jk&v=1&r=http%3a%2f%2fabc7news.com%2fsports%2fstanford-womens-basketball-coach-clinches-1000-wins%2f1737025%2f&p=DevEx,5115.1"
-  },
+  }, 
   {
-    "headLine": "Pires: Chelsea v Arsenal is a \u2018Premier League final\u2019",
-    "id": 57,
+    "headLine": "Pires: Chelsea v Arsenal is a \u2018Premier League final\u2019", 
+    "id": 57, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "https://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=y8EKTxM0-y9kTim5isGtqzu4FnrtN-03qg3veQN_zQc&v=1&r=https%3a%2f%2fwww.premierleague.com%2fnews%2f323031&p=DevEx,5117.1"
-  },
+  }, 
   {
-    "headLine": "EA SPORTS Player of the Month shortlist revealed",
-    "id": 58,
+    "headLine": "EA SPORTS Player of the Month shortlist revealed", 
+    "id": 58, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "https://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=OLxQmcSaqWs13xvWQiZiLIWh3vrNjfyIXx-69sbSx90&v=1&r=https%3a%2f%2fwww.premierleague.com%2fnews%2f319482&p=DevEx,5119.1"
-  },
+  }, 
   {
-    "headLine": "VOTE: Who is the best central midfielder in the PL era?",
-    "id": 59,
+    "headLine": "VOTE: Who is the best central midfielder in the PL era?", 
+    "id": 59, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=f0MC3QsQVq8Kxgm7C6-Wu_rvm8n_g2zTZ6YNenMwwgE&v=1&r=http%3a%2f%2fwww.skysports.com%2ffootball%2fnews%2f11095%2f10753339%2fvote-who-is-the-best-central-midfielder-in-the-pl-era&p=DevEx,5121.1"
-  },
+  }, 
   {
-    "headLine": "Manchester United forward Anthony Martial should NOT return vs Leicester",
-    "id": 60,
+    "headLine": "Manchester United forward Anthony Martial should NOT return vs Leicester", 
+    "id": 60, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": -0.4, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=IAMS8FTN7v6CzLQxHtogekhIIXTIlK2JsfVqg0AyAtQ&v=1&r=http%3a%2f%2fwww.manchestereveningnews.co.uk%2fsport%2ffootball%2ffootball-news%2fmanchester-united-mourinho-anthony-martial-12547194&p=DevEx,5123.1"
-  },
+  }, 
   {
-    "headLine": "Tom Brady Doesn\u2019t Need Gronk \u2014 Or Moss, Or Welker \u2014 To Win",
-    "id": 61,
+    "headLine": "Tom Brady Doesn\u2019t Need Gronk \u2014 Or Moss, Or Welker \u2014 To Win", 
+    "id": 61, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": -0.3, 
     "url": "https://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=u6l0tF-KwgDP56ShbxQuCqCRkwLTHrB6-JsQnl3tXHI&v=1&r=https%3a%2f%2ffivethirtyeight.com%2ffeatures%2ftom-brady-doesnt-need-gronk-or-moss-or-welker-to-win%2f&p=DevEx,5125.1"
-  },
+  }, 
   {
-    "headLine": "RECAP: All the action from Huddersfield Town's 3-1 win over Brighton & Hove Albion",
-    "id": 62,
+    "headLine": "RECAP: All the action from Huddersfield Town's 3-1 win over Brighton & Hove Albion", 
+    "id": 62, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=uIKmZOyVmvPtMnguo8fXk0YsOnutgWywTQnDE1yi3wY&v=1&r=http%3a%2f%2fwww.examiner.co.uk%2fsport%2ffootball%2fnews%2flive-huddersfield-town-vs-brighton-12547141&p=DevEx,5127.1"
-  },
+  }, 
   {
-    "headLine": "No \u2018Jock Tax\u2019 for Patriots, Falcons at Super Bowl LI",
-    "id": 63,
+    "headLine": "No \u2018Jock Tax\u2019 for Patriots, Falcons at Super Bowl LI", 
+    "id": 63, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
     "url": "https://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=41OsnJWGKMtGxzjHDDxpB3hoWqnBgfQcsfyQ-SyebWQ&v=1&r=https%3a%2f%2fwww.nerdwallet.com%2fblog%2ftaxes%2fjock-tax-super-bowl%2f&p=DevEx,5129.1"
-  },
+  }, 
   {
-    "headLine": "Curry says daughter Riley got him sick for Portland game",
-    "id": 64,
+    "headLine": "Curry says daughter Riley got him sick for Portland game", 
+    "id": 64, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=YmX77XIIuhJ7VP8TNtMExBnaQDFHqqHyyjuJqDFv2E0&v=1&r=http%3a%2f%2fabc7news.com%2fsports%2fcurry-says-daughter-riley-got-him-sick-for-portland-game%2f1732604%2f&p=DevEx,5131.1"
-  },
+  }, 
   {
-    "headLine": "Newcastle United 2-2 QPR recap: Lethargic Magpies twice throw away lead",
-    "id": 65,
+    "headLine": "Newcastle United 2-2 QPR recap: Lethargic Magpies twice throw away lead", 
+    "id": 65, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": -0.6, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=eGfQksld42mY1YJZ02e4qg9JoI0gXfsWIKWrmiOJeLs&v=1&r=http%3a%2f%2fwww.chroniclelive.co.uk%2fsport%2ffootball%2ffootball-news%2fnewcastle-united-vs-qpr-live-12540322&p=DevEx,5133.1"
-  },
+  }, 
   {
-    "headLine": "Graham Taylor Funeral Sees Football Fans And Stars Gather In Watford",
-    "id": 66,
+    "headLine": "Graham Taylor Funeral Sees Football Fans And Stars Gather In Watford", 
+    "id": 66, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.6, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=2KUeGg-wDhj0iU7_FB05r1iSdVARdJIp5V8LyGYZtcY&v=1&r=http%3a%2f%2fwww.huffingtonpost.co.uk%2fentry%2fgraham-taylor-funeral_uk_5891c56ee4b064366c57a20b&p=DevEx,5135.1"
-  },
+  }, 
   {
-    "headLine": "Who is Andrea Ranocchia Hull City's new signing from Inter Milan?",
-    "id": 67,
+    "headLine": "Who is Andrea Ranocchia Hull City's new signing from Inter Milan?", 
+    "id": 67, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=Ob5UQGZVHBrWpG_0p6K15t4gdh_lUdCnd4e5RCqFxLk&v=1&r=http%3a%2f%2fwww.hulldailymail.co.uk%2fwho-is-andrea-ranocchia-hull-city-s-transfer-deadline-day-target-from-inter-milan%2fstory-30099004-detail%2fstory.html&p=DevEx,5137.1"
-  },
+  }, 
   {
-    "headLine": "Lallana wins Vauxhall England Player of the Year award for 2016",
-    "id": 68,
+    "headLine": "Lallana wins Vauxhall England Player of the Year award for 2016", 
+    "id": 68, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=f2KEIkEvsnGp-TzI7cNIpY_uznAgR1FheB_Um8-lFII&v=1&r=http%3a%2f%2fwww.thefa.com%2fnews%2f2017%2fjan%2f29%2f300117-adam-lallana-vauxhall-england-player-of-the-year-2016&p=DevEx,5289.1"
-  },
+  }, 
   {
-    "headLine": "Manchester United captain Wayne Rooney wanted by Chinese Super League and MLS clubs",
-    "id": 69,
+    "headLine": "Manchester United captain Wayne Rooney wanted by Chinese Super League and MLS clubs", 
+    "id": 69, 
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": 0.7, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=WN9y526TlWRUPr7qy1rXa_wZdaZceHupiLyO0Ocn4OE&v=1&r=http%3a%2f%2fwww.manchestereveningnews.co.uk%2fsport%2ffootball%2ftransfer-news%2fmanchester-united-transfer-news-rooney-12525566&p=DevEx,5141.1"
-  },
+  }, 
   {
-    "headLine": "Tottenham transfer news: Pochettino puts percentage on chance of new signing, hints at new deal for playmaker",
-    "id": 70,
+    "headLine": "Tottenham transfer news: Pochettino puts percentage on chance of new signing, hints at new deal for playmaker", 
+    "id": 70, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=eBNj9pvHT2O7nGOFxcxTu5dXfZlhbv5ZdEwNerUWUFo&v=1&r=http%3a%2f%2fwww.caughtoffside.com%2f2017%2f01%2f30%2ftottenham-transfer-news-pochettino-puts-percentage-on-chance-of-new-signing-hints-at-new-deal-for-playmaker%2f&p=DevEx,5143.1"
-  },
+  }, 
   {
-    "headLine": "JACK BYRNE SIGNS FOR WIGAN ATHLETIC",
-    "id": 71,
+    "headLine": "JACK BYRNE SIGNS FOR WIGAN ATHLETIC", 
+    "id": 71, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=58xrToGeGMANdHfFhT5SNofVSM6Zix9BncL8dwCOM-c&v=1&r=http%3a%2f%2fwww.wiganlatics.co.uk%2fnews%2farticle%2f2016-17%2fjack-byrne-signs-for-wigan-athletic-3548918.aspx&p=DevEx,5145.1"
-  },
+  }, 
   {
-    "headLine": "Houston Texans Report: Is Chip Kelly On The Team\u2019s Radar?",
-    "id": 72,
+    "headLine": "Houston Texans Report: Is Chip Kelly On The Team\u2019s Radar?", 
+    "id": 72, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=DXssPOb4QD5vUx0vs5OJLlcB55Fn13dKXa9BZZ00SV8&v=1&r=http%3a%2f%2fhouseofhouston.com%2f2017%2f01%2f28%2fhouston-texans-report-chip-kelly-radar%2f&p=DevEx,5147.1"
-  },
+  }, 
   {
-    "headLine": "\u2018The Jump\u2019 Reignites Gareth Thomas's Rivalry With Jason Robinson",
-    "id": 73,
+    "headLine": "\u2018The Jump\u2019 Reignites Gareth Thomas's Rivalry With Jason Robinson", 
+    "id": 73, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=NaP4lPe7X1gOVyspnlKxb2XhC7TzEKxtlC_FR9q7F2c&v=1&r=http%3a%2f%2fwww.huffingtonpost.co.uk%2fentry%2fthe-jump-gareth-thomas-jason-robinson-new-series_uk_588b3939e4b0369e59636e6e&p=DevEx,5149.1"
-  },
+  }, 
   {
-    "headLine": "Denis Suarez can replace Iniesta as Barcelona's Harry Potter - Luis Enrique",
-    "id": 74,
+    "headLine": "Denis Suarez can replace Iniesta as Barcelona's Harry Potter - Luis Enrique", 
+    "id": 74, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=zoKpbYsvZhX4okZdo5ctndlA_sCvwM0dUoVCHvWYJKQ&v=1&r=http%3a%2f%2fwww.fourfourtwo.com.au%2fnews%2fdenis-suarez-can-replace-iniesta-as-barcelonas-harry-potter---luis-enrique-448965&p=DevEx,5151.1"
-  },
+  }, 
   {
-    "headLine": "Club Statement",
-    "id": 75,
+    "headLine": "Club Statement", 
+    "id": 75, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
     "url": "https://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=027HFZHE71_Exi17fnyQ08OCN9gAjW3LxRiVnH30PTs&v=1&r=https%3a%2f%2fsouthamptonfc.com%2fnews%2f2017-01-26%2fclub-statement-southampton-football-club&p=DevEx,5153.1"
-  },
+  }, 
   {
-    "headLine": "Dougherty: Tough roster calls loom for Packers",
-    "id": 76,
+    "headLine": "Dougherty: Tough roster calls loom for Packers", 
+    "id": 76, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=83ZAEGiVme36Nfim1RP1HmTunC9D4RVVb6lj8q2XItw&v=1&r=http%3a%2f%2fwww.packersnews.com%2fstory%2fsports%2fnfl%2fpackers%2fdougherty%2f2017%2f01%2f25%2fdougherty-tough-roster-calls-loom-packers%2f97039672%2f%3ffrom%3dglobal%26sessionKey%3d%26autologin%3d&p=DevEx,5155.1"
-  },
+  }, 
   {
-    "headLine": "Watford have offer for M\u2019Baye Niang accepted",
-    "id": 77,
+    "headLine": "Watford have offer for M\u2019Baye Niang accepted", 
+    "id": 77, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=2iS3UDlmrnAv7qv38LJi2yM3s5iLC6Oetu71qhhfS6U&v=1&r=http%3a%2f%2fwww.getfootballnewsfrance.com%2f2017%2fwatford-have-offer-for-mbaye-niang-accepted%2f&p=DevEx,5157.1"
-  },
+  }, 
   {
-    "headLine": "Ranieri warns of China's threat to Premier League as Super League club targets Slimani for \u00a338.5m",
-    "id": 78,
+    "headLine": "Ranieri warns of China's threat to Premier League as Super League club targets Slimani for \u00a338.5m", 
+    "id": 78, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=W4KC4U2c-mmwhG4nZ6j0ElNAvC0KTMpNvsx3TLwf5WM&v=1&r=http%3a%2f%2fwww.leicestermercury.co.uk%2franieri-warns-of-threat-to-premier-league-from-china-as-super-league-club-targets-slimani-for-38-5m%2fstory-30086340-detail%2fstory.html&p=DevEx,5159.1"
-  },
+  }, 
   {
-    "headLine": "Romeu pens new Saints deal",
-    "id": 79,
+    "headLine": "Romeu pens new Saints deal", 
+    "id": 79, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
     "url": "https://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=sR6SkYGkc7zsPnp1xgxJilDf2eMr-c070ZBHzX9CFDE&v=1&r=https%3a%2f%2fsouthamptonfc.com%2fnews%2f2017-01-24%2fannouncement-oriol-romeu-contract-southampton&p=DevEx,5161.1"
-  },
+  }, 
   {
-    "headLine": "McGinn: O-line, QB lead 2016 Packers ratings",
-    "id": 80,
+    "headLine": "McGinn: O-line, QB lead 2016 Packers ratings", 
+    "id": 80, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=mmU8OOFBjuH2dZ1ruP6RPvEsNGii76o849Cvup_oxzk&v=1&r=http%3a%2f%2fwww.packersnews.com%2fstory%2fsports%2fnfl%2fpackers%2fmcginn%2f2017%2f01%2f24%2fmcginn-o-line-qb-lead-tally-2016-weekly-packers-ratings%2f96995034%2f&p=DevEx,5163.1"
-  },
+  }, 
   {
-    "headLine": "Harry Redknapp names Tottenham\u2019s only weakness",
-    "id": 81,
+    "headLine": "Harry Redknapp names Tottenham\u2019s only weakness", 
+    "id": 81, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=dYdTiQcWsajnE50sBpBcTT9choNYxaJP0MI0GcP7buY&v=1&r=http%3a%2f%2fwww.thesportreview.com%2ftsr%2f2017%2f01%2fharry-redknapp-names-tottenhams-only-weakness%2f&p=DevEx,5165.1"
-  },
+  }, 
   {
-    "headLine": "Sunderland defender Papy Djilobodji has been charged for alleged violent conduct",
-    "id": 82,
+    "headLine": "Sunderland defender Papy Djilobodji has been charged for alleged violent conduct", 
+    "id": 82, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": -0.6, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=-yv6NfBurKvmg8sEOvyL0HlTT_qJ7iReJNbwftwa3u0&v=1&r=http%3a%2f%2fwww.thefa.com%2fnews%2f2017%2fjan%2f23%2fpapy-djilobodji-charged-230117&p=DevEx,5167.1"
-  },
+  }, 
   {
-    "headLine": "Joe Gomez signs new long-term Liverpool FC contract",
-    "id": 83,
+    "headLine": "Joe Gomez signs new long-term Liverpool FC contract", 
+    "id": 83, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=lqICPLIw9IZ8sVxnKI3RN4JXPvOAup48fbihKHaEcCA&v=1&r=http%3a%2f%2fwww.liverpoolfc.com%2fnews%2ffirst-team%2f252225-joe-gomez-signs-new-long-term-liverpool-fc-contract&p=DevEx,5169.1"
-  },
+  }, 
   {
-    "headLine": "J\u00fcrgen Klopp: I'm really excited by Gomez's potential - he has it all",
-    "id": 84,
+    "headLine": "J\u00fcrgen Klopp: I'm really excited by Gomez's potential - he has it all", 
+    "id": 84, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=6opWMQHEHdHtDotccQv2HgZNpPwMnnFPx1YgiCbUXrE&v=1&r=http%3a%2f%2fwww.liverpoolfc.com%2fnews%2ffirst-team%2f252228-jurgen-klopp-i-m-really-excited-by-gomez-s-potential-he-has-it-all&p=DevEx,5171.1"
-  },
+  }, 
   {
-    "headLine": "MARCUS BROWNE JOINS LATICS ON LOAN FROM WEST HAM",
-    "id": 85,
+    "headLine": "MARCUS BROWNE JOINS LATICS ON LOAN FROM WEST HAM", 
+    "id": 85, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
     "url": "http://www.bing.com/cr?IG=A82F8E96736B40B99ECBE248D1B32EA2&CID=31E2DEECDFDA6E392228D4F3DE3D6F15&rd=1&h=ywNwCZSEoq4YjuNrOMFoy9OYBbsWN2SFkW0DIy6xk2k&v=1&r=http%3a%2f%2fwww.wiganlatics.co.uk%2fnews%2farticle%2f2016-17%2f-marcus-browne-joins-wigan-athletic-on-loan-3529727.aspx&p=DevEx,5173.1"
   }
 ]

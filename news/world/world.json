@@ -1,702 +1,653 @@
 [
   {
-    "headline": "Theresa May should play Donald Trump at his own game and negotiate his state visit", 
+    "headline": "US reverses travel ban over court ruling as Trump fumes", 
     "id": 1, 
-    "sentiment_magnitude": 0.5, 
-    "sentiment_score": 0.5, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=2wG5Af91NWoM46qGLadDF5Cc0NLCQMgDSg9lOy_msJs&v=1&r=http%3a%2f%2fwww.independent.co.uk%2fvoices%2fletters%2ftheresa-may-donald-trump-brexit-lettuce-shortage-sovereignty-a7562876.html&p=DevEx,5206.1"
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=JMg8HsGicGSRHMuLqm700qQEeId5fapFe7c_zTaU3Gw&v=1&r=http%3a%2f%2fwww.bbc.co.uk%2fnews%2fworld-us-canada-38868571&p=DevEx,5192.1"
   }, 
   {
-    "headline": "Travel ban: US temporarily suspends order as Trump derides judge", 
+    "headline": "State Department reverses visa cancellations for foreigners after furious Trump slams 'so-called' judge's decision to halt his immigration order, warning it could lead to ...", 
     "id": 2, 
-    "sentiment_magnitude": 0.2, 
-    "sentiment_score": 0.2, 
-    "url": "https://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=IDVq2xPaN2bK8OCWEyuiX1e9wyIefAA3ClhTAu_AQjQ&v=1&r=https%3a%2f%2fwww.theguardian.com%2fus-news%2f2017%2ffeb%2f04%2fso-called-judge-donald-trump-attacks-decision-to-halt-travel-ban&p=DevEx,5007.1"
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": -0.3, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=0qJbR-Jfm-1590IMMyB-fZ34gkS1bdh7ZledZW-XApo&v=1&r=http%3a%2f%2fwww.dailymail.co.uk%2fnews%2farticle-4191110%2fDonald-Trump-slams-decision-halt-immigration-order.html&p=DevEx,5196.1"
   }, 
   {
-    "headline": "Brexit Bill rebellion: Row erupts as Eurosceptic claims 27 Tory MPs poised to back \u2018wrecking\u2019 amendments", 
+    "headline": "Louvre machete suspect Egyptian who posted 'support for Isil minutes before attack'", 
     "id": 3, 
     "sentiment_magnitude": 0, 
     "sentiment_score": 0, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=d9J5xv21gqnzOIlURmyew97fJr_HKtBW-YTtBt4P8Rc&v=1&r=http%3a%2f%2fwww.telegraph.co.uk%2fnews%2f2017%2f02%2f04%2fbrexit-bill-rebellion-row-erupts-eurosceptic-claims-27-tory%2f&p=DevEx,5009.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=KMJxL1hQD7B2Wgk6EwuRf_I0JlAjZ51XTThpErSSASo&v=1&r=http%3a%2f%2fwww.telegraph.co.uk%2fnews%2f2017%2f02%2f04%2flouvre-machete-suspect-egyptian-posted-support-isil-minutes%2f&p=DevEx,5200.1"
   }, 
   {
-    "headline": "Southern rail deal is 'shocking betrayal', RMT union says", 
+    "headline": "The Latest: Some airlines still not allowing refugees to fly", 
     "id": 4, 
-    "sentiment_magnitude": 0.3, 
-    "sentiment_score": -0.3, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=UCtfjic3Ij4S4oB1l34kbLIRArcx7U0Seno7s70KDFs&v=1&r=http%3a%2f%2fwww.bbc.co.uk%2fnews%2fuk-england-38869928&p=DevEx,5011.1"
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": -0.4, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=erMUkPjhwsIy-RDrCvcwayelDNeLQNF-pCrJTgHyA2Q&v=1&r=http%3a%2f%2fwww.dailymail.co.uk%2fwires%2fap%2farticle-4190870%2fThe-Latest-Qatar-airline-allowing-Muslims-travel-US.html&p=DevEx,5206.1"
   }, 
   {
-    "headline": "Donald Trump warned over 'unprecedented' plan to appoint cabinet without ethics office checks, emails reveal", 
+    "headline": "US says Iran 'world's biggest state sponsor terrorism' as war of words escalates", 
     "id": 5, 
     "sentiment_magnitude": 0.5, 
     "sentiment_score": -0.5, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=6fjmRXq7I2dgWT0uxsPKQfIWbHqd6o6OHFgcYmFxrXU&v=1&r=http%3a%2f%2fwww.independent.co.uk%2fnews%2fworld%2famericas%2fdonald-trump-warn-appoint-cabinet-without-ethics-office-checks-unprecedented-state-education-defence-a7561861.html&p=DevEx,5214.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=kjlnZj9mefIZMlpdrnBAIxrtaToxJVj4DAA943jaeYk&v=1&r=http%3a%2f%2fwww.telegraph.co.uk%2fnews%2f2017%2f02%2f04%2fus-says-iran-worlds-biggest-state-sponsor-terrorism-war-words%2f&p=DevEx,5013.1"
   }, 
   {
-    "headline": "Corbyn \"disappointed\" by Hatton criticism and insists he can win election during Liverpool visit", 
+    "headline": "\u2018They\u2019re inside OUR CITIES\u2019 Mayor condemns Schengen \u2018FAILURE\u2019 after Louvre terror attack", 
     "id": 6, 
-    "sentiment_magnitude": 0.3, 
-    "sentiment_score": 0.3, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=xYSoRSQmYTeORIpd7pc05RV09kFI_Fym8QZgCymTNlc&v=1&r=http%3a%2f%2fwww.liverpoolecho.co.uk%2fnews%2fliverpool-news%2fcorbyn-disappointed-hatton-criticism-insists-12557811&p=DevEx,5015.1"
+    "sentiment_magnitude": 0.9, 
+    "sentiment_score": -0.9, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=EbJtbPljTWxSOaJ5RES3oce_j00PMQ8S8IeRoLJ6L44&v=1&r=http%3a%2f%2fwww.express.co.uk%2fnews%2fworld%2f763065%2fLouvre-terror-attack-Paris-France-EU-borders-failure-Schengen&p=DevEx,5015.1"
   }, 
   {
-    "headline": "Trump's courtiers bring chaotic and capricious style to White House", 
+    "headline": "Australia Houses Migrants in 'Degrading' Offshore Detention Camps", 
     "id": 7, 
     "sentiment_magnitude": 0.3, 
-    "sentiment_score": -0.3, 
-    "url": "https://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=XF7qVjEJDuIP8mUUA9Q49yKRkLubAV73LBCqCM73AtA&v=1&r=https%3a%2f%2fwww.theguardian.com%2fus-news%2f2017%2ffeb%2f04%2ftrump-inner-circle-white-house-court&p=DevEx,5017.1"
+    "sentiment_score": 0.3, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=441XVKlvATfe1tFM-k07o7hLxJ4E1DLLATbPR6t75DA&v=1&r=http%3a%2f%2ffxcnews.com%2f2017%2f02%2f04%2faustralia-houses-migrants-in-degrading-offshore-detention.html&p=DevEx,5211.1"
   }, 
   {
-    "headline": "Britain proposing wider Europe-based pro-nuclear club once Article 50 triggered", 
+    "headline": "Romanian government to repeal law which decriminalises corruption", 
     "id": 8, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": -0.4, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=o4I-a3Wle-CGYmUep5LQ6MVs4Sr4St14ldzzv2dhL28&v=1&r=http%3a%2f%2fwww.belfasttelegraph.co.uk%2fnews%2fworld-news%2fromanian-government-to-repeal-law-which-decriminalises-corruption-35423828.html&p=DevEx,5019.1"
+  }, 
+  {
+    "headline": "France's Le Pen launches campaign with anti-EU message", 
+    "id": 9, 
     "sentiment_magnitude": 0, 
     "sentiment_score": 0, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=JAzwLrqcmTQH7TMBJmOYvLaNdUL4NQB6nRuqbv7mwFg&v=1&r=http%3a%2f%2fwww.telegraph.co.uk%2fbusiness%2f2017%2f02%2f04%2fbritain-proposing-wider-europe-based-pro-nuclear-club-article%2f&p=DevEx,5019.1"
+    "url": "https://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=1eNlm5g25hORyTkHmY_TR4-Po7pwHLpcAhVN6bpMo2o&v=1&r=https%3a%2f%2fuk.news.yahoo.com%2ffrances-le-pen-launches-campaign-anti-eu-message-185701897.html&p=DevEx,5021.1"
   }, 
   {
-    "headline": "Major airlines could drop Heathrow for Amsterdam over a hike in landing charges to pay for the airport's third runway", 
-    "id": 9, 
-    "sentiment_magnitude": 0.3, 
-    "sentiment_score": -0.3, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=dp8mF2KVBFDybAYPSBBCAUFz8ZlI3gxD9v4Hsr8dSv4&v=1&r=http%3a%2f%2fwww.dailymail.co.uk%2fnews%2farticle-4191742%2fBig-airlines-drop-Heathrow-landing-charge-hike.html&p=DevEx,5021.1"
-  }, 
-  {
-    "headline": "Labour says it will deliver \u00a310 billion HS3 and cut Liverpool-Manchester journeys to 25 minutes", 
+    "headline": "Kurdish-led fighters launch new offensive towards IS-held Raqqa in Syria", 
     "id": 10, 
     "sentiment_magnitude": 0, 
     "sentiment_score": 0, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=oJ4-5UMt0u6NanpPHQ7A0oVa653gIFSxdm7bKsVBu_A&v=1&r=http%3a%2f%2fwww.liverpoolecho.co.uk%2fnews%2fliverpool-news%2flabour-says-deliver-10-billion-12557937&p=DevEx,5223.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=i7aLaKuTzdZwZwfxnmO6IEpjp-vlJ4Z-AFiWYz7ipeo&v=1&r=http%3a%2f%2fwww.belfasttelegraph.co.uk%2fnews%2fworld-news%2fkurdishled-fighters-launch-new-offensive-towards-isheld-raqqa-in-syria-35423206.html&p=DevEx,5023.1"
   }, 
   {
-    "headline": "Newspaper headlines: Louvre attack and MP's China cash 'link'", 
+    "headline": "The real story behind the Bowling Green terrorists", 
     "id": 11, 
     "sentiment_magnitude": 0.1, 
     "sentiment_score": -0.1, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=IZNwk0ac9YEC91PJnCwlEGGxEr-7hwDg4I9WbByOvXg&v=1&r=http%3a%2f%2fwww.bbc.co.uk%2fnews%2fblogs-the-papers-38863523&p=DevEx,5025.1"
+    "url": "https://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=JxjK94yK5aX5TdN-s_y01DyJ-2O_F6DeX-yXKZSOeO4&v=1&r=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2freal-story-behind-bowling-green-151300455.html&p=DevEx,5025.1"
   }, 
   {
-    "headline": "George Osborne 'put in place' for trying to get Theresa May sacked, book says", 
+    "headline": "Peru search home of ex-President Toledo in corruption case", 
     "id": 12, 
-    "sentiment_magnitude": 0.5, 
-    "sentiment_score": -0.5, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=JLHCRf0oHxwtlEXewGpZl-lNfReNrDDnuqr3AVIHtVk&v=1&r=http%3a%2f%2fwww.expressandstar.com%2fnews%2fuk-news%2f2017%2f02%2f04%2fgeorge-osborne-put-in-place-for-trying-to-get-theresa-may-sacked-book-says%2f&p=DevEx,5027.1"
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": -0.4, 
+    "url": "https://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=_zvoWC0XPLKBdGmkimRFMos1OhwQVhI8_ulvxM55GWc&v=1&r=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fperu-search-home-ex-president-toledo-corruption-case-185619009--finance.html&p=DevEx,5027.1"
   }, 
   {
-    "headline": "Growing number of women leading US police departments", 
+    "headline": "Unicef praises David Beckham following reports about his charity work", 
     "id": 13, 
-    "sentiment_magnitude": 0.2, 
-    "sentiment_score": -0.2, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=cmmTmKjgOjFqF-KqtV-gcnM9f4tD6-ey0e-kGGq6_-Y&v=1&r=http%3a%2f%2fwww.dailymail.co.uk%2fwires%2fap%2farticle-4191638%2fGrowing-number-women-leading-US-police-departments.html&p=DevEx,5029.1"
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=V5rE7veOIjRoHqRzV15_5i8EnqvSzz-no-oPO7uwAJA&v=1&r=http%3a%2f%2fwww.shropshirestar.com%2fnews%2fuk-news%2f2017%2f02%2f04%2funicef-praises-david-beckham-following-reports-about-his-charity-work%2f&p=DevEx,5029.1"
   }, 
   {
-    "headline": "France's Fillon will not to reach runoff vote in presidential election - poll", 
+    "headline": "We are nervously confident Donald Trump cannot break the US Constitution", 
     "id": 14, 
     "sentiment_magnitude": 0.2, 
-    "sentiment_score": -0.2, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=dD952mkpcMWVpKESJS1nNu_4-xAJUYXqF-UlzIhYY2I&v=1&r=http%3a%2f%2fwww.timesofmalta.com%2farticles%2fview%2f20170204%2fworld%2ffrances-fillon-will-not-to-reach-runoff-vote-in-presidential-election.638519&p=DevEx,5236.1"
+    "sentiment_score": 0.2, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=q2iXl-wGfElCs8qFBU6gH5LR0t1MxHYEayx2dlc6YKs&v=1&r=http%3a%2f%2fwww.independent.co.uk%2fvoices%2feditorials%2fwe-are-nervously-confident-donald-trump-cannot-break-the-us-constitution-a7563141.html&p=DevEx,5221.1"
   }, 
   {
-    "headline": "Andrew Neil forced to intervene as Harriet Harman tries to push 'Remainer agenda' on BBC", 
+    "headline": "Homeland Security confirms end of travel ban as Trump warns 'death and destruction' will come", 
     "id": 15, 
     "sentiment_magnitude": 0.1, 
-    "sentiment_score": -0.1, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=FxR2cl-1SVxr8ChHvHSN0-DejYgKWH96wYDJ-1ACNNo&v=1&r=http%3a%2f%2fwww.express.co.uk%2fnews%2fuk%2f762631%2fAndrew-Neil-intervenes-Harriet-Harman-Remainer-agenda&p=DevEx,5033.1"
-  }, 
-  {
-    "headline": "Trump hits back as judge blocks travel ban", 
-    "id": 16, 
-    "sentiment_magnitude": 0.1, 
     "sentiment_score": 0.1, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=F08KUAtNS3in6UeHaCZ2MZfcUoWrrc08q-RGqmYHlds&v=1&r=http%3a%2f%2fnews.sky.com%2fstory%2fjudge-orders-nationwide-block-to-trump-travel-ban-10755407&p=DevEx,5240.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=iBU1sUROwplBxIvDCaS0Wax1rBMbo8A-dnYlotmdXGY&v=1&r=http%3a%2f%2fwww.ibtimes.co.uk%2fhomeland-security-confirms-end-travel-ban-trump-warns-death-destruction-will-come-1604869&p=DevEx,5033.1"
   }, 
   {
-    "headline": "Ivanka Trump and her husband helped to block an anti-LGBT executive order", 
+    "headline": "Iran fires ANOTHER missile as war fears with Trump escalate", 
+    "id": 16, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=pDSl1G9I6a_K1ly6XLMVFOb85rdt7oyc7GykYUPR0zA&v=1&r=http%3a%2f%2fwww.dailystar.co.uk%2fnews%2flatest-news%2f585237%2fIran-US-war-missile-tests-new-rocket-launch-Trump-declaration-of-war&p=DevEx,5226.1"
+  }, 
+  {
+    "headline": "'We will not be silenced': Thousands rally in London against US President's 'Muslim ban'", 
     "id": 17, 
-    "sentiment_magnitude": 0.9, 
-    "sentiment_score": 0.9, 
-    "url": "https://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=wxWxc7SFY7hBBETu0daCuqkYAqeoNHPBseDLU9WdTbw&v=1&r=https%3a%2f%2fwww.pinknews.co.uk%2f2017%2f02%2f04%2fivanka-trump-and-her-husband-just-blocked-an-anti-lgbt-executive-order%2f&p=DevEx,5248.1"
-  }, 
-  {
-    "headline": "RMT blasts deal between Aslef and Southern Railway as 'shocking betrayal'", 
-    "id": 18, 
-    "sentiment_magnitude": 0.3, 
-    "sentiment_score": 0.3, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=JFrACgU5-ge8hWvSN8phZ3yfFoVG9rcJgKPK1wy-Nxw&v=1&r=http%3a%2f%2fwww.ibtimes.co.uk%2frmt-blasts-deal-between-aslef-southern-railway-shocking-betrayal-1604868&p=DevEx,5039.1"
-  }, 
-  {
-    "headline": "What is Donald Trump\u2019s \u2018Muslim travel ban\u2019, how does it affect the UK and what\u2019s happening with the petition to prevent his visit to Britain?", 
-    "id": 19, 
-    "sentiment_magnitude": 0.7, 
-    "sentiment_score": -0.7, 
-    "url": "https://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=Hhq322ptb8RN17HDh9qpt9T07POFvteVrhPrvNaNyPc&v=1&r=https%3a%2f%2fwww.thesun.co.uk%2fnews%2f2738203%2fdonald-trump-muslim-travel-ban-petition-uk%2f&p=DevEx,5041.1"
-  }, 
-  {
-    "headline": "Trump's travel ban suspended", 
-    "id": 20, 
     "sentiment_magnitude": 0.2, 
     "sentiment_score": -0.2, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=Rn5t1ZviziTI6r6U9mnvT0tGjz1mWtHWNTSFWpb325k&v=1&r=http%3a%2f%2fwww.thedailystar.net%2ffrontpage%2ftrumps-travel-ban-suspended-1356073&p=DevEx,5043.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=3Qs_oz45oBsiPpJOzaKhcH9zJ9foRJ1FShouUdV2zag&v=1&r=http%3a%2f%2fwww.independent.co.uk%2fnews%2fuk%2fhome-news%2fdonald-trump-muslim-ban-march-london-40000-travel-immigration-refugees-us-policies-protest-a7563251.html&p=DevEx,5229.1"
   }, 
   {
-    "headline": "'I'd be laughed at' Ken Clarke DEFENDS anti-Brexit vote with barmy excuse on LBC", 
-    "id": 21, 
-    "sentiment_magnitude": 0.2, 
-    "sentiment_score": 0.2, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=Hx7WqOZEokfhZfwcTM7DwQmQGdV7-WL2QmiLpJ_RQ3U&v=1&r=http%3a%2f%2fwww.express.co.uk%2fnews%2fuk%2f763157%2fKen-Clarke-defends-anti-Brexit-vote-barmy-excuse&p=DevEx,5254.1"
+    "headline": "Thousands of Mancunians tell Donald Trump 'refugees are welcome here' during mass protest", 
+    "id": 18, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=HYLzAA_i9mEgorCX19-OHVStDFm5aUEPm3sxGmxHHN4&v=1&r=http%3a%2f%2fwww.manchestereveningnews.co.uk%2fnews%2fgreater-manchester-news%2fthousands-mancunians-tell-donald-trump-12557776&p=DevEx,5039.1"
   }, 
   {
-    "headline": "'Terrifying' scenario as universal credit blamed for huge Highland shortfall", 
-    "id": 22, 
-    "sentiment_magnitude": 0.3, 
-    "sentiment_score": 0.3, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=TsPMTdWR308Bb1WAvDSUQ2K2qFcmLVEhzpQUUpPKAtw&v=1&r=http%3a%2f%2fwww.ross-shirejournal.co.uk%2fNews%2fTerrifying-scenario-as-universal-credit-blamed-for-huge-Highland-shortfall-02022017.htm&p=DevEx,5047.1"
+    "headline": "Crowds gather in protest outside US Embassy at 'Muslim ban' immigration policy", 
+    "id": 19, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": -0.4, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=ybGtLpbnbaaT71dunU_4oF4d_TUT9YaxvDW0tf-Qu6I&v=1&r=http%3a%2f%2fwww.getwestlondon.co.uk%2fnews%2fwest-london-news%2fcrowds-gather-protest-outside-embassy-12557442&p=DevEx,5235.1"
   }, 
   {
-    "headline": "Hundreds turn out in Newcastle for march and rally in support of NHS", 
-    "id": 23, 
-    "sentiment_magnitude": 0.3, 
-    "sentiment_score": 0.3, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=8rlTjGlJPLsjYrs0n8io38Ml52i1CIZ_EZm5Cyzshrc&v=1&r=http%3a%2f%2fwww.chroniclelive.co.uk%2fnews%2fnorth-east-news%2fhundreds-turn-out-newcastle-march-12557552&p=DevEx,5049.1"
-  }, 
-  {
-    "headline": "MEP Daniel Hannan suggests new 'outer tier' organisation linked to the EU", 
-    "id": 24, 
-    "sentiment_magnitude": 0.3, 
-    "sentiment_score": 0.3, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=g2bSr3vERbhwech_6RF5z20InSkmVHEZprlraqkB_Vo&v=1&r=http%3a%2f%2fguernseypress.com%2fbusiness%2fcity-news%2f2017%2f02%2f04%2fmep-daniel-hannan-suggests-new-outer-tier-organisation-linked-to-the-eu%2f&p=DevEx,5051.1"
-  }, 
-  {
-    "headline": "Powerful photo series captures unemployed youths of Thatcher\u2019s Britain", 
-    "id": 25, 
-    "sentiment_magnitude": 0.7, 
-    "sentiment_score": 0.7, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=aLF8H6pnxL04Ny-kgua2Ut8RB8urJbPu_G2UxJk-xjw&v=1&r=http%3a%2f%2fmetro.co.uk%2f2017%2f02%2f04%2fpowerful-photo-series-captures-unemployed-teenagers-of-1980s-newcastle-6427243%2f&p=DevEx,5053.1"
-  }, 
-  {
-    "headline": "First the NHS, now schools face \u00a33 billion cash crisis", 
-    "id": 26, 
-    "sentiment_magnitude": 0.1, 
-    "sentiment_score": 0.1, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=rWWCNdO0ERz5iQkncJcinRmoEzMD5deBdbJ1SKEUf34&v=1&r=http%3a%2f%2fwww.birminghammail.co.uk%2fnews%2fmidlands-news%2ffirst-nhs-now-schools-face-12554092&p=DevEx,5055.1"
-  }, 
-  {
-    "headline": "LETTER: I would happily pay extra taxes towards NHS", 
-    "id": 27, 
-    "sentiment_magnitude": 0.5, 
-    "sentiment_score": -0.5, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=YFCex-CP6kSRyV5KH1KhjiTpePvdirYSh3fAAc7sMlI&v=1&r=http%3a%2f%2fwww.buxtonadvertiser.co.uk%2fnews%2fyour-say%2fletter-i-would-happily-pay-extra-taxes-towards-nhs-1-8369409&p=DevEx,5057.1"
-  }, 
-  {
-    "headline": "District council silent on Spalding Jobcentre Plus move", 
-    "id": 28, 
+    "headline": "Donald Trump's 'Muslim ban' blocked by top judge", 
+    "id": 20, 
     "sentiment_magnitude": 0, 
     "sentiment_score": 0, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=LfdkHqwLbCx_N2jjCEYkCMmrsviZvZOpuEULyhX7Umo&v=1&r=http%3a%2f%2fwww.spaldingtoday.co.uk%2fnews%2fbusiness%2fdistrict-council-silent-on-spalding-jobcentre-plus-move-1-7806211&p=DevEx,5059.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=4gSKjcfOFblqzhYlaGLjdgqcTaa1W8iiLPMI665LmzU&v=1&r=http%3a%2f%2fwww.dailystar.co.uk%2fnews%2flatest-news%2f585215%2fDonald-Trump-muslim-ban-immigration-US-travel-ban-weekly-address&p=DevEx,5239.1"
   }, 
   {
-    "headline": "25th anniversary of fatal shooting at Sinn F\u00e9in office", 
+    "headline": "Ukraine update", 
+    "id": 21, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
+    "url": "https://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=AyPN92tji5rFigQ4-BzEodrFMjKkUftWIijw-AIyYLs&v=1&r=https%3a%2f%2fwww.channel4.com%2fnews%2fukraine-update&p=DevEx,5045.1"
+  }, 
+  {
+    "headline": "President Akufo-Addo weeps at late grandfather\u2019s graveside", 
+    "id": 22, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=4bRI66X_082zQFxm5auVkObxNroXeo_y0Bc_zIijNnc&v=1&r=http%3a%2f%2fwww.myjoyonline.com%2fpolitics%2f2017%2fFebruary-4th%2fpresident-akufo-addo-weeps-at-late-grandfathers-graveside.php&p=DevEx,5047.1"
+  }, 
+  {
+    "headline": "Ivanka Trump and husband reportedly played role in anti-LGBTI executive order being blocked", 
+    "id": 23, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=AOCnTQEDVw5ffqYtirIrDpDe3MkNEt4oxxJjL6Z6InM&v=1&r=http%3a%2f%2fwww.gaystarnews.com%2farticle%2fivanka-trump-husband-reportedly-played-role-anti-lgbti-executive-order-blocked%2f&p=DevEx,5049.1"
+  }, 
+  {
+    "headline": "King returns home after Washington working trip", 
+    "id": 24, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": -0.1, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=IvZodNsv8RAlmmjrV84SxjLN1vAvDQTrfgt8_KNBDFE&v=1&r=http%3a%2f%2fpetra.gov.jo%2fPublic_News%2fNws_NewsDetails.aspx%3fSite_Id%3d1%26lang%3d2%26NewsID%3d287884%26CatID%3d-1&p=DevEx,5051.1"
+  }, 
+  {
+    "headline": "Oliver Stone: Reports Russia to blame for Ukraine violence are fake news", 
+    "id": 25, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=5UVLNnUz0xN-_0DZmyTN18ea1dzghE3Q96OuqSUtmz4&v=1&r=http%3a%2f%2fguernseypress.com%2flifestyle%2fshowbiz-news%2f2017%2f02%2f04%2foliver-stone-reports-russia-to-blame-for-ukraine-violence-are-fake-news%2f&p=DevEx,5053.1"
+  }, 
+  {
+    "headline": "The horrific stab wound photos used to stop kids carrying knives", 
+    "id": 26, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": -0.6, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=GrKNbSu72yduWI3mTPhpMRCwYwF9ocJ_FY9k-PI3j3Y&v=1&r=http%3a%2f%2fwww.liverpoolecho.co.uk%2fnews%2fliverpool-news%2fhorrific-stab-wound-photos-used-12557931&p=DevEx,5055.1"
+  }, 
+  {
+    "headline": "Belford museum\u2019s acquisition of 18th-century communion token", 
+    "id": 27, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=A4I8PIxRQ2p4ESnn89iV-TMwb--l6nneI3QqQ9urBAg&v=1&r=http%3a%2f%2fwww.northumberlandgazette.co.uk%2fnews%2fbelford-museum-s-acquisition-of-18th-century-communion-token-1-8367989&p=DevEx,5057.1"
+  }, 
+  {
+    "headline": "Pir Alauddin Siddiqui funeral: Tributes paid to much loved spiritual leader", 
+    "id": 28, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=LppfQeQ0U5KsTsTLDfTP41zfpY_v7Cp8aaymEipwc-E&v=1&r=http%3a%2f%2fwww.birminghammail.co.uk%2fnews%2fmidlands-news%2fpir-alauddin-siddiqui-funeral-tributes-12557815&p=DevEx,5059.1"
+  }, 
+  {
+    "headline": "WAR VETS THREATEN ZHUWAO : WE WILL OUST YOU WHEN GRANDPA IS GONE", 
     "id": 29, 
     "sentiment_magnitude": 0.5, 
     "sentiment_score": -0.5, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=xQqcUJxDzS9XNdCIGpRgU_M3NprtYn-lrWRddlonuGA&v=1&r=http%3a%2f%2fwww.itv.com%2fnews%2futv%2f2017-02-04%2f25th-anniversary-of-fatal-shooting-at-sinn-fein-office%2f&p=DevEx,5061.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=PH3iLbbWRsZjGcdkjuidFPCdUXGRWTOqB4BbNvh2JEs&v=1&r=http%3a%2f%2fwww.newsdzezimbabwe.co.uk%2f2017%2f02%2fwar-vets-threaten-zhuwao-we-will-oust.html&p=DevEx,5061.1"
   }, 
   {
-    "headline": "MP backs campaign to raise awareness of the sector's unsung heroes", 
+    "headline": "Jordanian Air Force bombs Daesh targets in Syria", 
     "id": 30, 
-    "sentiment_magnitude": 0.5, 
-    "sentiment_score": 0.5, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=SjPaS2xzHyaf3SAEls8ybDMLJLBOhGdde-lkHtK8868&v=1&r=http%3a%2f%2fwww.carehome.co.uk%2fnews%2farticle.cfm%2fid%2f1581671%2fMP-backs-campaign-to-raise-awareness-of-the-sectors&p=DevEx,5063.1"
-  }, 
-  {
-    "headline": "Widow's battle after husband died as result of asbestos related cancer", 
-    "id": 31, 
-    "sentiment_magnitude": 0.2, 
-    "sentiment_score": -0.2, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=03GyZQOvnME4vTmGH67G6O7kxunfMNHLDhc0-1Y70sk&v=1&r=http%3a%2f%2fwww.gazettelive.co.uk%2fnews%2fteesside-news%2ffight-justice-after-former-ici-12552500&p=DevEx,5065.1"
-  }, 
-  {
-    "headline": "Politicians paying high price for Stormont collapse", 
-    "id": 32, 
-    "sentiment_magnitude": 0.2, 
-    "sentiment_score": -0.2, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=0bQp2mkZM2MB3BzsSq4PKJXkXPqCSdfkHdhcp6vYN5M&v=1&r=http%3a%2f%2ffermanaghherald.com%2f2017%2f02%2fpoliticians-paying-high-price-stormont-collapse%2f&p=DevEx,5067.1"
-  }, 
-  {
-    "headline": "George Osborne 'Put In Place' For Trying To Get Theresa May Sacked, Book Claims", 
-    "id": 33, 
-    "sentiment_magnitude": 0.3, 
-    "sentiment_score": -0.3, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=WJg5s9tOTYIFE8rO5hJ9uq4eYGfthZNxjYyyFlNL4B8&v=1&r=http%3a%2f%2fwww.huffingtonpost.co.uk%2fentry%2fgeorge-osborne-put-in-place-for-trying-to-get-theresa-may-sacked-book-says_uk_5895d909e4b0505b1f58d4f4&p=DevEx,5069.1"
-  }, 
-  {
-    "headline": "\u2018Gentleman\u2019 former Mayor of Peterborough dies", 
-    "id": 34, 
-    "sentiment_magnitude": 0, 
-    "sentiment_score": 0, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=Z7idEq6EspgD4Jhz9NbLnXet-1pbTmHkfnrxXlvft9g&v=1&r=http%3a%2f%2fwww.peterboroughtoday.co.uk%2fnews%2fpolitics%2fgentleman-former-mayor-of-peterborough-dies-1-7803577&p=DevEx,5071.1"
-  }, 
-  {
-    "headline": "Suzanne Richards: We're lost without Adrian. He's what held our beautiful family together", 
-    "id": 35, 
-    "sentiment_magnitude": 1.2, 
-    "sentiment_score": 0.6, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=EpsGwX97PCzXZZrpXbtxCx3oUsVxWZYBOXyKqV6GCxQ&v=1&r=http%3a%2f%2fwww.birminghammail.co.uk%2fnews%2fmidlands-news%2fsuzanne-richards-were-lost-without-12552751&p=DevEx,5073.1"
-  }, 
-  {
-    "headline": "\u2018Stop moaning and rise to the challenge\u2019 - Stewart Jackson uninterested in council complaints over funding", 
-    "id": 36, 
-    "sentiment_magnitude": 0.1, 
-    "sentiment_score": -0.1, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=mi2er5GIo5ietXiW2__enIGuqHI7yC_FX0bUQsk_IRs&v=1&r=http%3a%2f%2fwww.peterboroughtoday.co.uk%2fnews%2fpolitics%2fstop-moaning-and-rise-to-the-challenge-stewart-jackson-uninterested-in-council-complaints-over-funding-1-7806464&p=DevEx,5075.1"
-  }, 
-  {
-    "headline": "New South Devon Highway sparks 369 compensation claims for 'unbearable noise' and damage to homes", 
-    "id": 37, 
-    "sentiment_magnitude": 0.1, 
-    "sentiment_score": -0.1, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=fChz231x57Q_LbjPO5rbGmrotAqpGEYG1sKJqm_PoIQ&v=1&r=http%3a%2f%2fwww.torquayheraldexpress.co.uk%2fnew-highway-sparks-369-claims-for-compensation-to-council%2fstory-30100129-detail%2fstory.html&p=DevEx,5077.1"
-  }, 
-  {
-    "headline": "Highlands MP says case for independence has 'never been stronger'", 
-    "id": 38, 
-    "sentiment_magnitude": 0, 
-    "sentiment_score": 0, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=cxjsWT5GnQsUA9Ns06aBndGAzRT6-Y9fN2aw12PxT4w&v=1&r=http%3a%2f%2fwww.strathspey-herald.co.uk%2fNews%2fHighlands-MP-says-case-for-independence-has-never-been-stronger-02022017.htm&p=DevEx,5079.1"
-  }, 
-  {
-    "headline": "Shoppers with limited mobility at risk of 'losing their independence'", 
-    "id": 39, 
-    "sentiment_magnitude": 0.1, 
-    "sentiment_score": 0.1, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=VHSlAoEkErOPTIyyyCa4zSiJdg6_J_xAFQt4ISmLVMQ&v=1&r=http%3a%2f%2fwww.coventrytelegraph.net%2fnews%2fshoppers-limited-mobility-risk-losing-12557412&p=DevEx,5081.1"
-  }, 
-  {
-    "headline": "Donald Trump threatens 'death and destruction' over 'Muslim ban' in Twitter rant", 
-    "id": 40, 
-    "sentiment_magnitude": 0.2, 
-    "sentiment_score": -0.2, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=IGyOgXKbKkw2yTcYxKZ2R2JF3XotC1LZTZFarVTNBKk&v=1&r=http%3a%2f%2fus.blastingnews.com%2fnews%2f2017%2f02%2fdonald-trump-threatens-death-and-destruction-over-muslim-ban-in-twitter-rant-001448125.html&p=DevEx,5083.1"
-  }, 
-  {
-    "headline": "Badenoch MSP demands support for SNP budget", 
-    "id": 41, 
-    "sentiment_magnitude": 0.5, 
-    "sentiment_score": 0.5, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=TdZynvGi90e-3SmFBWfozkmbkaMvqLcpwzKsmGtEh7Q&v=1&r=http%3a%2f%2fwww.strathspey-herald.co.uk%2fNews%2fBadenoch-MSP-demands-support-for-SNP-budget-02022017.htm&p=DevEx,5085.1"
-  }, 
-  {
-    "headline": "US Customs Ask Airlines to Ignore Donald Trump\u2019s Muslim Ban", 
-    "id": 42, 
-    "sentiment_magnitude": 0, 
-    "sentiment_score": 0, 
-    "url": "https://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=_dcqUWFmlHAoti17YJfLnbRxZYpUD9nC_rPOBrrlC2U&v=1&r=https%3a%2f%2fwww.moroccoworldnews.com%2f2017%2f02%2f207452%2fus-customs-ask-airlines-to-ignore-donald-trumps-muslim-ban%2f&p=DevEx,5087.1"
-  }, 
-  {
-    "headline": "Phil Corrigan: Something for everyone on packed Stoke-on-Trent Central ballot", 
-    "id": 43, 
     "sentiment_magnitude": 0.2, 
     "sentiment_score": 0.2, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=aeIB8Ca0b3hS6EK8kPSuB8HvQHR6CIxnnZ935jmClhw&v=1&r=http%3a%2f%2fwww.stokesentinel.co.uk%2fphil-corrigan-something-for-everyone-on-stoke-on-trent-central-ballot%2fstory-30110467-detail%2fstory.html&p=DevEx,5089.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=Fmmz3NSHBjmfUi7UJkdCL7ovuTQ_wSqT0xTUpWSUVGE&v=1&r=http%3a%2f%2fpetra.gov.jo%2fPublic_News%2fNws_NewsDetails.aspx%3fSite_Id%3d1%26lang%3d2%26NewsID%3d287896%26CatID%3d-1&p=DevEx,5063.1"
   }, 
   {
-    "headline": "Entries open for 'seriously tough' Brutal run", 
-    "id": 44, 
+    "headline": "Pizza Hut introduces pyjama free zone", 
+    "id": 31, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=ax2q6iY5S9xTfEQ0RC9nok_Atah08YFCszZqiKvnUrc&v=1&r=http%3a%2f%2fwww.femalefirst.co.uk%2fbizarre%2fpizza-hut-introduces-pyjama-free-zone-1031857.html&p=DevEx,5065.1"
+  }, 
+  {
+    "headline": "State Troopers Plan Enforcement for Super Bowl Sunday", 
+    "id": 32, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=OBKPkHkomLXyqYuywxp6QLHUGKmqNCayFdCbOcBPIBw&v=1&r=http%3a%2f%2fnews.hamlethub.com%2fwilton%2fpublicsafety%2f46461-state-troopers-plan-enforcement-for-super-bowl-sunday&p=DevEx,5067.1"
+  }, 
+  {
+    "headline": "Security firm bosses to be summoned after claims criminals paid for loose tags", 
+    "id": 33, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": -0.6, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=B4eUjfFzV5-BBgHvM6Ti9VK5jOuod5jbaMg_Sco0NHs&v=1&r=http%3a%2f%2fwww.manxradio.com%2fnews%2fuk-news%2fsecurity-firm-bosses-to-be-summoned-after-claims-criminals-paid-for-loose-tags%2f&p=DevEx,5069.1"
+  }, 
+  {
+    "headline": "Colchester Zoo white rhino gives birth", 
+    "id": 34, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=zCR5RiJFC8ypxo6eFb4Zch2Rmu5amKUEkc0U-6aEtn8&v=1&r=http%3a%2f%2fwww.essexlive.news%2fcolchester-zoo-white-rhino-gives-birth%2fstory-30111716-detail%2fstory.html&p=DevEx,5071.1"
+  }, 
+  {
+    "headline": "Ex-bishop Peter Ball 'released from prison' after sex abuse sentence", 
+    "id": 35, 
     "sentiment_magnitude": 0, 
     "sentiment_score": 0, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=pEyYtTUmdGuc1OangZX-iL9ufB5ZhlfWvshq6ANldZE&v=1&r=http%3a%2f%2fwww.getsurrey.co.uk%2fwhats-on%2ffamily-kids-news%2fentries-open-seriously-tough-brutal-12551153&p=DevEx,5091.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=vo6bNo0_C49XyHxuD43x5CnlHAu697tnemC--8J-rVQ&v=1&r=http%3a%2f%2fwww.expressandstar.com%2fnews%2fuk-news%2f2017%2f02%2f04%2fex-bishop-peter-ball-released-from-prison-after-sex-abuse-sentence%2f&p=DevEx,5073.1"
   }, 
   {
-    "headline": "Mawarire remanded in custody", 
-    "id": 45, 
+    "headline": "Anger on peace nomination for SF\u2019s McGuinness", 
+    "id": 36, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=VA9s2GyptoI1QznBemoRjwDmmIBOsxDt7Uwdq-rdBQw&v=1&r=http%3a%2f%2fwww.newsletter.co.uk%2fnews%2fanger-on-peace-nomination-for-sf-s-mcguinness-1-7806756&p=DevEx,5075.1"
+  }, 
+  {
+    "headline": "HAULAGE TRUCK CRUSHES KOMBI, TRUCK", 
+    "id": 37, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=IQ8CY3eCZybLieKFmc9LZoDc2dXSMKTI1iwVtLo8z4Q&v=1&r=http%3a%2f%2fwww.newsdzezimbabwe.co.uk%2f2017%2f02%2fhaulage-truck-crushes-kombi-truck.html&p=DevEx,5077.1"
+  }, 
+  {
+    "headline": "Charitable students to work at one of India's largest orphanages", 
+    "id": 38, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": 0.3, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=glhqplstdmn0KVTdLVDJ-2bo6ZGSVYvHETbfAZyjPCE&v=1&r=http%3a%2f%2fwww.accringtonobserver.co.uk%2fnews%2fcharitable-students-work-one-indias-12510457&p=DevEx,5079.1"
+  }, 
+  {
+    "headline": "US slaps new sanctions on Iran after missile test", 
+    "id": 39, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": -0.3, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=hBH0gUaEWIajVVvqc5_eWKUaoxFV2ZZsiDUu1y6hopI&v=1&r=http%3a%2f%2fwww.ddinews.gov.in%2fInternational%2fInternational%2520-%2520Headlines%2fPages%2fUSslapssanctionsonIran.aspx&p=DevEx,5081.1"
+  }, 
+  {
+    "headline": "Wednesbury mum's tributes to her son who she lost in the Tunisia terror attack", 
+    "id": 40, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=dhFcuJJO74vaTxJv0y7u40orqhpom_UAuGtWxh3yGrE&v=1&r=http%3a%2f%2fwww.birminghammail.co.uk%2fnews%2fmidlands-news%2fwednesbury-mums-tributes-son-who-12552569&p=DevEx,5083.1"
+  }, 
+  {
+    "headline": "UN removes Afghan Warlord Hekmatyar from terrorist list", 
+    "id": 41, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.6, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=3b0_SpCIIKBn3Zw2BAt7QYm7-uhu-dac6sRRWrRUM5Q&v=1&r=http%3a%2f%2fddinews.gov.in%2fInternational%2fInternational%2520-%2520Top%2520Story%2fPages%2fAfghanWarlordHekmatyar.aspx&p=DevEx,5085.1"
+  }, 
+  {
+    "headline": "Where Do London's Mysterious Overhead Footbridges Go?", 
+    "id": 42, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": -0.4, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=yWpYSplEOlfN_zx9A2t68VNZ62CrdBnGhfEXrtDTqVQ&v=1&r=http%3a%2f%2flondonist.com%2flondon%2fbest-of-london%2flondon-s-overhead-footbridges&p=DevEx,5087.1"
+  }, 
+  {
+    "headline": "The West and the Muslim world", 
+    "id": 43, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
+    "url": "https://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=kJTWNVDCoxLak9kCi6lZBMD6V2PsgFVtSLys1weDmoo&v=1&r=https%3a%2f%2fen.qantara.de%2fcontent%2fthe-west-and-the-muslim-world-bin-the-black-and-white-model&p=DevEx,5089.1"
+  }, 
+  {
+    "headline": "Shadow chancellor John McDonnell targets Government's North-South funding gap", 
+    "id": 44, 
     "sentiment_magnitude": 0.1, 
     "sentiment_score": 0.1, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=EdWGGCAxaGpBJC12yygk3NSO3nhtd0i1kOLKsv7c1ck&v=1&r=http%3a%2f%2fwww.chronicle.co.zw%2fmawarire-remanded-in-custody%2f&p=DevEx,5093.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=68APmbq68wPgnwmEJEHuRt4cT8k-Go7LPnDXKaLWPQM&v=1&r=http%3a%2f%2fwww.three.fm%2fnews%2fuk-news%2fshadow-chancellor-john-mcdonnell-targets-governments-north-south-funding-gap%2f&p=DevEx,5091.1"
   }, 
   {
-    "headline": "Labour vows to 'close the gap' in north-south travel investment", 
+    "headline": "Campaigners yell 'disgrace' at councillors who reject last ditch bid to save Rushey Mead library", 
+    "id": 45, 
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": -0.7, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=cXYm_XBlUE_EAgHK05Y-GxLNnXCNei4Q0YLgyI70hS0&v=1&r=http%3a%2f%2fwww.leicestermercury.co.uk%2fcampaigners-yell-disgrace-and-lies-at-councillors-who-reject-last-ditch-bid-to-save-library%2fstory-30109658-detail%2fstory.html&p=DevEx,5093.1"
+  }, 
+  {
+    "headline": "Family find snake in toilet", 
     "id": 46, 
     "sentiment_magnitude": 0.3, 
     "sentiment_score": 0.3, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=Ng3vi8-qPtvLA4IY-L-18QFgN7UtV_YCGcDbv1msVxs&v=1&r=http%3a%2f%2fwww.ibtimes.co.uk%2flabour-vows-close-gap-north-south-travel-investment-1604835&p=DevEx,5095.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=hfMS4lKSoTRyPKf7jjKFpRlwTE3bUaMsvMy80IvBxIA&v=1&r=http%3a%2f%2fwww.femalefirst.co.uk%2fbizarre%2ffamily-find-snake-toilet-1032162.html&p=DevEx,5095.1"
   }, 
   {
-    "headline": "Why north, east score poorly in UCE", 
+    "headline": "Brazil's 'eternal first lady' Marisa Leticia Lula da Silva dies", 
     "id": 47, 
-    "sentiment_magnitude": 0.8, 
-    "sentiment_score": -0.8, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=f2-wq4tWXjpj_56kUd3VlkuIw1Vzdrz8-3qpWwW5YBw&v=1&r=http%3a%2f%2fwww.monitor.co.ug%2fNews%2fEducation%2fNorth-east-score-poorly-UCE%2f688336-3798792-6crbll%2findex.html&p=DevEx,5097.1"
-  }, 
-  {
-    "headline": "YOUR VIEW: Referendum definitely not needed", 
-    "id": 48, 
-    "sentiment_magnitude": 0, 
-    "sentiment_score": 0, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=IDCc2mMAaNd_IRFGyTRjWpwEnlIqqAtJbGcfElKv6Oc&v=1&r=http%3a%2f%2fwww.spaldingtoday.co.uk%2fnews%2fyour-view-referendum-definitely-not-needed-1-7804400&p=DevEx,5099.1"
-  }, 
-  {
-    "headline": "April Jones' mother says sex offender campaign has helped them with their continued grief", 
-    "id": 49, 
-    "sentiment_magnitude": 0.2, 
-    "sentiment_score": -0.2, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=ogmXiIhwMxZ2kuBdEWnLg1d_Oq6qWdwIbkJDXAYl7Bg&v=1&r=http%3a%2f%2fwww.walesonline.co.uk%2fnews%2fwales-news%2fapril-jones-mother-says-sex-12554514&p=DevEx,5101.1"
-  }, 
-  {
-    "headline": "Bedford Council owned No 13 Bar is \u00a340k in the red", 
-    "id": 50, 
-    "sentiment_magnitude": 0.3, 
-    "sentiment_score": -0.3, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=JHuWZJIx9CI2BO5cEyyTrvDDATt4OYazTYLa0s1U9x4&v=1&r=http%3a%2f%2fwww.bedfordshire-news.co.uk%2fcuts%2fstory-30110207-detail%2fstory.html&p=DevEx,5103.1"
-  }, 
-  {
-    "headline": "Celebrity Big Brother 2017: Nicola McLean says sorry to Kim Woodburn over 'mum row'", 
-    "id": 51, 
-    "sentiment_magnitude": 0.7, 
-    "sentiment_score": -0.7, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=3KNUNh_SGElQYSNQeVjP7gaS3dA6HWU4n-Co4GYz7pE&v=1&r=http%3a%2f%2fwww.tellymix.co.uk%2freality-tv%2fbig-brother%2f300713-celebrity-big-brother-2017-nicola-mclean-says-sorry-kim-woodburn-mum-row.html&p=DevEx,5291.1"
-  }, 
-  {
-    "headline": "Fury as Post Office confirms Fareham store to move into WHSmith", 
-    "id": 52, 
-    "sentiment_magnitude": 0.1, 
-    "sentiment_score": 0.1, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=In3kOwayfM3MvR187_4uCt0aygKWWj_9GwINH8Uek38&v=1&r=http%3a%2f%2fwww.portsmouth.co.uk%2four-region%2ffareham%2ffury-as-post-office-confirms-fareham-store-to-move-into-whsmith-1-7806171&p=DevEx,5107.1"
-  }, 
-  {
-    "headline": "A Chelmsford lottery-predicting psychic tried to read my future and this is what happened", 
-    "id": 53, 
-    "sentiment_magnitude": 0.1, 
-    "sentiment_score": -0.1, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=rty1vte-5qJyoiPISqUSD42xySMuu_4c5yfV9wk0Pzg&v=1&r=http%3a%2f%2fwww.essexlive.news%2fa-chelmsford-lottery-predicting-psychic-tried-to-read-my-future-and-this-is-what-happened%2fstory-30111649-detail%2fstory.html&p=DevEx,5109.1"
-  }, 
-  {
-    "headline": "Andrea Coscelli on the CMA\u2019s role as the UK exits the European Union", 
-    "id": 54, 
-    "sentiment_magnitude": 0.2, 
-    "sentiment_score": -0.2, 
-    "url": "https://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=b-RcCkO3iHaQ5pQL_TwbKUzkjsHy_W6RfAigglRh7cw&v=1&r=https%3a%2f%2fwww.gov.uk%2fgovernment%2fspeeches%2fandrea-coscelli-on-the-cmas-role-as-the-uk-exits-the-european-union&p=DevEx,5111.1"
-  }, 
-  {
-    "headline": "Our Diversity makes us great!", 
-    "id": 55, 
-    "sentiment_magnitude": 0.9, 
-    "sentiment_score": 0.9, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=nKv5QL90-zxRbGEd-U6XCMBYkGtkN2-rX9wR28iiPXo&v=1&r=http%3a%2f%2fwww.somalilandpress.com%2fdiversity-makes-us-great%2f&p=DevEx,5113.1"
-  }, 
-  {
-    "headline": "How unique is your name in the UK? This website will show you", 
-    "id": 56, 
-    "sentiment_magnitude": 0.3, 
-    "sentiment_score": 0.1, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=CeRLtajEqUS_2JIe1V8nRj4OUYmS2BqVoFq1K7ms4GM&v=1&r=http%3a%2f%2fmetro.co.uk%2f2017%2f02%2f04%2fhow-unique-is-your-name-in-the-uk-this-website-will-show-you-6426594%2f&p=DevEx,5115.1"
-  }, 
-  {
-    "headline": "Wanted: Competent Ugandan managers", 
-    "id": 57, 
-    "sentiment_magnitude": 0.1, 
-    "sentiment_score": -0.1, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=4btG0eCjOxQSaUZUAMTyUfXn7Yots67Hqy8TG-s5vS0&v=1&r=http%3a%2f%2fwww.monitor.co.ug%2fOpEd%2fCommentary%2fWanted-Competent-Ugandan-managers%2f689364-3798448-gd79wm%2findex.html&p=DevEx,5117.1"
-  }, 
-  {
-    "headline": "Marine future \u201csecure\u201d says Defence Secretary", 
-    "id": 58, 
-    "sentiment_magnitude": 0.7, 
-    "sentiment_score": 0.7, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=7lhQsHSo8ETG_qQAbIzW044rT7YvWJDqlFE4665gik0&v=1&r=http%3a%2f%2fwww.arbroathherald.co.uk%2fnews%2fpolitics%2fmarine-future-secure-says-defence-secretary-1-4357136&p=DevEx,5119.1"
-  }, 
-  {
-    "headline": "Denbighshire schools to get \"more flexible\" transport policy", 
-    "id": 59, 
     "sentiment_magnitude": 0.3, 
     "sentiment_score": 0.3, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=AUhfo4zSMpLfWg4Ne-Cp6RPzKANEr-BZr1ZcahWRdxY&v=1&r=http%3a%2f%2fwww.denbighshirefreepress.co.uk%2fnews%2f172040%2fdenbighshire-schools-to-get-more-flexible-transport-policy.aspx&p=DevEx,5121.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=CHvLiB_J8_dgmLaPvLQokfpCXVWbtJ9gc_eMPCGnES8&v=1&r=http%3a%2f%2fwww.mix96.co.uk%2fnews%2fworld%2f2215871%2fbrazils-eternal-first-lady-marisa-leticia-lula-da-silva-dies%2f&p=DevEx,5097.1"
   }, 
   {
-    "headline": "Worldwide search for teachers to address Scotland\u2019s classroom shortage", 
-    "id": 60, 
+    "headline": "India: 2017 Assembly elections begin in Goa, Punjab", 
+    "id": 48, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=lP-nwzyzTaiLp_t5eQPwj-chMPd_Ynoc1iwm1p3QLA4&v=1&r=http%3a%2f%2fthebricspost.com%2findia-2017-assembly-elections-begin-in-goa-punjab%2f&p=DevEx,5099.1"
+  }, 
+  {
+    "headline": "Top Vatican archbishop named as Pope\u2019s man to reform Order of Malta", 
+    "id": 49, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=X2EzKMIK5FjVBo8J-sPG_K9bNZCoY7NG1TgMOc22poc&v=1&r=http%3a%2f%2fwww.thetablet.co.uk%2fnews%2f6691%2f0%2ftop-vatican-archbishop-named-as-pope-s-man-to-reform-order-of-malta&p=DevEx,5101.1"
+  }, 
+  {
+    "headline": "Watch pedestrian cause a pile-up after crossing a busy road without looking both ways", 
+    "id": 50, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=8RqOVlpx-RnwdA570VogvIvVi-0xv74cfToB0npxmq0&v=1&r=http%3a%2f%2fwww.dailyrecord.co.uk%2fincoming%2fwatch-pedestrian-cause-pile-up-9757166&p=DevEx,5103.1"
+  }, 
+  {
+    "headline": "Zozulya leaves Rayo after fans call him Nazi", 
+    "id": 51, 
+    "sentiment_magnitude": 0.3, 
+    "sentiment_score": -0.3, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=lt3hkWxF2dfpwsSEWD5GHbT2_mWVYIq_tB1q19C9Zbc&v=1&r=http%3a%2f%2ffxcnews.com%2f2017%2f02%2f04%2fzozulya-leaves-rayo-after-fans-call-him-nazi.html&p=DevEx,5105.1"
+  }, 
+  {
+    "headline": "Dozens of civilians killed, wounded in E Ukraine shelling", 
+    "id": 52, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": -0.5, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=Q7XSfIgAIymy1AqGbjlJmeV1kf_4qbBDYX61QemzQlE&v=1&r=http%3a%2f%2fthebricspost.com%2fdozens-of-civilians-killed-wounded-in-e-ukraine-shelling%2f&p=DevEx,5107.1"
+  }, 
+  {
+    "headline": "Machete-wielding man shouting 'Allahu akhbar' shot by soldier outside Louvre", 
+    "id": 53, 
     "sentiment_magnitude": 0.2, 
     "sentiment_score": 0.2, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=UovBA-QHso-Ze5inTrs-eSW_beBXHIKh0uKj1y9tLRM&v=1&r=http%3a%2f%2fwww.scotsman.com%2fnews%2feducation%2fworldwide-search-for-teachers-to-address-scotland-s-classroom-shortage-1-4357854&p=DevEx,5302.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=irb3MxdEFmXu0-Ho7gtN8nQkeDfj8Y4_m7a5w_wENZQ&v=1&r=http%3a%2f%2fwww.liverpoolecho.co.uk%2fnews%2fuk-world-news%2fmachete-wiedling-man-shouting-allahu-12550679&p=DevEx,5277.1"
   }, 
   {
-    "headline": "RMT calls ASLEF's deal with Southern rail a 'shocking betrayal'", 
-    "id": 61, 
+    "headline": "UK defence secretary: Russian hacks are destabilising Western democracy", 
+    "id": 54, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.6, 
+    "url": "https://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=a52cvdnEFmCcBEFi0xxjzIKPwKVIchIeP4ro0CKVLr0&v=1&r=https%3a%2f%2fwww.theregister.co.uk%2f2017%2f02%2f03%2fk_defense_secretary_warns_over_russian_cyberattacks%2f&p=DevEx,5111.1"
+  }, 
+  {
+    "headline": "Chimps Kill, Mutilate and Cannibalize Member of Own Group", 
+    "id": 55, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
+    "url": "https://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=npD6tQQ8KzaEcntMPl7lHN_9nm0mL81jMi5CY1waWSE&v=1&r=https%3a%2f%2fuk.news.yahoo.com%2fchimps-kill-mutilate-cannibalize-member-124000047.html&p=DevEx,5113.1"
+  }, 
+  {
+    "headline": "Russia using cyber attacks to destabilise Europe, warns UK defence secretary", 
+    "id": 56, 
     "sentiment_magnitude": 0.1, 
-    "sentiment_score": -0.1, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=ffcHXydAHufHg03ycwRXYk7Fcxpu6Nb4PPIIrxZww3U&v=1&r=http%3a%2f%2fwww.piratefm.co.uk%2fnews%2fuk-news%2f2216160%2frmt-calls-aslefs-deal-with-southern-rail-a-shocking-betrayal%2f&p=DevEx,5125.1"
+    "sentiment_score": 0.1, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=zakPA_hwjOdJXyTfSgYbyZOa7GOoE44mHwnlTaREz-Q&v=1&r=http%3a%2f%2fwww.v3.co.uk%2fv3-uk%2fnews%2f3003910%2frussia-using-cyber-attacks-to-destabilise-europe-warns-uk-defence-secretary&p=DevEx,5115.1"
   }, 
   {
-    "headline": "Plans to turn Portsmouth into \u2018restorative city\u2019", 
+    "headline": "Uber boss departs Trump council after immigration ban uproar", 
+    "id": 57, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=lGRbR65upTGxxNUUVu8URnYBwUQIVP0gTUfbJwxCE88&v=1&r=http%3a%2f%2fwww.proactiveinvestors.co.uk%2fcompanies%2fnews%2f172634%2fuber-boss-departs-trump-council-after-immigration-ban-uproar-172634.html&p=DevEx,5117.1"
+  }, 
+  {
+    "headline": "50 general knowledge quiz questions to test the family this Boxing Day", 
+    "id": 58, 
+    "sentiment_magnitude": 0.8, 
+    "sentiment_score": 0.8, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=LjSrOj8ouDEHOy0qzEIqzZW29MrafOOqAbo79hAWX6c&v=1&r=http%3a%2f%2fwww.dailypost.co.uk%2fwhats-on%2f50-general-knowledge-quiz-questions-8344711&p=DevEx,5119.1"
+  }, 
+  {
+    "headline": "When is Mother's Day 2017 and why do we celebrate it?", 
+    "id": 59, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": -0.2, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=txXEmtT7IaxM2Xc3bd-DN8eNixJ6xcTuwF-5LtU2uvc&v=1&r=http%3a%2f%2fwww.dailypost.co.uk%2fwhats-on%2fmothers-day-2017-celebrate-it-12551295&p=DevEx,5121.1"
+  }, 
+  {
+    "headline": "Confessions Of A Muslim Millennial: Travel Ban", 
+    "id": 60, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=Elvmb76-HrKaC4BaXB-TcD9HxHAEnUtH_Bh4jd3r42Q&v=1&r=http%3a%2f%2fwww.mtv.co.uk%2fmtv-voices%2fnews%2fconfessions-of-a-muslim-millennial-travel-ban&p=DevEx,5123.1"
+  }, 
+  {
+    "headline": "Fros\u00e9 is the boozy ros\u00e9 and gin combo taking over your Instagram feed", 
+    "id": 61, 
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=lMkjI-c2acBKr2h_stPbRDWi2pvjQ7EYfoLgh5naYjY&v=1&r=http%3a%2f%2fwww.stylist.co.uk%2flife%2frecipes%2ffrose-gin-rose-wine-recipe-strawberry-cocktail-summer-booze-trend-instagram&p=DevEx,5125.1"
+  }, 
+  {
+    "headline": "Teacher sent pictures of himself in boxer shorts to former pupil", 
     "id": 62, 
     "sentiment_magnitude": 0.2, 
     "sentiment_score": 0.2, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=tK89ELXCRad_MiES87A7yKYPBcyz33b_yhsaIlL4t9A&v=1&r=http%3a%2f%2fwww.portsmouth.co.uk%2four-region%2fportsmouth%2fplans-to-turn-portsmouth-into-restorative-city-1-7806449&p=DevEx,5127.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=72Yt5szK6zSoyxDwuQsxrq7lla921fOaGNCxIRYYsnA&v=1&r=http%3a%2f%2fwww.walesonline.co.uk%2fnews%2fwales-news%2fteacher-sent-pictures-himself-boxer-12544708&p=DevEx,5127.1"
   }, 
   {
-    "headline": "MPs to debate 'no confidence' motion on FA's ability to reform itself", 
+    "headline": "Possible Historic Shipwreck Discovered Near Sweden", 
     "id": 63, 
     "sentiment_magnitude": 0.8, 
-    "sentiment_score": -0.8, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=6zHu1k_Pik_2CsR6tOwTEE7oFMhUl49jFSnobNn1Qh4&v=1&r=http%3a%2f%2fwww.sport.co.uk%2ffootball%2fmps-to-debate-no-confidence-motion-on-fas-ability-to-ref%2f8325826%2f&p=DevEx,5129.1"
+    "sentiment_score": 0.8, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=JBe61Ym4qCrdQI576Jukb2p8oq_F2ZkxPfAtoNcEu9I&v=1&r=http%3a%2f%2fwww.archaeology.org%2fnews%2f5244-170201-sweden-warship-blekinge&p=DevEx,5129.1"
   }, 
   {
-    "headline": "Campaigners blast Scottish Government\u2019s approval for \u2018useless\u2019 Loch Ness windfarm extension", 
+    "headline": "Saiphin Moore plans to open up to two more Lao Caf\u00e9s", 
     "id": 64, 
-    "sentiment_magnitude": 0.4, 
-    "sentiment_score": -0.4, 
-    "url": "https://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=638brl60TWV7tPzbaXj-HxDFR0DQi-sL7gqYnmP6LZo&v=1&r=https%3a%2f%2fwww.thescottishsun.co.uk%2funcategorized%2f534954%2fcampaigners-blast-scottish-government-approval-for-useless-loch-ness-windfarm-extension%2f&p=DevEx,5131.1"
-  }, 
-  {
-    "headline": "SNP leaders slammed for silence on IRA \u2018freedom fighters\u2019 remarks", 
-    "id": 65, 
     "sentiment_magnitude": 0.1, 
     "sentiment_score": 0.1, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=9jCsseTNfuJ1UqZeAGqK5KlmIHgh90UKnqK_L1AAxIs&v=1&r=http%3a%2f%2fwww.newsletter.co.uk%2fnews%2fsnp-leaders-slammed-for-silence-on-ira-freedom-fighters-remarks-1-7806642&p=DevEx,5133.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=g2BBKECDrGFLONRRTjTfuGX9tM5kDDyrCHqyrvE5DDU&v=1&r=http%3a%2f%2fwww.bighospitality.co.uk%2fVenues%2fRosa-s-Thai-Cafe-s-Saiphin-Moore-plans-further-Lao-Cafe-restaurants&p=DevEx,5131.1"
   }, 
   {
-    "headline": "Princess Anne visits Louth to mark disabled riding club\u2019s 45th year", 
-    "id": 66, 
-    "sentiment_magnitude": 0, 
-    "sentiment_score": 0, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=YJTyRT1rJeWYZmK22ZUZwdkhwsJb_VDZzR3uvdcoJF4&v=1&r=http%3a%2f%2fwww.louthleader.co.uk%2fnews%2fprincess-anne-visits-louth-to-mark-disabled-riding-club-s-45th-year-1-7806108&p=DevEx,5135.1"
-  }, 
-  {
-    "headline": "With the average London house to cost a massive \u00a31million by 2022 \u2013 home owners will make or break Theresa May", 
-    "id": 67, 
-    "sentiment_magnitude": 0.4, 
-    "sentiment_score": -0.4, 
-    "url": "https://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=UoiKwktGAWPb9lWNyf0zONHP1rw1IEEC_lVYAGmli1Y&v=1&r=https%3a%2f%2fwww.thesun.co.uk%2fnews%2f2782195%2fwith-the-average-london-house-to-cost-a-massive-1million-by-2022-home-owners-will-make-or-break-theresa-may%2f&p=DevEx,5137.1"
-  }, 
-  {
-    "headline": "Prince Charles turns app developer", 
-    "id": 68, 
+    "headline": "Trump's war on humanity - which side are we on?", 
+    "id": 65, 
     "sentiment_magnitude": 0.2, 
     "sentiment_score": 0.2, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=h8M2DtJed6xq3p22ZcF-IuzwVcnGRyogCooTTcAqAMo&v=1&r=http%3a%2f%2froyalcentral.co.uk%2fuk%2fcharlesandcamilla%2fprince-charles-turns-app-developer-76038&p=DevEx,5139.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=dMeAddYteJvCxG_lBVhY1T8Bm9Q4ZKss3VuuaG0jC1U&v=1&r=http%3a%2f%2fwww.theecologist.org%2fblogs_and_comments%2fcommentators%2f2988600%2ftrumps_war_on_humanity_which_side_are_we_on.html&p=DevEx,5133.1"
   }, 
   {
-    "headline": "Bill Maher completely destroys Donald Trump after second week in White House", 
-    "id": 69, 
-    "sentiment_magnitude": 0.1, 
-    "sentiment_score": 0.1, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=ZMbMrlYsXxaXXsztfkrvPZS4zIEqWNXiEO_0rIkDawk&v=1&r=http%3a%2f%2fus.blastingnews.com%2fshowbiz-tv%2f2017%2f02%2fbill-maher-completely-destroys-donald-trump-after-second-week-in-white-house-001447367.html&p=DevEx,5141.1"
-  }, 
-  {
-    "headline": "Thurrock Labour slam Tory plans to introduce a \u201ctenant top-up tax\u201d", 
-    "id": 70, 
+    "headline": "INTERNATIONAL: Six killed and eight injured in terror attack in mosque", 
+    "id": 66, 
     "sentiment_magnitude": 0.4, 
     "sentiment_score": 0.4, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=q2H5uFxtCWhnYJzH1K8gI619_XI85zjMFgvS5dOD99Y&v=1&r=http%3a%2f%2fwww.yourthurrock.com%2f2017%2f02%2f04%2fthurrock-labour-slam-tory-plans-introduce-tenant-top-tax%2f&p=DevEx,5143.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=dX_dvT2tNcRR8RkE31sZvA1hRdpPB-YFKWlFHAHHksQ&v=1&r=http%3a%2f%2fwww.thestar.co.uk%2fnews%2finternational-six-killed-and-eight-injured-in-terror-attack-in-mosque-1-8360505&p=DevEx,5135.1"
   }, 
   {
-    "headline": "Ultimate objective of CPEC is peace, prosperity: Ahsan Iqbal", 
+    "headline": "Let Donald Trump have state visit to Britain says counter petition by Dover man Alan Brown.", 
+    "id": 67, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=Ytew69gJc4H1qxcXmFWCMDPzpANzPFLxwTgh1AOws5w&v=1&r=http%3a%2f%2fwww.kentonline.co.uk%2fdover%2fnews%2flet-trump-visit-britain-says-119871%2f&p=DevEx,5137.1"
+  }, 
+  {
+    "headline": "2017 may be terrible, but there\u2019s good news for gin lovers\u2026", 
+    "id": 68, 
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.6, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=dIvsNT8nDlscqvicLk97fqcgIsIZrshyDexTCjP0Tf8&v=1&r=http%3a%2f%2fwww.stylist.co.uk%2flife%2fgin-threat-juniper-disease-alcohol-drink-booze-news-trump-2017-nature&p=DevEx,5139.1"
+  }, 
+  {
+    "headline": "People have their say on Cambridge protest against Donald Trump's travel ban", 
+    "id": 69, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=MSpy7iFnt8qJ4Mr_LWwlJv-UqGoT9hSaTvk0iKv9Ru4&v=1&r=http%3a%2f%2fwww.cambridge-news.co.uk%2fnews%2fcambridge-news%2fpeople-say-cambridge-protest-against-12532024&p=DevEx,5141.1"
+  }, 
+  {
+    "headline": "Russian River Cruise Company Vodohod To Build New Ship", 
+    "id": 70, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=D-tDeepd97nfDDd7AGdIxWyqB53WyLDnUBuMZ_rHk48&v=1&r=http%3a%2f%2fwww.cruisecritic.co.uk%2fnews%2fnews.cfm%3fID%3d7502&p=DevEx,5143.1"
+  }, 
+  {
+    "headline": "Resident Evil 7 Mr Everywhere statue locations to unlock the Mr Nowhere Trophy", 
     "id": 71, 
-    "sentiment_magnitude": 0.8, 
-    "sentiment_score": 0.8, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=OBKp2OyQWtSh4JogFzzNjbrtNtVbPeP6dk2w1Fp57Pw&v=1&r=http%3a%2f%2fwww.dnd.com.pk%2fultimate-objective-of-cpec-is-peace-prosperity-ahsan-iqbal%2f123382&p=DevEx,5145.1"
-  }, 
-  {
-    "headline": "Nigel Farage-Trolling MEP Seb Dance Says Political Mainstream Must Adopt 'Populist' Tactics To Defeat Nationalist Threat", 
-    "id": 72, 
     "sentiment_magnitude": 0.1, 
     "sentiment_score": -0.1, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=dHEUwi5T6-H6LFhbOH4UPaJoHXBOhq460eBHJtkG5CM&v=1&r=http%3a%2f%2fwww.huffingtonpost.co.uk%2fentry%2fnigel-farage-sign-seb-dance_uk_589493bce4b0a1dcbd02711d&p=DevEx,5147.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=2Kdu-PGZ6HAl3Q1rOV7P__XRTJnSz9tW3Xndgt6bwzw&v=1&r=http%3a%2f%2fwww.eurogamer.net%2farticles%2f2017-01-31-resident-evil-7-mr-everywhere-statue-locations-mr-nowhere-4298&p=DevEx,5145.1"
   }, 
   {
-    "headline": "In pictures: Final link goes in on Queensferry Crossing", 
+    "headline": "Tech giants including Apple, Google and Microsoft round on Donald Trump's immigrant ban", 
+    "id": 72, 
+    "sentiment_magnitude": 0.1, 
+    "sentiment_score": 0.1, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=LqgVG79l7Y--7jJ3W0IHy2-EkQE8-piTkSSk1NqOdJs&v=1&r=http%3a%2f%2fwww.v3.co.uk%2fv3-uk%2fnews%2f3003545%2ftech-giants-including-apple-google-and-microsoft-round-on-donald-trumps-immigrant-ban&p=DevEx,5147.1"
+  }, 
+  {
+    "headline": "Video: Drugs worth \u00a380,000 seized as police uncover Heckmondwike cannabis farm", 
     "id": 73, 
     "sentiment_magnitude": 0.3, 
     "sentiment_score": 0.3, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=xNa2l1c5LRD6ZBF3aRsa1NGSfeDUcZun-XHqxyoJNzc&v=1&r=http%3a%2f%2fwww.falkirkherald.co.uk%2fnews%2ftransport%2fin-pictures-final-link-goes-in-on-queensferry-crossing-1-4357551&p=DevEx,5149.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=6kBkmTRe_i2N2AzH0WkCueTpswAjuC7pnBfGnKH_zLw&v=1&r=http%3a%2f%2fwww.yorkshireeveningpost.co.uk%2fnews%2fcrime%2fvideo-drugs-worth-80-000-seized-as-police-uncover-heckmondwike-cannabis-farm-1-8359874&p=DevEx,5149.1"
   }, 
   {
-    "headline": "Dan Jarvis: We have to act to end the injustice of child poverty", 
+    "headline": "Ever wondered how your coins are made? LEE BOYCE takes a trip to the Royal Mint in Wales to find out (and discovers they are actually pickled...)", 
     "id": 74, 
-    "sentiment_magnitude": 0.3, 
-    "sentiment_score": 0.3, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=OIAkPHwRTUwhzvnxPuc3QmYMgHxeuRJZFt6CGhIw47E&v=1&r=http%3a%2f%2fwww.yorkshirepost.co.uk%2fnews%2fopinion%2fdan-jarvis-we-have-to-act-to-end-the-injustice-of-child-poverty-1-8368864&p=DevEx,5151.1"
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": 0.1, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=8VZ43SpBi0j6rQxgSAi5FpAH8rmWSjcGZ-KXGnmSFtI&v=1&r=http%3a%2f%2fwww.thisismoney.co.uk%2fmoney%2fsaving%2farticle-4172128%2fHow-UK-coins-Royal-Mint-visit.html&p=DevEx,5151.1"
   }, 
   {
-    "headline": "Council taxpayers \u2018could be hit with \u00a3200 rise\u2019", 
+    "headline": "Donald Trump Would Hate These Bits Of London", 
     "id": 75, 
     "sentiment_magnitude": 0, 
     "sentiment_score": 0, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=J0aLPX7Q1_TDXLctv0YuPGW7GCVAI6SC1uMkKFPsMhQ&v=1&r=http%3a%2f%2fwww.yorkshirepost.co.uk%2fnews%2fcouncil-taxpayers-could-be-hit-with-200-rise-1-8370796&p=DevEx,5153.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=p6XAJXmKLaf9DjCzdfEwthc_D5xWaIkfD_yDNtZ_RAw&v=1&r=http%3a%2f%2flondonist.com%2flondon%2fbest-of-london%2fdonald-trump-would-hate-these-bits-of-london&p=DevEx,5153.1"
   }, 
   {
-    "headline": "Yorkshire devolution could see Hull and East Riding councils become one authority", 
+    "headline": "Shock at sudden death of Herne Bay builder Del Jones", 
     "id": 76, 
-    "sentiment_magnitude": 0.4, 
-    "sentiment_score": 0.4, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=Xt8d7rE5Q-YaJM8Ty-rw_AoRrVH73rE8_xg1CBkqE18&v=1&r=http%3a%2f%2fwww.hulldailymail.co.uk%2fyorkshire-devolution-could-see-hull-and-east-riding-councils-become-one-authority%2fstory-30110180-detail%2fstory.html&p=DevEx,5155.1"
+    "sentiment_magnitude": 0, 
+    "sentiment_score": 0, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=6i-SdYNvicN_mRWroDwWqc72DIwXsTmCkY-Z0exabDc&v=1&r=http%3a%2f%2fwww.kentonline.co.uk%2fherne-bay%2fnews%2fshock-at-sudden-death-of-119631%2f&p=DevEx,5155.1"
   }, 
   {
-    "headline": "Strathkelvin councillor to step down", 
+    "headline": "Prince William and Harry commission new statue to honour Princess Diana on 20th anniversary of her death", 
     "id": 77, 
-    "sentiment_magnitude": 0.1, 
-    "sentiment_score": 0.1, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=LmQi6V9O9yas6vzzAuMCMlZywSYOOncOq-lmIhNBwns&v=1&r=http%3a%2f%2fwww.milngavieherald.co.uk%2fnews%2fstrathkelvin-councillor-to-step-down-1-4358054&p=DevEx,5157.1"
+    "sentiment_magnitude": 0.6, 
+    "sentiment_score": 0.6, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=FPPCykUiTjinLUOpJKptr-gPXGPbvGxciD0hf10LbgY&v=1&r=http%3a%2f%2fwww.dailyrecord.co.uk%2fnews%2fuk-world-news%2fprince-william-harry-commission-new-9713641&p=DevEx,5157.1"
   }, 
   {
-    "headline": "Produce your National Service Certificates- Lawyer challenges MPs", 
+    "headline": "Clarke urges caution in bringing cricket back to Pakistan", 
     "id": 78, 
-    "sentiment_magnitude": 0.3, 
-    "sentiment_score": 0.3, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=SlQ2fDALivQVHzkHNAxr1luUA38dgLfNjICHQiHoSgU&v=1&r=http%3a%2f%2fwww.myjoyonline.com%2fpolitics%2f2017%2fFebruary-4th%2fproduce-your-national-service-certificates-lawyer-challenges-mps.php&p=DevEx,5159.1"
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=_viNMG-V2VYuQgTkbwydQ7TyTsS-2B_fHNb0ObD7Z_4&v=1&r=http%3a%2f%2fwww.espn.co.uk%2fcricket%2fstory%2f_%2fid%2f18572811%2fgiles-clarke-urges-caution-bringing-cricket-back-pakistan&p=DevEx,5159.1"
   }, 
   {
-    "headline": "Safety fears could force bid to buy Whitstable beach from fishery", 
+    "headline": "South Shields biker hopes he has set a new world record after travelling the globe", 
     "id": 79, 
     "sentiment_magnitude": 0.2, 
     "sentiment_score": 0.2, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=IhDmiS8tQblLnqEkvO80VfYt9QhUgF5I7YVjjGl9IYU&v=1&r=http%3a%2f%2fwww.kentonline.co.uk%2fwhitstable%2fnews%2fsafety-hazards-could-force-owners-119976%2f&p=DevEx,5161.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=7p4krMVKb4xMkd4utlkMDkcEa3Zhi05vhiUU_lZ_2EQ&v=1&r=http%3a%2f%2fwww.chroniclelive.co.uk%2fnews%2fnorth-east-news%2fsouth-shields-biker-hopes-set-12509345&p=DevEx,5161.1"
   }, 
   {
-    "headline": "Revealed: How HUGE new Meir housing estate families 'don't want' could look", 
+    "headline": "Punching Nazis", 
     "id": 80, 
     "sentiment_magnitude": 0.2, 
     "sentiment_score": -0.2, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=obhFrMI9WBuKWHqPm0q7F5MewrjICBP7HN6mlPxJ-24&v=1&r=http%3a%2f%2fwww.stokesentinel.co.uk%2frevealed-how-huge-new-meir-housing-estate-families-don-t-want-could-look%2fstory-30111423-detail%2fstory.html&p=DevEx,5163.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=bf10oqTHoy7Ggdik0QqwPJcRvWn0Pxua8k35qrOJ0G0&v=1&r=http%3a%2f%2fwww.eurogamer.net%2farticles%2f2017-01-28-punching-nazis&p=DevEx,5163.1"
   }, 
   {
-    "headline": "Good policy is more than civic virtue", 
+    "headline": "See the moment mum was 'arrested' after being caught with miniature vodka on plane", 
     "id": 81, 
-    "sentiment_magnitude": 0.8, 
-    "sentiment_score": 0.8, 
-    "url": "https://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=ph2xK6ZlMOjz2qV_IQlVuKpdDvlyIJz2TG4IlkzBUTI&v=1&r=https%3a%2f%2fwww.tribtalk.org%2f2017%2f02%2f04%2fgood-policy-is-more-than-civic-virtue%2f&p=DevEx,5165.1"
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=OcefQgOgRIzUOzteSacVQmBJwrS7XbgBJK-eKsC5h7A&v=1&r=http%3a%2f%2fwww.chroniclelive.co.uk%2fnews%2fnorth-east-news%2fsee-moment-mum-arrested-after-12513221&p=DevEx,5165.1"
   }, 
   {
-    "headline": "Tasty treats from Castleford are showcased at Parliament.", 
+    "headline": "Watch RAF Typhoons fly close to Russian aircraft carrier group sailing past the UK", 
     "id": 82, 
     "sentiment_magnitude": 0.5, 
     "sentiment_score": 0.5, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=OE7lGn90ewWJu4YAcf5ngDuLPFeKnbZqb14LiV3_IxM&v=1&r=http%3a%2f%2fwww.pontefractandcastlefordexpress.co.uk%2fnews%2ftasty-treats-from-castleford-are-showcased-at-parliament-1-8370548&p=DevEx,5167.1"
+    "url": "https://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=2hFH9eu2R-rELxZfcsdpNgWv9avBhVSXWZ5FP9hylmg&v=1&r=https%3a%2f%2ftheaviationist.com%2f2017%2f01%2f26%2fwatch-raf-typhoons-fly-close-to-russian-aircraft-carrier-group-sailing-past-the-uk%2f&p=DevEx,5167.1"
   }, 
   {
-    "headline": "Dr Bike gets pupils ready for the road", 
+    "headline": "Holocaust Memorial Day 2017", 
     "id": 83, 
-    "sentiment_magnitude": 0.7, 
-    "sentiment_score": 0.7, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=zj5UG03jNoOcTl4iSfffFsmtMmvjk2yh2AMJsbbWQeo&v=1&r=http%3a%2f%2fwww.tyronetimes.co.uk%2fnews%2fdr-bike-gets-pupils-ready-for-the-road-1-7805694&p=DevEx,5169.1"
-  }, 
-  {
-    "headline": "Strathkelvin MSP welcomes \u00a33 million extra for East Dunbartonshire", 
-    "id": 84, 
     "sentiment_magnitude": 0.3, 
     "sentiment_score": 0.3, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=ZPji5msLWTgEPKwYvx_NOw1p-FywROHzyQwZRDw1c5Q&v=1&r=http%3a%2f%2fwww.kirkintilloch-herald.co.uk%2fnews%2fstrathkelvin-msp-welcomes-3-million-extra-for-east-dunbartonshire-1-4357424&p=DevEx,5171.1"
+    "url": "https://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=HOIxHJB_ZxgGK5zXB-u5_L0DgszSqP6kfvjK1um6-RQ&v=1&r=https%3a%2f%2fwww.gov.uk%2fgovernment%2fspeeches%2fholocaust-memorial-day-2017&p=DevEx,5169.1"
   }, 
   {
-    "headline": "Aberdeen City Council\u2019s finance boss tells of concern over impact on services of steep rates hike", 
+    "headline": "CITY DIARY: Charles's 'Segway polo' chum Nick Magliocchetti is back \u2013 with an Uber-style airline", 
+    "id": 84, 
+    "sentiment_magnitude": 0.5, 
+    "sentiment_score": 0.5, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=_WxNeyKGaK-_5TKmeQa8uXC0R6F7Y-WlCvjp9ZXmnZw&v=1&r=http%3a%2f%2fwww.thisismoney.co.uk%2fmoney%2fcomment%2farticle-4162072%2fCITY-DIARY-Charles-s-chum-s-Uber-style-airline.html&p=DevEx,5171.1"
+  }, 
+  {
+    "headline": "Gallery: Esteban Chaves' Scott Foil RC", 
     "id": 85, 
     "sentiment_magnitude": 0.4, 
     "sentiment_score": 0.4, 
-    "url": "https://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=Q_FNebR3_66GI9oKwrjuoE0MywRUM430v4fugypST-A&v=1&r=https%3a%2f%2fwww.eveningexpress.co.uk%2ffp%2fnews%2flocal%2fcouncils-money-man-tells-of-concern-over-impact-on-services-of-steep-rates-hike%2f&p=DevEx,5173.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=6KEiMaNVV8DBpgk6QB61ntwe3VDHPF7IBvIGP8uXzi8&v=1&r=http%3a%2f%2fwww.bikeradar.com%2froad%2fgear%2farticle%2festeban-chaves-scott-foil-rc-gallery-48999%2f&p=DevEx,5173.1"
   }, 
   {
-    "headline": "Why You Need to be Outraged About the Decision to Allow Coal Debris Dumping in Streams", 
+    "headline": "Driver blames 'wind' for pushing him over the speed limit", 
     "id": 86, 
-    "sentiment_magnitude": 0.5, 
-    "sentiment_score": -0.5, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=YcmCQqXHSjIHYKJJLeq8nac8RqPJwfB9svlkvkXdni8&v=1&r=http%3a%2f%2fwww.onegreenplanet.org%2fnews%2fgovernments-decision-to-allow-coal-debris-dumping-in-streams%2f&p=DevEx,5175.1"
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": -0.7, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=Q8B9lsp8-qkQwGOZ-cYa-uSGgmg5u2BLJd3V4v58tdo&v=1&r=http%3a%2f%2ftravel.aol.co.uk%2f2017%2f01%2f25%2fdriver-blames-wind-speeding-australia%2f&p=DevEx,5175.1"
   }, 
   {
-    "headline": "Traffic chaos in Ayr as town has more roadworks than anywhere else in Scotland", 
+    "headline": "Irish EuroMillions Player Scoops \u20ac88.5 Million Jackpot", 
     "id": 87, 
     "sentiment_magnitude": 0.4, 
     "sentiment_score": 0.4, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=Djr_KBo8wJx7BbeHPxOn4gVs7xFgYx4HYqwO-q86uvM&v=1&r=http%3a%2f%2fwww.dailyrecord.co.uk%2fnews%2flocal-news%2ftraffic-chaos-ayr-town-more-9754475&p=DevEx,5177.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=998TUDJYFke8GzwgYrYg5x7jf1sqBaW0QPWAcH88YD8&v=1&r=http%3a%2f%2fwww.worldlottery.net%2fnews%2firish-euromillions-player-scoops-88-5-million-jackpot&p=DevEx,5177.1"
   }, 
   {
-    "headline": "Squaw Valley property owner who agreed to house sex offender apologizes to community", 
+    "headline": "Facebook founder Mark Zuckerberg denies presidential ambitions", 
     "id": 88, 
-    "sentiment_magnitude": 0.1, 
-    "sentiment_score": -0.1, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=ykbB8svy__enBjofP3i4QYSN5YxrSC4QAU7vsrG7s1o&v=1&r=http%3a%2f%2fabc30.com%2fnews%2fsquaw-valley-property-owner-who-agreed-to-house-sex-offender-apologizes-to-community%2f1736932%2f&p=DevEx,5179.1"
+    "sentiment_magnitude": 0.7, 
+    "sentiment_score": -0.7, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=h3hTbv3hch8qEvhhUyL3NkTlh6A3JslGzqFAe3rxBHI&v=1&r=http%3a%2f%2fwww.itpro.co.uk%2fstrategy%2f27967%2ffacebook-founder-mark-zuckerberg-denies-presidential-ambitions&p=DevEx,5179.1"
   }, 
   {
-    "headline": "Welsh MPs bid to secure second referendum and keep funding post-Brexit", 
+    "headline": "Blood and fire: mining and militarization in the Ecuadorian Amazon", 
     "id": 89, 
     "sentiment_magnitude": 0.3, 
     "sentiment_score": 0.3, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=xN2OZbyPBy4G4MM-Z3kg-vG93zzS4RNk3y1R_jtvA1o&v=1&r=http%3a%2f%2fwww.walesonline.co.uk%2fnews%2fpolitics%2fwelsh-mps-bid-secure-second-12554920&p=DevEx,5334.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=zbIqzCcIAbkiD8gbqF6Tgmnte_lg5GIk49BOCP70Tp4&v=1&r=http%3a%2f%2fwww.theecologist.org%2fNews%2fnews_round_up%2f2988565%2fblood_and_fire_mining_and_militarization_in_the_ecuadorian_amazon.html&p=DevEx,5181.1"
   }, 
   {
-    "headline": "Failings left paedophiles free to prey on children", 
+    "headline": "Much-loved King\u2019s Lynn busker Juggling Jim has died", 
     "id": 90, 
-    "sentiment_magnitude": 0, 
-    "sentiment_score": 0, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=rzz-tObL-YJT1kxViMSw3veA7cF9Gwii_uUqRFiFukc&v=1&r=http%3a%2f%2fwww.newburytoday.co.uk%2fnews%2fhome%2f20534%2ffailings-left-paedophiles-free-to-prey-on-children.html&p=DevEx,5183.1"
-  }, 
-  {
-    "headline": "Council vehicles in 90 crashes on Shropshire roads", 
-    "id": 91, 
-    "sentiment_magnitude": 0.1, 
-    "sentiment_score": -0.1, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=sb0ljsAwl-UPKZ2PLxuoWUB9i-IpAHnLj99LJetj1HY&v=1&r=http%3a%2f%2fwww.shropshirestar.com%2fnews%2f2017%2f02%2f04%2fcouncil-vehicles-in-90-crashes-on-shropshire-roads%2f&p=DevEx,5185.1"
-  }, 
-  {
-    "headline": "Former Labour MP Tam Dalyell's body to be given to science", 
-    "id": 92, 
-    "sentiment_magnitude": 0.3, 
-    "sentiment_score": 0.3, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=gexEzRzALHl4ENQuT6-oRJTxn7zCwKb9VogIYj0hQz8&v=1&r=http%3a%2f%2fwww.itv.com%2fnews%2f2017-02-04%2fbody-former-labour-mp-tam-dalyell-to-be-given-to-science%2f&p=DevEx,5187.1"
-  }, 
-  {
-    "headline": "Massive fire in Chinatown displaces residents and business owners", 
-    "id": 93, 
-    "sentiment_magnitude": 0.3, 
-    "sentiment_score": 0.3, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=x_ct8gyanFJ7leDpxseCM9wlxaB1kCGF39l572Toze8&v=1&r=http%3a%2f%2fabc7news.com%2fnews%2fmassive-fire-in-chinatown-displaces-residents-and-businesses-%2f1736909%2f&p=DevEx,5189.1"
-  }, 
-  {
-    "headline": "Project aims to help more children to get reading across the West Midlands", 
-    "id": 94, 
-    "sentiment_magnitude": 0.3, 
-    "sentiment_score": 0.3, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=Z4z5oB2EOUz1guebuPUyo9NnqvDvSYMMQGP_XYYiSTo&v=1&r=http%3a%2f%2fwww.expressandstar.com%2feducation%2f2017%2f02%2f04%2fproject-aims-to-help-more-children-to-get-reading-across-the-west-midlands%2f&p=DevEx,5191.1"
-  }, 
-  {
-    "headline": "Jeremy Corbyn to offer Ed Miliband return to front line politics in shadow cabinet reshuffle", 
-    "id": 95, 
     "sentiment_magnitude": 0.4, 
-    "sentiment_score": -0.4, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=YD1Qr8-Lcoub9AKME95zGTf_nKV5A-XOBxxG_9TyuxI&v=1&r=http%3a%2f%2fwww.mirror.co.uk%2fnews%2fuk-news%2fjeremy-corbyn-offer-ed-miliband-9747458&p=DevEx,5193.1"
+    "sentiment_score": 0.4, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=Qx2i7qC1hoA0Cnrfl09RE1ien7nIBbu39ZXlJbRjeJk&v=1&r=http%3a%2f%2fwww.edp24.co.uk%2fnews%2fmuch_loved_king_s_lynn_busker_juggling_jim_has_died_1_4860369&p=DevEx,5183.1"
   }, 
   {
-    "headline": "Dingwall farm plant u-turn call as community council steps in to row", 
-    "id": 96, 
-    "sentiment_magnitude": 0, 
-    "sentiment_score": 0, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=c1T6mA2CzVgE7qteuWvj_AKQEHHu5q0GlbZB5QdRY4s&v=1&r=http%3a%2f%2fwww.ross-shirejournal.co.uk%2fNews%2fDingwall-farm-plant-u-turn-call-as-community-council-steps-in-to-row-03022017.htm&p=DevEx,5195.1"
+    "headline": "Ancient Goddess Sculpture Discovered Off Turkish Coast", 
+    "id": 91, 
+    "sentiment_magnitude": 0.4, 
+    "sentiment_score": 0.4, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=bUnS2nh_8Qo5JMvpdj9STWLbyiGajD01zXkUp2wmvFw&v=1&r=http%3a%2f%2fwww.archaeology.org%2fnews%2f5219-170123-turkey-goddess-legs&p=DevEx,5185.1"
   }, 
   {
-    "headline": "Government backs Lake District's World Heritage Status bid", 
-    "id": 97, 
-    "sentiment_magnitude": 0.5, 
-    "sentiment_score": 0.5, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=u0QsUJGSUC91yVu13obfPmJU-Alp-c7QYPPlb3-lyGA&v=1&r=http%3a%2f%2fwww.newsandstar.co.uk%2fnews%2flatest%2fGovernment-backs-Lake-Districts-World-Heritage-Status-bid-52752891-abf8-406e-974e-9f3646552463-ds&p=DevEx,5197.1"
+    "headline": "India rest Ashwin, Jadeja for T20s", 
+    "id": 92, 
+    "sentiment_magnitude": 0.2, 
+    "sentiment_score": 0.2, 
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=nq0ZxBkT1fGefif_AYStEuIWT_gQN073A7Sulru5RYI&v=1&r=http%3a%2f%2fwww.supersport.com%2fcricket%2finternational%2fnews%2f170123%2fIndia_rest_Ashwin_Jadeja_for_T20s&p=DevEx,5187.1"
   }, 
   {
-    "headline": "'Weak' white paper fails to protect Cambridge from Brexit damage, says council leader", 
-    "id": 98, 
-    "sentiment_magnitude": 0.6, 
-    "sentiment_score": -0.6, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=YsDpJUWkyr3D5gOzvBPU_0sZ7dbhz81XhEHe7by9L7o&v=1&r=http%3a%2f%2fwww.cambridge-news.co.uk%2fnews%2fcambridge-news%2fweak-white-paper-fails-protect-12550649&p=DevEx,5199.1"
-  }, 
-  {
-    "headline": "Fans slam Brussels plans for EU badge on England football shirts", 
-    "id": 99, 
+    "headline": "Employers responsible for creating innovative cultures, employees believe", 
+    "id": 93, 
     "sentiment_magnitude": 0.6, 
     "sentiment_score": 0.6, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=WcGlTbN79JjUm3E2XIRdOZmEBWjPCS6xSieeaLrGku0&v=1&r=http%3a%2f%2fwww.dailystar.co.uk%2fnews%2flatest-news%2f585052%2fengland-football-shirts-eu-badge-angry-fans-world-cup&p=DevEx,5201.1"
-  }, 
-  {
-    "headline": "Jimmy Returns: \u201cWrexham Fans Are Entitled To Ask Where Our Share Is\u201d \u2013 No Response From Council", 
-    "id": 100, 
-    "sentiment_magnitude": 0, 
-    "sentiment_score": 0, 
-    "url": "http://www.bing.com/cr?IG=06D94A6ADFCD4C35976D7D98A626FEAB&CID=2AC46F325CCA646E2C9A652D5D2D6593&rd=1&h=91O-_uCTA2hf4lf93LtPwIBPzEiTDvZBOs6GPpt6vSY&v=1&r=http%3a%2f%2fwww.wrexham.com%2fnews%2fjimmy-returns-wrexham-fans-are-entitled-to-ask-where-our-share-is-no-response-from-council-126062.html&p=DevEx,5203.1"
+    "url": "http://www.bing.com/cr?IG=7219CD347E714F739E8BCEAEC08610F3&CID=0BD452F0673568DA130D58EF66D269D8&rd=1&h=_kuv27KVCcMTACI7s5Y8kOP88pbjAH_ouf5k8fztnlE&v=1&r=http%3a%2f%2fwww.itproportal.com%2fnews%2femployers-responsible-for-creating-innovative-cultures-employees-believe%2f&p=DevEx,5189.1"
   }
 ]
