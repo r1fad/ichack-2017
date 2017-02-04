@@ -5,7 +5,7 @@ from google.cloud import language
 language_client = language.Client()
 
 # The text to analyze
-text = 'Hello, world!'
+text = 'Facebook loses $500 million Oculus lawsuit'
 document = language_client.document_from_text(text)
 
 # Detects the sentiment of the text
