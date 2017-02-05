@@ -209,13 +209,13 @@ function sendURL(intent, session, callback, payloadURL) {
   var yes_or_no  = intent.slots.getURL.value || '';
   if (yes_or_no == 'yes' && yes_or_no != 'no') {
 
+    callback(session.attributes,
+        buildSpeechletResponseWithoutCard("Texting the article to your "
+         + "mobile phone", "", "true"));
+
     sendSMS('+447729205465',
              payloadURL,
              function (status) { context.done(null, status); });
-
-     callback(session.attributes,
-         buildSpeechletResponseWithoutCard("Texting the article to your "
-          + "mobile phone", "", "true"));
 
   } else if (yes_or_no == 'no') {
     callback(session.attributes,
@@ -287,6 +287,7 @@ function sendSMS(to, body, completedCallback) {
 
     var messageString = queryString.stringify(message);
 
+    console.log(messageString);
     // Options and headers for the HTTP request
     var options = {
         host: 'api.twilio.com',
@@ -334,5 +335,6 @@ function sendSMS(to, body, completedCallback) {
     console.log('Twilio API call: ' + messageString);
     req.write(messageString);
     req.end();
+
 
 }
