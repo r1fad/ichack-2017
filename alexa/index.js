@@ -7,22 +7,18 @@
 
 'use strict';
 
-var client = require('twilio')(process.env.TWILIO_ACCOUNT_SID, process.env.TWILIO_AUTH_TOKEN);
+var accountSid = process.env.TWILIO_ACCOUNT_SID;
+var authToken = process.env.TWILIO_AUTH_TOKEN;
+var fromNumber = '+441278393047';
 
-// Route the incoming request based on type (LaunchRequest, IntentRequest,
-// etc.) The JSON body of the request is provided in the event parameter.
+var https = require('https');
+var queryString = require('querystring');
+
+//var client = require('twilio')(process.env.TWILIO_ACCOUNT_SID, process.env.TWILIO_AUTH_TOKEN);
+
 exports.handler = function (event, context) {
     try {
         console.log("event.session.application.applicationId=" + event.session.application.applicationId);
-
-        /**
-         * Uncomment this if statement and populate with your skill's application ID to
-         * prevent someone else from configuring a skill that sends requests to this function.
-         */
-
-//     if (event.session.application.applicationId !== "amzn1.echo-sdk-ams.app.05aecccb3-1461-48fb-a008-822ddrt6b516") {
-//         context.fail("Invalid Application ID");
-//      }
 
         if (event.session.new) {
             onSessionStarted({requestId: event.request.requestId}, event.session);
@@ -147,18 +143,9 @@ function sendURL(intent, session, callback) {
   var yes_or_no  = intent.slots.getURL.value || '';
 
   if (yes_or_no == 'yes') {
-
-
-     //Send an text message
-     client.messages.create({
-
-         to: '+447849514226', // Any number Twilio can deliver to
-         from: '+441278393047', // A number you bought from Twilio and can use for outbound communication
-         body: 'http://www.telegraph.co.uk/news/2017/02/04/donald-trump-snub-us-president-could-denied-westminster-hall/' // body of the SMS message
-
-     }, function(err, responseData) { //this function is executed when a response is received from Twilio
-         if (!err) {}
-     });
+    sendSMS('+447849514226',
+            'http://www.telegraph.co.uk/news/2017/02/04/donald-trump-snub-us-president-could-denied-westminster-hall/',
+             function (status) { context.done(null, status); })
 
      callback(session.attributes,
          buildSpeechletResponseWithoutCard("Sending the article to your "
@@ -215,4 +202,61 @@ function buildResponse(sessionAttributes, speechletResponse) {
         sessionAttributes: sessionAttributes,
         response: speechletResponse
     };
+}
+
+function sendSMS(to, body, completedCallback) {
+
+    // The SMS message to send
+    var message = {
+        To: to,
+        From: fromNumber,
+        Body: body
+    };
+
+    var messageString = queryString.stringify(message);
+
+    // Options and headers for the HTTP request
+    var options = {
+        host: 'api.twilio.com',
+        port: 443,
+        path: '/2010-04-01/Accounts/' + accountSid + '/Messages.json',
+        method: 'POST',
+        headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                    'Content-Length': Buffer.byteLength(messageString),
+                    'Authorization': 'Basic ' + new Buffer(accountSid + ':' + authToken).toString('base64')
+                 }
+    };
+
+    // Setup the HTTP request
+    var req = https.request(options, function (res) {
+
+        res.setEncoding('utf-8');
+
+        // Collect response data as it comes back.
+        var responseString = '';
+        res.on('data', function (data) {
+            responseString += data;
+        });
+
+        // Log the responce received from Twilio.
+        // Or could use JSON.parse(responseString) here to get at individual properties.
+        res.on('end', function () {
+            console.log('Twilio Response: ' + responseString);
+            completedCallback('API request sent successfully.');
+        });
+    });
+
+    // Handler for HTTP request errors.
+    req.on('error', function (e) {
+        console.error('HTTP error: ' + e.message);
+        completedCallback('API request completed with error(s).');
+    });
+
+    // Send the HTTP request to the Twilio API.
+    // Log the message we are sending to Twilio.
+    console.log('Twilio API call: ' + messageString);
+    req.write(messageString);
+    req.end();
+
 }
