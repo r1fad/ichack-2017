@@ -207,7 +207,7 @@ function handleCategorySelection(intent, session, callback) {
 function sendURL(intent, session, callback, payloadURL) {
 
   var yes_or_no  = intent.slots.getURL.value || '';
-  if (yes_or_no == 'yes') {
+  if (yes_or_no == 'yes' && yes_or_no != 'no') {
 
     sendSMS('+447729205465',
              payloadURL,
@@ -217,7 +217,7 @@ function sendURL(intent, session, callback, payloadURL) {
          buildSpeechletResponseWithoutCard("Texting the article to your "
           + "mobile phone", "", "true"));
 
-  } else {
+  } else if (yes_or_no == 'no') {
     callback(session.attributes,
         buildSpeechletResponseWithoutCard("Okay.", "", "true"));
   }
@@ -280,7 +280,7 @@ function sendSMS(to, body, completedCallback) {
     var message = {
         To: to,
         From: fromNumber,
-        Body: 'Here is the URL you requested: ' + body
+        Body: 'Here is the URL you requested: ' + highestURL
     };
 
     console.log(message);
