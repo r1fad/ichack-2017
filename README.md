@@ -1,4 +1,4 @@
-# ICHack '17
+# Content
 
 Nowadays, the headlines are filled with negativity. There is not a hint of hope in them. We decided to bring a change to headlines you encounter on a daily basis.
 
