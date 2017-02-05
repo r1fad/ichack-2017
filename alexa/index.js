@@ -208,12 +208,14 @@ function sendURL(intent, session, callback, payloadURL) {
 
   var yes_or_no  = intent.slots.getURL.value || '';
   if (yes_or_no == 'yes' && yes_or_no != 'no') {
-
     callback(session.attributes,
         buildSpeechletResponseWithoutCard("Texting the article to your "
          + "mobile phone", "", "true"));
 
-    sendSMS('+447729205465',
+    callback(session.attributes,
+        buildSpeechletResponseWithoutCard("Okay.", "", "true"));
+
+    sendSMS('+447849514226',
              payloadURL,
              function (status) { context.done(null, status); });
 
