@@ -7,17 +7,31 @@
 
 'use strict';
 
-var accountSid = process.env.TWILIO_ACCOUNT_SID;
-var authToken = process.env.TWILIO_AUTH_TOKEN;
+var accountSid = 'AC20f971101ddd13f87ad7b5e2ae7cfd1e';
+var authToken = '98b600043216b92d4a5a85af5fc45a2c';
 var fromNumber = '+441278393047';
 
+var helper = require('sendgrid').mail;
 var https = require('https');
 var queryString = require('querystring');
+var request = require('request');
 
+
+//require all JSONs
+var business = require('./business.json');
+var entertainment = require('./entertainment.json');
+var politics = require('./politics.json');
+var sports = require('./sports.json');
+var technology = require('./technology.json');
+var world = require('./world.json');
+var highestURL = '';
+
+//handleCategorySelection();
 //var client = require('twilio')(process.env.TWILIO_ACCOUNT_SID, process.env.TWILIO_AUTH_TOKEN);
 
 exports.handler = function (event, context) {
     try {
+
         console.log("event.session.application.applicationId=" + event.session.application.applicationId);
 
         if (event.session.new) {
@@ -85,7 +99,7 @@ function onIntent(intentRequest, session, callback) {
     if (intentName == 'GetNews') {
       handleCategorySelection(intent, session, callback);
     } else if (intentName == 'sendURL') {
-      sendURL(intent, session, callback);
+      sendURL(intent, session, callback, highestURL);
     } else {
         throw "Invalid intent";
     }
@@ -114,22 +128,74 @@ function handleCategorySelection(intent, session, callback) {
   var getURL    = intent.slots.getURL.value || '';
 
 
+  //var category = 'world news'
+  //var mood = 'happy'
+
   if (mood == 'sad' || mood == 'bad') {
     callback(session.attributes,
         buildSpeechletResponseWithoutCard("No. Why would you ask that?", "", "true"));
 
   } else if (mood && category) {
     // If mood and category exist
-    callback(session.attributes,
-        buildSpeechletResponseWithoutCard("Yes. Donald Trump snub? "
-         + "US President could be denied Westminster Hall honour given to "
-         + "Barack Obama" + "Would you like to continue reading?", "", "false"));
 
+    // store highest score and id
+    // default 0.7
+    var highestScore = 0.6;
+    var highestIndex;
+
+    var highestHeadline;
+
+    switch (category) {
+      case 'business':
+        var json = business;
+        break;
+      case 'entertainment':
+        var json = entertainment;
+        break;
+      case 'politics':
+        var json = politics;
+        break;
+      case 'sports':
+        var json = sports;
+        break;
+      case 'technology':
+        var json = technology;
+        break;
+      case 'world news':
+        var json = world;
+        break;
+      default:
+        var json = '';
+    }
+
+    var posHeadline = [];
+    for(var i = 0; i<json.length;i++){
+      if (json[i]['sentiment_score'] >= highestScore){
+        posHeadline.push(json[i]);
+      }
+    }
+
+    var randomValue = Math.floor(Math.random()*(posHeadline.length));
+
+    //console.log(randomValue);
+    highestHeadline = posHeadline[randomValue]["headline"] || posHeadline[randomValue]["headLine"]
+    highestURL = posHeadline[randomValue]["url"]
+    console.log(highestURL);
+
+    if (highestHeadline != '') {
+
+      callback(session.attributes,
+          buildSpeechletResponseWithoutCard(highestHeadline
+           + ". Would you like to continue reading?", "", "false"));
+    } else {
+      callback(session.attributes,
+          buildSpeechletResponseWithoutCard("Couldn't find positive articles.", "", "true"));
+    }
   } else if (category == ''){
     // if no category
     callback(session.attributes,
-        buildSpeechletResponseWithoutCard("Please specify the news category: "
-         + "business, politics, technology, or world news.", "", "false"));
+        buildSpeechletResponseWithoutCard("Please specify the news category"
+         + "like business, politics, technology, or world news.", "", "false"));
 
   } else {
     callback(session.attributes,
@@ -138,18 +204,18 @@ function handleCategorySelection(intent, session, callback) {
   }
 }
 
-function sendURL(intent, session, callback) {
+function sendURL(intent, session, callback, payloadURL) {
 
   var yes_or_no  = intent.slots.getURL.value || '';
-
   if (yes_or_no == 'yes') {
-    sendSMS('+447849514226',
-            'http://www.telegraph.co.uk/news/2017/02/04/donald-trump-snub-us-president-could-denied-westminster-hall/',
-             function (status) { context.done(null, status); })
+
+    sendSMS('+447729205465',
+             payloadURL,
+             function (status) { context.done(null, status); });
 
      callback(session.attributes,
-         buildSpeechletResponseWithoutCard("Sending the article to your "
-          + "mobile", "", "true"));
+         buildSpeechletResponseWithoutCard("Texting the article to your "
+          + "mobile phone", "", "true"));
 
   } else {
     callback(session.attributes,
@@ -204,14 +270,20 @@ function buildResponse(sessionAttributes, speechletResponse) {
     };
 }
 
+
+
 function sendSMS(to, body, completedCallback) {
+
+
 
     // The SMS message to send
     var message = {
         To: to,
         From: fromNumber,
-        Body: body
+        Body: 'Here is the URL you requested: ' + body
     };
+
+    console.log(message);
 
     var messageString = queryString.stringify(message);
 
@@ -219,7 +291,7 @@ function sendSMS(to, body, completedCallback) {
     var options = {
         host: 'api.twilio.com',
         port: 443,
-        path: '/2010-04-01/Accounts/' + accountSid + '/Messages.json',
+        path: '/2010-04-01/Accounts/' + accountSid + '/Messages',
         method: 'POST',
         headers: {
                     'Content-Type': 'application/x-www-form-urlencoded',
@@ -245,6 +317,10 @@ function sendSMS(to, body, completedCallback) {
             console.log('Twilio Response: ' + responseString);
             completedCallback('API request sent successfully.');
         });
+
+        res.on('error', function(err){
+          console.log(err);
+        })
     });
 
     // Handler for HTTP request errors.

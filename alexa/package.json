@@ -17,8 +17,11 @@
     "deprecate": "^0.1.0",
     "jsonwebtoken": "5.4.x",
     "q": "0.9.7",
-    "request": "2.74.x",
+    "querystring": "^0.2.0",
+    "request": "^2.74.0",
+    "requestify": "^0.2.5",
     "scmp": "0.0.3",
+    "sendgrid": "^4.7.1",
     "string.prototype.startswith": "^0.2.0",
     "underscore": "1.x"
   },
