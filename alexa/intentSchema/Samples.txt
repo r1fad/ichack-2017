@@ -1,0 +1,12 @@
+GetNews is there anything {mood} in {category} today
+GetNews is there anything {mood} about {category} today
+GetNews if there is anything {mood} about {category} today
+GetNews is there anything {mood} today
+GetNews {category}
+GetNews what is {mood} about {category} today
+GetNews what is {mood} about it
+sendURL {getURL}
+sendURL {getURL} I want to read it on my phone
+sendURL {getURL} I would like to read it on my phone
+sendURL {getURL} thanks
+sendURL {getURL} please
